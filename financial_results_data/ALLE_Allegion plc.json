@@ -1,0 +1,292 @@
+[
+  {
+    "company_name": "Allegion plc",
+    "symbol": "ALLE",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-3.2%",
+      "outlook_summary": "Solid start to 2024 with stable institutional market demand expected throughout the year."
+    },
+    "executives": [
+      {
+        "name": "John Stone",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Wagnes",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Joshua Pokrzywinski",
+        "role": "Host",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Electronics",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "high single-digit to low double-digit growth",
+        "mentioned_by": "Mike Wagnes"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-25 08:00:00"
+  },
+  {
+    "company_name": "Allegion plc",
+    "symbol": "ALLE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "record Q2 revenue",
+      "eps_change": "record earnings per share results",
+      "rd_investment_change": "accelerating capital deployment for the benefit of our shareholders, which supports our higher outlook for 2024",
+      "outlook_summary": "raising our full year guidance for reported revenue and adjusted earnings per share, and we are affirming our available cash flow outlook."
+    },
+    "executives": [
+      {
+        "name": "John Stone",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Wagnes",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Josh Pokrzywinski",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "electronics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "up 30% over the last two years",
+        "revenue_impact": "strong demand",
+        "mentioned_by": "John Stone"
+      },
+      {
+        "technology_name": "mobile credentials",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "increasing both the security of the access point, as well as the convenience",
+        "mentioned_by": "John Stone"
+      },
+      {
+        "technology_name": "digital credentials",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "increasing both the security of the access point, as well as the convenience",
+        "mentioned_by": "John Stone"
+      },
+      {
+        "technology_name": "digital identities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "increasing both the security of the access point, as well as the convenience",
+        "mentioned_by": "John Stone"
+      },
+      {
+        "technology_name": "Schlage indication solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Stone"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-24 08:00:00"
+  },
+  {
+    "company_name": "Allegion plc",
+    "symbol": "ALLE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "Not explicitly stated, but commentary suggests stable markets and strong execution driving revenue growth",
+      "eps_change": "Positive, with expectation of accretive EPS from capital deployment and M&A",
+      "rd_investment_change": "Not explicitly stated, but implied ongoing investment in business units and M&A",
+      "outlook_summary": "Expects moderate growth in 2025, driven by continued strong execution and moderate comparisons internationally. Residential markets in Americas expected to grow. Focus on capital deployment for EPS growth."
+    },
+    "executives": [
+      {
+        "name": "John Stone",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Wagnes",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Josh Pokrzywinski",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "SOSS acquisition",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Accretive to EPS in 2025",
+        "mentioned_by": "John Stone"
+      },
+      {
+        "technology_name": "Invisible hinges",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Complements core mechanical portfolio",
+        "mentioned_by": "John Stone"
+      },
+      {
+        "technology_name": "Mechanical portfolio",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Complemented by SOSS acquisition",
+        "mentioned_by": "John Stone"
+      },
+      {
+        "technology_name": "Security and access",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Core business area",
+        "mentioned_by": "John Stone"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-24 08:00:00"
+  },
+  {
+    "company_name": "Allegion plc",
+    "symbol": "ALLE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "mid-single-digit organically",
+      "outlook_summary": "Expects 2025 to be another opportunity for growth, with a disciplined approach to capital deployment. Guidance includes current tariffs on China imports and anticipates pricing actions for potential Mexico tariffs. Does not account for further acquisitions beyond Next Door Company and Lemaar.",
+      "eps_change": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Josh Pokrzywinski",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Stone",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Wagnes",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "mobile credentials",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Stone"
+      },
+      {
+        "technology_name": "Wear OS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Stone"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "electromechanical products",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Stone"
+      },
+      {
+        "technology_name": "Electronics",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "low-single-digits",
+        "mentioned_by": "Mike Wagnes"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-18 08:00:00"
+  }
+]

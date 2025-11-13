@@ -1,0 +1,354 @@
+[
+  {
+    "company_name": "APA Corporation",
+    "symbol": "APA",
+    "overall_sentiment": "positive",
+    "financials": {
+      "net_income": "$132 million",
+      "eps": "$0.44",
+      "synergies_revision": "from $150 million up to $225 million",
+      "overhead_synergies_revision": "from $55 million to $70 million",
+      "capital_investment": "$568 million (below guidance)",
+      "capital_program_2024": "$2.7 billion",
+      "outlook_summary": "Integrating Callon acquisition over next couple of quarters; expecting good picture of Callon asset potential by Q4. Permian performing extremely well. Committed to returning 60% to shareholders, leaning in during weakness, and using remaining 40% for debt reduction. Targeting non-core asset sales for debt reduction."
+    },
+    "executives": [
+      {
+        "name": "Gary Clark",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Christmann",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Stephen Riney",
+        "role": "President and CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Tracey Henderson",
+        "role": "Executive Vice President of Exploration",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Clay Bretches",
+        "role": "Executive Vice President of Operations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Permian Gas Play",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Neal Dingmann"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Alaska Exploration",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Workflows",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 11:00:00"
+  },
+  {
+    "company_name": "APA Corporation",
+    "symbol": "APA",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Full year 2024 guidance reflects first quarter APA results on a standalone basis, plus three-quarters of APA and Callon combined. Increased estimate of annual Callon cost synergies from $225 million to $250 million. U.S. oil production guidance increased to 150,000 barrels per day for Q4, representing organic production growth of roughly 8% compared to Q2. Egypt and North Sea guidance unchanged. Expects backlogged oil production in Egypt to be closer to normalized operating levels by year-end.",
+      "revenue_growth": "N/A",
+      "eps_change": "N/A",
+      "rd_investment_change": "N/A"
+    },
+    "executives": [
+      {
+        "name": "Gary Clark",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Christmann",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steve Riney",
+        "role": "President and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Tracy Henderson",
+        "role": "Executive Vice President of Exploration",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Clay Bretches",
+        "role": "Executive Vice President of Operations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Water Injection",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Drilling Rig Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Workover Rig Resources",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Completion Redesign",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Scott Gruber"
+      },
+      {
+        "technology_name": "Drilling Unit Design",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 11:00:00"
+  },
+  {
+    "company_name": "APA Corporation",
+    "symbol": "APA",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Focus on sustaining core business, reducing costs, and generating free cash flow in 2025, with plans for 8 rigs in Permian and 12 in Egypt to sustain oil volumes at reduced capital levels. Full year capital budget increased to $2.75 billion due to Suriname development, Alaska exploration, and additional Egypt rig, partially offset by Permian rig reduction. Raising full year estimate for income from third-party oil and gas purchased and sold to $500 million due to weak Waha pricing. Most of $250 million Callon synergy target to be realized by year-end, with full realization anticipated through 2025."
+    },
+    "executives": [
+      {
+        "name": "Gary Clark",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Christmann",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steve Riney",
+        "role": "President and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Tracy Henderson",
+        "role": "Executive Vice President of Exploration",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Clay Bretches",
+        "role": "Executive Vice President of Operations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Permian unconventional",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Gas program",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Offshore exploration",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Natural gas",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Oil development",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Gas trading",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "+500M USD",
+        "mentioned_by": "Steve Riney"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-07 11:00:00"
+  },
+  {
+    "company_name": "APA Corporation",
+    "symbol": "APA",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "The company anticipates 2025 to be a strong year, similar to 2024, with a path to meaningful free cash flow growth between 2025-2027, followed by a significant step-change in free cash flow after 2028 with first oil from Suriname."
+    },
+    "executives": [
+      {
+        "name": "Ben Rogers",
+        "role": "Senior Vice President of Finance and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Christmann",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steve Riney",
+        "role": "President and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Tracy Henderson",
+        "role": "Executive Vice President of Exploration",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Clay Bretches",
+        "role": "Executive Vice President of Operations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Gas Trading",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "490M USD",
+        "revenue_impact": "nearly half a billion dollars",
+        "mentioned_by": "John Christmann"
+      },
+      {
+        "technology_name": "Water Flood Activities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "more predictable oil production profile",
+        "mentioned_by": "John Christmann"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-27 11:00:00"
+  }
+]

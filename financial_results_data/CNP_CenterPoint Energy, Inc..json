@@ -1,0 +1,272 @@
+[
+  {
+    "company_name": "CenterPoint Energy, Inc.",
+    "symbol": "CNP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Plans for continued long-term growth with an EPS guidance of 8% in 2024 and 6%-8% through 2030. The company is conservatively planning for 2024 and emphasizes a consistent approach to avoid surprises. Expects to grow into a greater cushion at S&P over the next few years as the transitory Uri impact rolls off.",
+      "revenue_growth": "+8%",
+      "eps_change": "8% in 2024, 6%-8% through 2030"
+    },
+    "executives": [
+      {
+        "name": "Jason Wells",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christopher Foster",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jackie Richert",
+        "role": "Senior Vice President of Corporate Planning, Investor Relations and Trustee",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Wildfire Mitigation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "$140 million",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeremy Tonet"
+      },
+      {
+        "technology_name": "System Resiliency",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "$2.2 billion to $2.7 billion",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Thalacker"
+      },
+      {
+        "technology_name": "Electric Load Growth",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 8%",
+        "mentioned_by": "Christopher Foster"
+      },
+      {
+        "technology_name": "Electrification",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher Foster"
+      },
+      {
+        "technology_name": "Hydrogen Hub",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steven Fleishman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-30 08:00:00"
+  },
+  {
+    "company_name": "CenterPoint Energy, Inc.",
+    "symbol": "CNP",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Focus remains on maintaining current credit metrics despite storm impacts. Planning to pull forward $250 million of equity from 2025 into 2024. Anticipates closing sale of Louisiana and Mississippi gas LDCs in Q1 2025, expecting approximately $1 billion in after-tax proceeds.",
+      "eps_change": "unclear",
+      "revenue_growth": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Jackie Richert",
+        "role": "Senior Vice President of Corporate Planning Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jason Wells",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris Foster",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Undergrounding",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Wells"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-30 08:00:00"
+  },
+  {
+    "company_name": "CenterPoint Energy, Inc.",
+    "symbol": "CNP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Reaffirmed 2024 guidance despite $0.11 O&M drag in Q3, with expected offsets in Q4 and continued confidence for the year.",
+      "eps_change": "unclear",
+      "revenue_growth": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Jason Wells",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jackie Richert",
+        "role": "Senior Vice President of Corporate Planning, Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris Foster",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Segmentation and Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Wells"
+      },
+      {
+        "technology_name": "Vegetation Management",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Foster"
+      },
+      {
+        "technology_name": "Data Centers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "significant increase in demand",
+        "mentioned_by": "Jason Wells"
+      },
+      {
+        "technology_name": "AI-driven Data Centers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "dramatic increase in demand",
+        "mentioned_by": "Jason Wells"
+      },
+      {
+        "technology_name": "Transmission Lines",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "increased investment expected",
+        "mentioned_by": "Jason Wells"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-28 08:00:00"
+  },
+  {
+    "company_name": "CenterPoint Energy, Inc.",
+    "symbol": "CNP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_2024_GAAP": "$1.58",
+      "eps_Q4_2024_GAAP": "$0.38",
+      "outlook_summary": "Met or exceeded financial guidance for the fourth consecutive year, placing them in the top decile within their utility peer group. Strong foundation for 2025 and beyond with a comprehensive plan for grid resilience and CapEx growth."
+    },
+    "executives": [
+      {
+        "name": "Jackie Richert",
+        "role": "Senior Vice President of Corporate Planning, Investor relations and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jason Wells",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Foster",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Grid Resilience",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "$500 million",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Wells"
+      },
+      {
+        "technology_name": "Automated Devices",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "reduces O&M",
+        "mentioned_by": "Chris Foster"
+      },
+      {
+        "technology_name": "IT Systems",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "reduces O&M",
+        "mentioned_by": "Chris Foster"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-20 08:00:00"
+  }
+]

@@ -1,0 +1,285 @@
+[
+  {
+    "company_name": "Automatic Data Processing, Inc.",
+    "symbol": "ADP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "7%",
+      "eps_change": "12%",
+      "outlook_summary": "Demand environment for PEO and other outsourcing services remains healthy. International pipeline year-on-year is higher, indicating healthy international bookings through fiscal '24."
+    },
+    "executives": [
+      {
+        "name": "Danyal Hussain",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Maria Black",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Don McGuire",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Gen AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "ADP Assist",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "Next-generation HCM",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "Next Gen Payroll",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2023-10-25 08:30:00"
+  },
+  {
+    "company_name": "Automatic Data Processing, Inc.",
+    "symbol": "ADP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+6%",
+      "eps_change": "+9%",
+      "outlook_summary": "Maintains full-year outlook with potential pressure in the back half due to out-of-business and bankruptcies, balanced by strong bookings momentum and stabilizing pays per control."
+    },
+    "executives": [
+      {
+        "name": "Danny Hussain",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Maria Black",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Don McGuire",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "GenAI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "HCM",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "incremental investment",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Faucette"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-01-31 08:30:00"
+  },
+  {
+    "company_name": "Automatic Data Processing, Inc.",
+    "symbol": "ADP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "7%",
+      "eps_change": "14%",
+      "outlook_summary": "On track for full-year outlook, expecting continued tailwind from interest rates. Planning to continue growing GenAI spend next year, which may cause overall margin pressure."
+    },
+    "executives": [
+      {
+        "name": "Danny Hussain",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Maria Black",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Don McGuire",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "GenAI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "growing spend next year",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "next-gen payroll",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "driving growth",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "Celergo",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "GlobalView",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-05-01 08:30:00"
+  },
+  {
+    "company_name": "Automatic Data Processing, Inc.",
+    "symbol": "ADP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "7% (FY24)",
+      "eps_change": "12% (FY24)",
+      "outlook_summary": "Expects consolidated revenue growth of 5% to 6% and adjusted EBIT margin expansion of 60 to 80 basis points in fiscal 2025. Adjusted EPS growth of 8% to 10% supported by buybacks."
+    },
+    "executives": [
+      {
+        "name": "Don McGuire",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Maria Black",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matthew Keating",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michelle",
+        "role": "Conference Operator",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "ADP Assist",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "HCM solution",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      },
+      {
+        "technology_name": "next-gen HCM",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Maria Black"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-07-31 08:30:00"
+  }
+]

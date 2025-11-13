@@ -1,0 +1,715 @@
+[
+  {
+    "company_name": "AbbVie Inc.",
+    "symbol": "ABBV",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": null,
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "Forecasting adjusted gross margin of approx 84%, adjusted R&D of 14%, adjusted SG&A of 23.5%, and adjusted operating margin of 46.5% for 2024. Expects Q2 net revenues of approx $14 billion with US Humira erosion of approx 32%. Forecasts Q2 adjusted operating margin of approx 49.5% and a non-GAAP tax rate of 16.4%. Expects Q2 adjusted EPS between $3.05 and $3.09.",
+      "revenue_2024_forecast": "$55 billion",
+      "market_cap_increase": "from $54 billion to $300 billion",
+      "total_shareholder_return": "more than 675%"
+    },
+    "executives": [
+      {
+        "name": "Rick Gonzalez",
+        "role": "Chairman of the Board and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rob Michael",
+        "role": "President and Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Liz Shea",
+        "role": "Senior Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Carrie Strom",
+        "role": "Senior Vice President, AbbVie and President, Global Allergan Aesthetics",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Scott Reents",
+        "role": "Executive Vice President, Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jeff Stewart",
+        "role": "Executive Vice President, Chief Commercial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Roopal Thakkar",
+        "role": "Senior Vice President, Chief Medical Officer, Global Therapeutics",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Tom Hudson",
+        "role": "Senior Vice President, Chief Scientific Officer, Global Research",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Humira",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "32% erosion in U.S.",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "Allergan Aesthetics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "ImmunoGen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "Cerevel",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "Elahere",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong uptake expected",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "Epkinly",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "performing well",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "Neuroscience",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "nearly $2 billion in revenue, up 16%",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "Vraylar",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "$694 million global sales",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "Ubrelvy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "$203 million total revenue",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "Qulipta",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "$131 million global sales",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "Botox Therapeutic",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "$748 million global sales, up 4.5%",
+        "mentioned_by": "Rick Gonzalez"
+      },
+      {
+        "technology_name": "951",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "potentially transformative",
+        "mentioned_by": "Rick Gonzalez"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-26 09:00:00"
+  },
+  {
+    "company_name": "AbbVie Inc.",
+    "symbol": "ABBV",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects net revenues of approximately $14.2 billion for Q3, with a 1.3% unfavorable impact from foreign exchange. Adjusted EPS expected between $2.92 and $2.96. Full year adjusted gross margin forecast at 84%, adjusted R&D at 14%, adjusted SG&A at 23.5%, and adjusted operating margin at 44.5%. Non-GAAP tax rate forecast at 16.3%. Total sales guidance for Botox and Juvederm each lowered by $100 million due to China."
+    },
+    "executives": [
+      {
+        "name": "Liz Shea",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rob Michael",
+        "role": "Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jeff Stewart",
+        "role": "Executive Vice President, Chief Commercial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Roopal Thakkar",
+        "role": "Executive Vice President, Research and Development, Chief Scientific Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Scott Reents",
+        "role": "Executive Vice President, Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Carrie Strom",
+        "role": "Senior Vice President, AbbVie and President, Global Allergan Aesthetics",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Immunology",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Stewart"
+      },
+      {
+        "technology_name": "Aesthetics",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "-100M USD",
+        "mentioned_by": "Terence Flynn"
+      },
+      {
+        "technology_name": "Rinvoq",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong volume and share capture",
+        "mentioned_by": "Jeff Stewart"
+      },
+      {
+        "technology_name": "Skyrizi",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong volume and share capture",
+        "mentioned_by": "Jeff Stewart"
+      },
+      {
+        "technology_name": "Humira",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "lower access due to biosimilars",
+        "mentioned_by": "Jeff Stewart"
+      },
+      {
+        "technology_name": "Botox",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "-100M USD",
+        "mentioned_by": "Scott Reents"
+      },
+      {
+        "technology_name": "Juvederm",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "-100M USD",
+        "mentioned_by": "Scott Reents"
+      },
+      {
+        "technology_name": "Cerevel",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Carter Gould"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-25 09:00:00"
+  },
+  {
+    "company_name": "AbbVie Inc.",
+    "symbol": "ABBV",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "positive",
+      "eps_change": "positive",
+      "outlook_summary": "Mid-single-digit topline growth expected for next year, with positive trends from Humira volume shifts to Skyrizi and Rinvoq."
+    },
+    "executives": [
+      {
+        "name": "Liz Shea",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rob Michael",
+        "role": "Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jeff Stewart",
+        "role": "Executive Vice President, Chief Commercial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Roopal Thakkar",
+        "role": "Executive Vice President, Research and Development, Chief Scientific Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Scott Reents",
+        "role": "Executive Vice President, Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Carrie Strom",
+        "role": "Senior Vice President, AbbVie and President, Global Allergan Aesthetics",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Vyalev",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "Botox",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "Teliso-V",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "Skyrizi",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "Cerevel",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "Gilgamesh",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "oral CGRPs",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "davapidone",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "Aliada",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "ALS",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "MS",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert A. Michael"
+      },
+      {
+        "technology_name": "emraclidine",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Scala"
+      },
+      {
+        "technology_name": "Humira",
+        "technology_sentiment": "negative",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "negative",
+        "mentioned_by": "Jeffrey R. Stewart"
+      },
+      {
+        "technology_name": "Rinvoq",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Jeffrey R. Stewart"
+      },
+      {
+        "technology_name": "Entyvio",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mohit Bansal"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-30 09:00:00"
+  },
+  {
+    "company_name": "AbbVie Inc.",
+    "symbol": "ABBV",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "-4.4%",
+      "eps_change": "between $2.47 and $2.51",
+      "rd_investment_change": "N/A",
+      "outlook_summary": "Expects robust growth in 2025 and beyond, with aesthetics expected to deliver high single-digit CAGR through 2029.",
+      "free_cash_flow_2025": "$17 billion",
+      "debt_repayment_target": "$3 billion"
+    },
+    "executives": [
+      {
+        "name": "Liz Shea",
+        "role": "Senior Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rob Michael",
+        "role": "Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jeff Stewart",
+        "role": "Executive Vice President, Chief Commercial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Roopal Thakkar",
+        "role": "Executive Vice President, Research & Development, Chief Scientific Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Scott Reents",
+        "role": "Executive Vice President, Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Carrie Strom",
+        "role": "Senior Vice President, AbbVie, and President, Global Allergan Aesthetics",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Aesthetics",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "N/A",
+        "mentioned_by": "Rob Michael"
+      },
+      {
+        "technology_name": "Fillers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+/-",
+        "mentioned_by": "Jeff Stewart"
+      },
+      {
+        "technology_name": "Toxins",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+/-",
+        "mentioned_by": "Jeff Stewart"
+      },
+      {
+        "technology_name": "BoNT/E",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Jeff Stewart"
+      },
+      {
+        "technology_name": "Skyrizi",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "Rinvoq",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "Venclexta",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "Elahere",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "Teliso-V",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "400",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "383",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "Epkinly",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "Vyalev",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "Botox",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "Juvéderm",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      },
+      {
+        "technology_name": "Tavapadon",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Roopal Thakkar"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-31 03:00:00"
+  }
+]

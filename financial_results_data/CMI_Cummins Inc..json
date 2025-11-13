@@ -1,0 +1,475 @@
+[
+  {
+    "company_name": "Cummins Inc.",
+    "symbol": "CMI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "-1%",
+      "outlook_summary": "Raised full year expectations for 2024 after adjusting for the separation of Atmus.",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Jennifer Rumsey",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mark Smith",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Clulow",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Data Center",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Battery JV",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mark Smith"
+      },
+      {
+        "technology_name": "HELM engine platforms",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Hydrogen trucks",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Noah Kaye"
+      },
+      {
+        "technology_name": "Hydrogen fuel cell",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Noah Kaye"
+      },
+      {
+        "technology_name": "X15 diesel engine",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Angel Castillo Malpica"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 10:00:00"
+  },
+  {
+    "company_name": "Cummins Inc.",
+    "symbol": "CMI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "down 3% to flat",
+      "eps_change": "benefited from a lower number of shares outstanding",
+      "rd_investment_change": "investing for future growth",
+      "outlook_summary": "Raising guidance on sales to down 3% to flat and raising EBITDA guidance to 15% to 15.5%, anticipating softening in North America heavy-duty market in the second half of the year."
+    },
+    "executives": [
+      {
+        "name": "Jennifer Rumsey",
+        "role": "Chair and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mark Smith",
+        "role": "Vice President and CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Clulow",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Battery Electric Powertrain",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Lithium-ion Phosphate (LFP) Battery Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Amplify Cell Technologies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Battery Cell Production",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Accelera by Cummins",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Energy Transition",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "impacting revenues",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "e-mobility",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "impacting revenues",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "electrolyzer",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "impacting revenues",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Destination Zero strategy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 10:00:00"
+  },
+  {
+    "company_name": "Cummins Inc.",
+    "symbol": "CMI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "down 3% to flat",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Maintaining guidance on sales of down 3% to flat and improving EBITDA guidance to approximately 15.5%. Expecting moderation in some markets in Q4, particularly North America heavy-duty truck. Capital investments in the range of $1.2 billion to $1.3 billion.",
+      "ebitda_guidance": "approximately 15.5%"
+    },
+    "executives": [
+      {
+        "name": "Jennifer Rumsey",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mark Smith",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Clulow",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Natural Gas Engine",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "X15N natural gas engine",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Helm platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Destination Zero strategy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Clean Power Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "e-components",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Accelera",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Electrolyzers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "500 megawatts per year",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-05 10:00:00"
+  },
+  {
+    "company_name": "Cummins Inc.",
+    "symbol": "CMI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "Record year for revenues in 2024. Q4 revenues down 1% year-over-year. Expects global power generation revenues to increase 5% to 15% in 2025. Accelera sales expected to be $400 million to $450 million in 2025.",
+      "eps_change": "Record year for earnings per share in 2024. Expects to improve profitability in 2025.",
+      "rd_investment_change": "Investing $200 million across U.S., England, and India manufacturing sites for power generation capacity. Pacing and refocusing investments on most promising paths for zero-emission solutions.",
+      "outlook_summary": "Expects industry demand for trucks to be down 5% to up 5% for the year. Global construction flat to down 10%. Power generation markets expected to remain strong. Aftermarket revenue improvement expected. Anticipates slightly weaker demand in North America on-highway truck markets in H1 2025, offset by strength in power generation and Distribution business. Expects to improve profitability and cash flow despite flat revenue forecast."
+    },
+    "executives": [
+      {
+        "name": "Jennifer Rumsey",
+        "role": "Chair and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mark Smith",
+        "role": "Vice President and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris Clulow",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "HELM engine platform",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Advanced diesel",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Natural gas engines",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Hydrogen engines",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Generator sets",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "200 million USD",
+        "revenue_impact": "increase 5% to 15%",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Data centers",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "increase 5% to 15%",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Zero emissions technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Electric commercial vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Battery cell production",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Rumsey"
+      },
+      {
+        "technology_name": "Accelera",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "400 million to 450 million USD",
+        "mentioned_by": "Jennifer Rumsey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-04 10:52:00"
+  }
+]

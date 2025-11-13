@@ -1,0 +1,337 @@
+[
+  {
+    "company_name": "Agilent Technologies, Inc.",
+    "symbol": "A",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-6.4%",
+      "eps_change": "-6%",
+      "outlook_summary": "Maintaining full year outlook due to solid Q1 results and expectation of slow but steady recovery throughout the year."
+    },
+    "executives": [
+      {
+        "name": "Mike McMullen",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Padraig McDonnell",
+        "role": "Chief Operating Officer and CEO-elect",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robert McMahon",
+        "role": "Senior Vice President and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Parmeet Ahuja",
+        "role": "Host",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Phil Binns",
+        "role": "President of the Agilent Life Science and Applied Markets Group",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Angelica Riemann",
+        "role": "President of the Agilent CrossLab Group",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "PFAS Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike McMullen"
+      },
+      {
+        "technology_name": "Advanced Materials",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike McMullen"
+      },
+      {
+        "technology_name": "Batteries",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike McMullen"
+      },
+      {
+        "technology_name": "Semiconductors",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike McMullen"
+      },
+      {
+        "technology_name": "LC/MS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike McMullen"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-02-27 16:30:00"
+  },
+  {
+    "company_name": "Agilent Technologies, Inc.",
+    "symbol": "A",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "decline between 4.3% and 5.4%",
+      "eps_change": "between $5.15 and $5.25",
+      "rd_investment_change": "incremental annualized savings of $100 million",
+      "outlook_summary": "reducing market growth expectations and revising full year core revenue and EPS guidance downwards."
+    },
+    "executives": [
+      {
+        "name": "Parmeet Ahuja",
+        "role": "Host",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Padraig McDonnell",
+        "role": "President and CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bob McMahon",
+        "role": "Senior Vice President and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Phil Binns",
+        "role": "President of the Agilent Life Sciences and Applied Markets Group",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Simon May",
+        "role": "President of the Agilent Diagnostics and Genomics Group",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Angelica Riemann",
+        "role": "President of the Agilent CrossLab Group",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Biopharma",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Padraig McDonnell"
+      },
+      {
+        "technology_name": "PFAS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Padraig McDonnell"
+      },
+      {
+        "technology_name": "Advanced Materials",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Padraig McDonnell"
+      },
+      {
+        "technology_name": "digital ecosystem",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Padraig McDonnell"
+      },
+      {
+        "technology_name": "7010D GC/Triple Quad instrument",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Padraig McDonnell"
+      },
+      {
+        "technology_name": "NASD",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bob McMahon"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-05-29 16:30:00"
+  },
+  {
+    "company_name": "Agilent Technologies, Inc.",
+    "symbol": "A",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "down 7% (LSAG), up mid-single digit (ACG)",
+      "eps_change": "raised the midpoint by $0.03",
+      "outlook_summary": "Expects all challenged markets to improve next year, Q4 revenue in the range of $1.641 billion to $1.691 billion, Q4 non-GAAP EPS between $1.38 and $1.42."
+    },
+    "executives": [
+      {
+        "name": "Padraig McDonnell",
+        "role": "President and CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bob McMahon",
+        "role": "Senior Vice President and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Parmeet Ahuja",
+        "role": "not specified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Phil Binns",
+        "role": "President of the Agilent Life Sciences and Applied Markets Group",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Simon May",
+        "role": "President of the Agilent Diagnostics and Genomics Group",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Angelica Riemann",
+        "role": "President of the Agilent CrossLab Group",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "PFAS",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong performance",
+        "mentioned_by": "Padraig McDonnell"
+      },
+      {
+        "technology_name": "8850 GC",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "uses up to 30% less power",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Padraig McDonnell"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-08-21 16:30:00"
+  },
+  {
+    "company_name": "Agilent Technologies, Inc.",
+    "symbol": "A",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-0.3%",
+      "eps_change": "exceeded expectations",
+      "rd_investment_change": null,
+      "outlook_summary": "Expecting continued recovery throughout fiscal year 2025 with a more normalized growth in the back half of the year, potentially driven by improvements in China and the pharma sector, particularly with Infinity 3."
+    },
+    "executives": [
+      {
+        "name": "Bob McMahon",
+        "role": "Senior Vice President and CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Padraig McDonnell",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Parmeet Ahuja",
+        "role": "not specified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Phil Binns",
+        "role": "President of the former Life Sciences and Applied Markets Group",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Simon May",
+        "role": "President of the newly formed Life Sciences and Diagnostic Markets Group",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Angelica Riemann",
+        "role": "President of the expanded Agilent CrossLab Group",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mike Zhang",
+        "role": "President of the newly formed Applied Markets Group",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Infinity 3",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "expected to accelerate replacement cycle",
+        "mentioned_by": "Padraig McDonnell"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-11-25 16:30:00"
+  }
+]

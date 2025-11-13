@@ -1,0 +1,459 @@
+[
+  {
+    "company_name": "Bristol-Myers Squibb Company",
+    "symbol": "BMY",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Business outlook unchanged from the beginning of the year. Expects to double paid prescriptions for SOTYKTU to 20,000 in Q4. Discussed potential impact of IRA on Eliquis on top-line and EPS, with more clarity expected in September. Anticipates a step down in PD-1 and diabetes related income. Pleased with Camzyos performance and acceleration in new patient starts, offset by inventory work down and gross to net impact."
+    },
+    "executives": [
+      {
+        "name": "Christopher Boerner",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Elkins",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Adam Lenkowsky",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Samit Hirawat",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ivy",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Krazati",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Elkins"
+      },
+      {
+        "technology_name": "Mirati",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Elkins"
+      },
+      {
+        "technology_name": "RayzeBio",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Lenkowsky"
+      },
+      {
+        "technology_name": "KarXT",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Siyue Wang"
+      },
+      {
+        "technology_name": "Camzyos",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Carter L. Gould"
+      },
+      {
+        "technology_name": "Eliquis",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Scala"
+      },
+      {
+        "technology_name": "SOTYKTU",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher Boerner"
+      },
+      {
+        "technology_name": "Abecma",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Lenkowsky"
+      },
+      {
+        "technology_name": "Opdualag",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Matthew Phipps"
+      },
+      {
+        "technology_name": "Opdivo",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Scala"
+      },
+      {
+        "technology_name": "KRYSTAL-12",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Samit Hirawat"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-25 08:00:00"
+  },
+  {
+    "company_name": "Bristol-Myers Squibb Company",
+    "symbol": "BMY",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "18%",
+      "outlook_summary": "Raising full-year outlook due to strong execution and portfolio performance. Expects strong growth in Q4, with Revlimid sales at the higher end of the guidance range. Growth portfolio now represents 46% of the business."
+    },
+    "executives": [
+      {
+        "name": "Tim Power",
+        "role": "Vice President, Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris Boerner",
+        "role": "Board Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Elkins",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam Lenkowsky",
+        "role": "Chief Commercialization Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Samit Hirawat",
+        "role": "Chief Medical Officer and Head of Global Drug Development",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "neuroscience platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Boerner"
+      },
+      {
+        "technology_name": "KarXT",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Boerner"
+      },
+      {
+        "technology_name": "immuno-oncology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Elkins"
+      },
+      {
+        "technology_name": "Opdivo",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "mid-single-digit range",
+        "mentioned_by": "David Elkins"
+      },
+      {
+        "technology_name": "Opdualag",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "David Elkins"
+      },
+      {
+        "technology_name": "Breyanzi",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Elkins"
+      },
+      {
+        "technology_name": "Camzyos",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Elkins"
+      },
+      {
+        "technology_name": "Reblozyl",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Elkins"
+      },
+      {
+        "technology_name": "Sotyktu",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Elkins"
+      },
+      {
+        "technology_name": "Krazati",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Boerner"
+      },
+      {
+        "technology_name": "Augtyro",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Boerner"
+      },
+      {
+        "technology_name": "subcutaneous formulation of nivolumab",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Boerner"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-26 08:00:00"
+  },
+  {
+    "company_name": "Bristol-Myers Squibb Company",
+    "symbol": "BMY",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "significantly higher sales across key growth brands",
+      "eps_change": "$1.80",
+      "rd_investment_change": "Reinvesting in high potential opportunities",
+      "outlook_summary": "raised full year guidance and increased confidence in ability to drive long-term sustainable growth"
+    },
+    "executives": [
+      {
+        "name": "Chuck Triano",
+        "role": "Senior Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris Boerner",
+        "role": "Board Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Elkins",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Adam Lenkowsky",
+        "role": "Chief Commercialization Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Samit Hirawat",
+        "role": "Chief Medical Officer and Head of Global Drug Development",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "neuroscience",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Boerner"
+      },
+      {
+        "technology_name": "Cobenfy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "important growth driver",
+        "mentioned_by": "Chris Boerner"
+      },
+      {
+        "technology_name": "Karuna acquisition",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Boerner"
+      },
+      {
+        "technology_name": "Sotyktu",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "nearly doubled",
+        "mentioned_by": "David Elkins"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 08:00:00"
+  },
+  {
+    "company_name": "Bristol-Myers Squibb Company",
+    "symbol": "BMY",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "up 8% (excluding in-process R&D)",
+      "outlook_summary": "Expects Q1 to be impacted by inventory destocking and Medicare Part D redesign pressures, with gradual revenue increase for Eliquis in remaining quarters. Full company revenue dynamics to normalize beginning Q2, with H2 revenues higher than H1. Expanded strategic productivity initiative to yield $2B in incremental run rate operating expense savings, with $1B in 2025 and the remainder by end of 2027."
+    },
+    "executives": [
+      {
+        "name": "Chris Boerner",
+        "role": "Board Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Elkins",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam Lenkowsky",
+        "role": "Chief Commercialization Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Summit Hirawat",
+        "role": "Chief Medical Officer and Head of Global Drug Development",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chuck Triano",
+        "role": "Senior Vice President and Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Eliquis",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive (expected steady increase in remaining quarters)",
+        "mentioned_by": "N/A"
+      },
+      {
+        "technology_name": "Cobenfi",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "N/A"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-06 08:00:00"
+  }
+]

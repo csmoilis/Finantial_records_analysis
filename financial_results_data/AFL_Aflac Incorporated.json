@@ -1,0 +1,473 @@
+[
+  {
+    "company_name": "Aflac Incorporated",
+    "symbol": "AFL",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "eps_change": "+7.1%",
+      "outlook_summary": "Reaffirmed longer-term guidance for U.S. sales despite a challenging quarter for sales. Tracking towards expense ratio outlook of 19% to 21% for the full year."
+    },
+    "executives": [
+      {
+        "name": "David Young",
+        "role": "Vice President, Investor and Rating Agency Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Daniel Amos",
+        "role": "Chairman, CEO and President",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Max Broden",
+        "role": "Executive Vice President and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bradley Dyslin",
+        "role": "Unknown",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Virgil Miller",
+        "role": "Unknown",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Masatoshi Koide",
+        "role": "Unknown",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Koichiro Yoshizumi",
+        "role": "Unknown",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Commercial Real Estate",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bradley Dyslin"
+      },
+      {
+        "technology_name": "Transitional Real Estate",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Wesley Carmichael"
+      },
+      {
+        "technology_name": "Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Koichiro Yoshizumi"
+      },
+      {
+        "technology_name": "Cancer Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Koichiro Yoshizumi"
+      },
+      {
+        "technology_name": "Medical Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Koichiro Yoshizumi"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 07:00:00"
+  },
+  {
+    "company_name": "Aflac Incorporated",
+    "symbol": "AFL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "positive outlook for the second half of the year, with continued tailwinds expected.",
+      "pre_tax_profit_margin": "22.7%"
+    },
+    "executives": [
+      {
+        "name": "David Young",
+        "role": "Vice President of Investor and Rating Agency Relations",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Amos",
+        "role": "Chairman, CEO and President of Aflac Incorporated",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Max Broden",
+        "role": "Executive Vice-President and CFO of Aflac Incorporated",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Virgil Miller",
+        "role": "President of Aflac US.",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Charles Lake",
+        "role": "Chairman and Representative Director, President of Aflac International",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Masatoshi Koide",
+        "role": "President and Representative Director, Aflac Life Insurance Japan",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brad Dyslin",
+        "role": "Global Chief Investment Officer, President of Aflac Global Investments",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Dental",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Max Broden"
+      },
+      {
+        "technology_name": "Vision",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Max Broden"
+      },
+      {
+        "technology_name": "Group Life",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Max Broden"
+      },
+      {
+        "technology_name": "Disability",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Max Broden"
+      },
+      {
+        "technology_name": "Structured Private Credit",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Brad Dyslin"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 08:00:00"
+  },
+  {
+    "company_name": "Aflac Incorporated",
+    "symbol": "AFL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "The company is focused on prudently managing liquidity and capital to preserve strength, supporting its dividend track record and share repurchases. They intend to continue a balanced, tactical approach to investing in growth and driving long-term operating efficiencies.",
+      "dividend_growth_years": "42",
+      "fourth_quarter_dividend": "0.50 USD",
+      "shares_repurchased_q3": "500 million USD",
+      "liquidity_balance": "3.9 billion USD",
+      "liquidity_above_minimum": "2.1 billion USD",
+      "dividends_paid_q3": "280 million USD"
+    },
+    "executives": [
+      {
+        "name": "David Young",
+        "role": "Vice President of Capital Markets",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dan Amos",
+        "role": "Chairman, CEO of Aflac Incorporated",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Max Broden",
+        "role": "Executive Vice President and CFO of Aflac Incorporated",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Virgil Miller",
+        "role": "President of Aflac U.S.",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Charles Lake",
+        "role": "Chairman and Representative Director, President of Aflac International",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Masatoshi Koide",
+        "role": "President and Representative Director, Aflac Life Insurance Japan",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brad Dyslin",
+        "role": "Global Chief Investment Officer, President of Aflac Global Investments",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Audrey Tillman",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Koichiro Yoshizumi",
+        "role": "Executive",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Reinsurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Max Broden"
+      },
+      {
+        "technology_name": "Tsumitasu",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Koichiro Yoshizumi"
+      },
+      {
+        "technology_name": "Asset Management",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Max Broden"
+      },
+      {
+        "technology_name": "Retirement Products",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Max Broden"
+      },
+      {
+        "technology_name": "Life Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Virgil Miller"
+      },
+      {
+        "technology_name": "Absence Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Virgil Miller"
+      },
+      {
+        "technology_name": "Disability Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Virgil Miller"
+      },
+      {
+        "technology_name": "Cancer Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Virgil Miller"
+      },
+      {
+        "technology_name": "Wellness Benefits",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Virgil Miller"
+      },
+      {
+        "technology_name": "Hospital Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Virgil Miller"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 08:00:00"
+  },
+  {
+    "company_name": "Aflac Incorporated",
+    "symbol": "AFL",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Expects 2025 to play out much like 2024 with continued work through the commercial real estate portfolio and long recovery expected. Japan sales volume expected to settle down compared to 2024 but continue to generate solid results. Benefit ratio expected to decline from 2025-2027 as mix shifts to lower-benefit ratio third-sector products. Pretax margin expected to increase over the same period. Net investment income is a significant driver.",
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "David Young",
+        "role": "Vice President of Capital Markets",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dan Amos",
+        "role": "Chairman and CEO of Aflac Incorporated",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Max Broden",
+        "role": "Senior Executive Vice President and CFO of Aflac Incorporated",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Virgil Miller",
+        "role": "President of Aflac Incorporated and Aflac US",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Charles Lake",
+        "role": "Chairman and Representative Director, President of Aflac International, President and Representative Director, Aflac Life Insurance Japan",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brad Dyslin",
+        "role": "Global Chief Investment Officer, President of Aflac Global Investments",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Koichiro Yoshizumi",
+        "role": "unclear",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Group BB",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "significant investments",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Virgil Miller"
+      },
+      {
+        "technology_name": "Dental platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Virgil Miller"
+      },
+      {
+        "technology_name": "Bundling and unique experience",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "little additional investment",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Virgil Miller"
+      },
+      {
+        "technology_name": "Commercial real estate",
+        "technology_sentiment": "negative",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jack Matting"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-06 08:00:00"
+  }
+]

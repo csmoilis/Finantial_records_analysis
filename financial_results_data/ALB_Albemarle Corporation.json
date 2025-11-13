@@ -1,0 +1,422 @@
+[
+  {
+    "company_name": "Albemarle Corporation",
+    "symbol": "ALB",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-47%",
+      "eps_change": "negative $0.08 (diluted), $0.26 (adjusted diluted)",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Reaffirmed outlook considerations published last quarter, with updates on tax rate and share count."
+    },
+    "executives": [
+      {
+        "name": "Neal Sheorey",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kent Masters",
+        "role": "Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Meredith Bandy",
+        "role": "Vice President of Investor Relations and Sustainability",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Netha Johnson",
+        "role": "President of Specialties",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Eric Norris",
+        "role": "President of Energy Storage",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rob Hoffman",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Deckelbaum",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Lithium",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "lower pricing impact",
+        "mentioned_by": "Neal Sheorey"
+      },
+      {
+        "technology_name": "Energy Storage",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Neal Sheorey"
+      },
+      {
+        "technology_name": "Specialties",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Neal Sheorey"
+      },
+      {
+        "technology_name": "Ketjen business",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "higher volumes",
+        "mentioned_by": "Neal Sheorey"
+      },
+      {
+        "technology_name": "Clean Fuel Technologies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "higher volumes",
+        "mentioned_by": "Neal Sheorey"
+      },
+      {
+        "technology_name": "Battery-grade lithium",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+20% per year (from 2022-2027)",
+        "mentioned_by": "Neal Sheorey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 14:30:00"
+  },
+  {
+    "company_name": "Albemarle Corporation",
+    "symbol": "ALB",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Maintaining full year 2024 outlook considerations despite lower market pricing, with focus on cost improvements, energy storage project ramps, and contract performance. Evaluating opportunities to reduce capital intensity and total capital spending.",
+      "rd_investment_change": "Evaluating opportunities to further reduce capital intensity and total capital spending."
+    },
+    "executives": [
+      {
+        "name": "Meredith Bandy",
+        "role": "Vice President of Investor Relations and Sustainability",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kent Masters",
+        "role": "Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Neal Sheorey",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Netha Johnson",
+        "role": "President of Specialties",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Eric Norris",
+        "role": "President of Energy Storage",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Energy Storage",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "CAPEX expected to be $300 million to $400 million below 2023 levels",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kent Masters"
+      },
+      {
+        "technology_name": "Salar yield improvement",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "increased efficiency and volume",
+        "mentioned_by": "Kent Masters"
+      },
+      {
+        "technology_name": "DLE projects",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Laurence Alexander"
+      },
+      {
+        "technology_name": "Bromine resources",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kent Masters"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 08:00:00"
+  },
+  {
+    "company_name": "Albemarle Corporation",
+    "symbol": "ALB",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "down 50% (Capex for 2025)",
+      "outlook_summary": "maintaining full-year 2024 corporate outlook considerations, targeting $300 to $400 million of cost and productivity improvements by eliminating redundancies, reducing management layers, and optimizing manufacturing costs, reducing global workforce by 6% to 7%, reducing 2025 capital expenditures by at least $800 million or about 50%, with a disciplined focus on critical health, safety, environmental, and site maintenance and a phased approach to maintaining world-class resource base."
+    },
+    "executives": [
+      {
+        "name": "Meredith Bandy",
+        "role": "Vice President of Investor Relations and Sustainability",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kent Masters",
+        "role": "Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Neal Sheorey",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Netha Johnson",
+        "role": "Chief Operations Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Eric Norris",
+        "role": "Chief Commercial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Energy Storage",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "higher volumes",
+        "mentioned_by": "Kent Masters"
+      },
+      {
+        "technology_name": "Lithium",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kent Masters"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-07 08:00:00"
+  },
+  {
+    "company_name": "Albemarle Corporation",
+    "symbol": "ALB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Full year 2025 company outlook considerations build on progress made to drive enterprise-wide cost improvements, strong energy storage project ramps and contract performance. Decreased full year 2025 CapEx outlook by an additional $100 million, expecting to spend in the range of $700 million to $800 million. Line of sight to achieve breakeven free cash flow in 2025."
+    },
+    "executives": [
+      {
+        "name": "Meredith Bandy",
+        "role": "Vice President of Investor Relations and Sustainability",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jerry Masters",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Neal Sheorey",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Netha Johnson",
+        "role": "Chief Operations Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Eric Norris",
+        "role": "Chief Commercial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Lithium Conversion",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jerry Masters"
+      },
+      {
+        "technology_name": "Energy Storage",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jerry Masters"
+      },
+      {
+        "technology_name": "Advanced Process Chemistry",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jerry Masters"
+      },
+      {
+        "technology_name": "Polymeric Flame Retardants",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jerry Masters"
+      },
+      {
+        "technology_name": "Lithium Carbonate",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jerry Masters"
+      },
+      {
+        "technology_name": "Lithium Hydroxide",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jerry Masters"
+      },
+      {
+        "technology_name": "Salar Yield Improvement",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jerry Masters"
+      },
+      {
+        "technology_name": "NEBO Process Upgrade",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jerry Masters"
+      },
+      {
+        "technology_name": "Data Analytics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jerry Masters"
+      },
+      {
+        "technology_name": "Digital Tools",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jerry Masters"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-13 08:00:00"
+  }
+]

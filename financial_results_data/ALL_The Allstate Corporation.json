@@ -1,0 +1,317 @@
+[
+  {
+    "company_name": "The Allstate Corporation",
+    "symbol": "ALL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+10.9%",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expecting positive growth in auto insurance business, with improved profitability and sequential growth leading to annual growth."
+    },
+    "executives": [
+      {
+        "name": "Thomas Wilson",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mario Rizzo",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jesse Merten",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brent Vandermause",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Custom360",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mario Rizzo"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 09:00:00"
+  },
+  {
+    "company_name": "The Allstate Corporation",
+    "symbol": "ALL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+15.7%",
+      "net_investment_income_growth": "+17%",
+      "outlook_summary": "Confident strategy will continue to create shareholder value."
+    },
+    "executives": [
+      {
+        "name": "Tom Wilson",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mario",
+        "role": "Unclear",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jess",
+        "role": "Unclear",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jack Matten",
+        "role": "Unclear",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brent Vandermause",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Gregory Peters",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Fixed Income Portfolio",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+17%",
+        "mentioned_by": "Tom Wilson"
+      },
+      {
+        "technology_name": "Real Estate Investment",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "below prior year quarter",
+        "mentioned_by": "Unclear"
+      },
+      {
+        "technology_name": "Auto Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "rate increases",
+        "mentioned_by": "Tom Wilson"
+      },
+      {
+        "technology_name": "Homeowners Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "rate increases",
+        "mentioned_by": "Tom Wilson"
+      },
+      {
+        "technology_name": "Protection Plans",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "profitable growth",
+        "mentioned_by": "Tom Wilson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 09:00:00"
+  },
+  {
+    "company_name": "The Allstate Corporation",
+    "symbol": "ALL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "14.7%",
+      "eps_change": "+3.91",
+      "outlook_summary": "Property-Liability business positioned for growth; Protection Plans business continues to profitably grow."
+    },
+    "executives": [
+      {
+        "name": "Jess Merten",
+        "role": "Portfolio Management",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Tom Wilson",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jimmy Bhullar",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mario Rizzo",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Alastair Gobin",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Telematics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Wilson"
+      },
+      {
+        "technology_name": "Milewise",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Wilson"
+      },
+      {
+        "technology_name": "Arity",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jess Merten"
+      },
+      {
+        "technology_name": "Digital Insurer",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Wilson"
+      },
+      {
+        "technology_name": "Mobile device protection",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Wilson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 09:00:00"
+  },
+  {
+    "company_name": "The Allstate Corporation",
+    "symbol": "ALL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+11.3% (Q4)",
+      "eps_change": "not specified",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "2024 was an excellent year financially and strategically, with strong performance in Q4 and full year."
+    },
+    "executives": [
+      {
+        "name": "Tom Wilson",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mario",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jess Merten",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Alastair Gobin",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digitizing activity",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Wilson"
+      },
+      {
+        "technology_name": "Protection plans",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jess Merten"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-06 09:00:00"
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "company_name": "American Electric Power Company, Inc.",
+    "symbol": "AEP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Plan laid out at EEI remains intact, with a West Virginia securitization replaced by a Kentucky securitization of nearly equal amounts. Commercial load and data centers are a positive surprise to the upside."
+    },
+    "executives": [
+      {
+        "name": "Benjamin Gwynn Fowke",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Charles Zebula",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Peggy Simmons",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Darcy Reese",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jeremy Tonet",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Paul Patterson",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Nicholas Campanella",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Durgesh Chopra",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jamieson Ward",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Carly Davenport",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Data Center Load",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+ significant growth",
+        "mentioned_by": "Jeremy Tonet"
+      },
+      {
+        "technology_name": "Transmission",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "significant investments",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Benjamin Gwynn Fowke"
+      },
+      {
+        "technology_name": "Grid-enhancing technologies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peggy Simmons"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-30 09:00:00"
+  },
+  {
+    "company_name": "American Electric Power Company, Inc.",
+    "symbol": "AEP",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": null,
+      "eps_change": null,
+      "rd_investment_change": "+100M USD",
+      "outlook_summary": "expecting 9.1% ROE for the year"
+    },
+    "executives": [
+      {
+        "name": "Ben Fowke",
+        "role": "President and Interim Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chuck Zebula",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Peggy Simmons",
+        "role": "Executive Vice President of Utilities",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Darcy Reese",
+        "role": "President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bill Furman",
+        "role": "New CEO and President",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Wind resources",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "800 megawatts",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peggy Simmons"
+      },
+      {
+        "technology_name": "Solar resources",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "800 megawatts",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peggy Simmons"
+      },
+      {
+        "technology_name": "Natural gas generation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "795 megawatt",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peggy Simmons"
+      },
+      {
+        "technology_name": "Data centers",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shar Pourezza"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-30 09:00:00"
+  },
+  {
+    "company_name": "American Electric Power Company, Inc.",
+    "symbol": "AEP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Maintained 2024 operating earnings guidance and introduced 2025 guidance. Expects 6-8% long-term earnings growth rate from a 2025 base year with a $5.85 midpoint. Raised capital plan to $54 billion from 2025-2029, a 25% increase. Customer rates expected to increase by less than 3% annually.",
+      "revenue_growth": "+4% (for 2025 earnings guidance range)",
+      "rd_investment_change": "+25% (capital plan)"
+    },
+    "executives": [
+      {
+        "name": "Bill Fehrman",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chuck Zebula",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Darcy Reese",
+        "role": "Vice-President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Data Center Demand",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "20 gigawatts of load additions through 2029",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bill Fehrman"
+      },
+      {
+        "technology_name": "Transmission Infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "$10 billion incremental investment",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bill Fehrman"
+      },
+      {
+        "technology_name": "Generation Infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "$10 billion incremental investment",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bill Fehrman"
+      },
+      {
+        "technology_name": "Gas",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "William Fehrman"
+      },
+      {
+        "technology_name": "Nuclear",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chuck Zebula"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-06 09:00:00"
+  },
+  {
+    "company_name": "American Electric Power Company, Inc.",
+    "symbol": "AEP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "7%",
+      "eps_change": "5.62 per share",
+      "rd_investment_change": null,
+      "outlook_summary": "Reaffirmed 2025 guidance range of $5.75 to $5.95 per share, with a long-term growth rate of 6% to 8%. Targeting FFO to debt of 14% to 15%."
+    },
+    "executives": [
+      {
+        "name": "William Fehrman",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Trevor Michalek",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kate Sturgis",
+        "role": "Senior Vice President Controller and Chief Accounting Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Darcy Reese",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Transmission Assets",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "$2.82 billion",
+        "revenue_impact": "boosts earnings",
+        "mentioned_by": "William Fehrman"
+      },
+      {
+        "technology_name": "Renewable Development",
+        "technology_sentiment": "positive",
+        "investment_action": "divesting",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "500 million USD",
+        "revenue_impact": "net cash proceeds",
+        "mentioned_by": "William Fehrman"
+      },
+      {
+        "technology_name": "Data Centers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "20 gigawatts",
+        "revenue_impact": "driven by data center demand",
+        "mentioned_by": "William Fehrman"
+      },
+      {
+        "technology_name": "New Generation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "54 billion USD",
+        "revenue_impact": "unclear",
+        "mentioned_by": "William Fehrman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-13 09:00:00"
+  }
+]

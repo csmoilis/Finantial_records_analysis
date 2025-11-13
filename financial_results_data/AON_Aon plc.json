@@ -1,0 +1,174 @@
+[
+  {
+    "company_name": "Aon plc",
+    "symbol": "AON",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "mid-single digit or greater",
+      "outlook_summary": "Committed to margin expansion each and every year, including 2024. Buyback expected to be substantial for the full year 2024 at $1 billion or more."
+    },
+    "executives": [
+      {
+        "name": "Gregory Case",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christa Davies",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Eric Andersen",
+        "role": "President",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-26 08:30:00"
+  },
+  {
+    "company_name": "Aon plc",
+    "symbol": "AON",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "18%",
+      "eps_change": "7%",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Strong financial results position the company well to continue driving progress against its 3x3 plan and driving results in 2024 and over the long-term. Expect continuation in the second half of the year."
+    },
+    "executives": [
+      {
+        "name": "Greg Case",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christa Davies",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Eric Andersen",
+        "role": "President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Edmund Reese",
+        "role": "Incoming CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-26 08:30:00"
+  },
+  {
+    "company_name": "Aon plc",
+    "symbol": "AON",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "7 points overall",
+      "outlook_summary": "Confident in meeting 2024 to 2026 objectives and driving sustainable long-term growth. Q3 and year-to-date results demonstrate strong progress against financial guidance.",
+      "rd_investment_change": "Investing $1 billion into strengthening and accelerating the 3x3 Plan over '24, '25 and '26."
+    },
+    "executives": [
+      {
+        "name": "Edmund Reese",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Greg Case",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Eric",
+        "role": "unclear",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Aon Business Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Case"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-25 08:30:00"
+  },
+  {
+    "company_name": "Aon plc",
+    "symbol": "AON",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+17% (total revenue), +6% (organic revenue)",
+      "eps_change": "+10% (adjusted EPS)",
+      "outlook_summary": "expect mid-single-digit or greater organic revenue growth, continued margin expansion, strong adjusted EPS growth, and double-digit free cash flow growth in 2025."
+    },
+    "executives": [
+      {
+        "name": "Greg Case",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Edmund Reese",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Eric Andersen",
+        "role": "President",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Case"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-31 02:30:00"
+  }
+]

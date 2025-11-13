@@ -1,0 +1,584 @@
+[
+  {
+    "company_name": "Adobe Inc.",
+    "symbol": "ADBE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "16%",
+      "eps_change": "4.35-4.40",
+      "outlook_summary": "Q2 revenue targeted at $5.25B-$5.30B, Digital Media net-new ARR of approx. $440M, Digital Experience revenue of $1.31B-$1.33B. Fiscal 2024 off to a strong start with profitable growth."
+    },
+    "executives": [
+      {
+        "name": "Shantanu Narayen",
+        "role": "Chair and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Wadhwani",
+        "role": "President of Digital Media",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Anil Chakravarthy",
+        "role": "President of Digital Experience",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Durn",
+        "role": "Executive Vice President and CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jonathan Vaas",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Firefly Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Adobe GenStudio",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "AI Assistant",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dan Durn"
+      },
+      {
+        "technology_name": "Creative Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Digital Experience",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+12%",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Adobe Experience Platform",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Realtime CDP",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Journey Optimizer",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Customer Journey Analytics",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Express Mobile",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dan Durn"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-03-14 17:00:00"
+  },
+  {
+    "company_name": "Adobe Inc.",
+    "symbol": "ADBE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "60% year-over-year",
+      "outlook_summary": "Raising subscription revenue target for the year."
+    },
+    "executives": [
+      {
+        "name": "Jonathan Vaas",
+        "role": "VP of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Shantanu Narayen",
+        "role": "Chair and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Wadhwani",
+        "role": "President of Digital Media",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Anil Chakravarthy",
+        "role": "President of Digital Experience",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dan Durn",
+        "role": "Executive Vice President and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Aleksandr Zukin",
+        "role": "Analyst",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Saket Kalia",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brent Thill",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "driving growth",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "AI Assistant",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "driving growth",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Firefly",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "driving growth",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "driving growth",
+        "mentioned_by": "David Wadhwani"
+      },
+      {
+        "technology_name": "Adobe Journey Optimizer",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Adobe Experience Manager",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Adobe Workfront Planning",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-06-13 17:00:00"
+  },
+  {
+    "company_name": "Adobe Inc.",
+    "symbol": "ADBE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "12%",
+      "eps_change": "4.63-4.68",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Targeting total revenue of $5.50B-$5.55B for Q4, with Digital Media net new ARR of approximately $550 million. Expects to beat record net new ARR for fiscal '24."
+    },
+    "executives": [
+      {
+        "name": "Shantanu Narayen",
+        "role": "Chair and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Anil Chakravarthy",
+        "role": "President of Digital Experience",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Wadhwani",
+        "role": "President of Digital Media",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Durn",
+        "role": "Executive Vice President and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jonathan Vaas",
+        "role": "VP of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Express",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "AEP",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "GenStudio",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Marketing Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Firefly services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Photoshop",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Illustrator",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Lightroom",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Document Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Saket Kalia"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-09-12 17:00:00"
+  },
+  {
+    "company_name": "Adobe Inc.",
+    "symbol": "ADBE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "12%",
+      "outlook_summary": "Expects strong momentum into 2025 with accelerated pipeline from Gen Studio and AI innovations."
+    },
+    "executives": [
+      {
+        "name": "Shantanu Narayen",
+        "role": "Chair and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steve Day",
+        "role": "SVP, DXCFO, and Corporate Finance Interim Head of IR",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Wadhwani",
+        "role": "President of Digital Media",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Anil Chakravarthy",
+        "role": "President of Digital Experience",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Durn",
+        "role": "Executive Vice President and CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "AI Assistant",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Gen Studio",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Shantanu Narayen"
+      },
+      {
+        "technology_name": "Express",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Wadhwani"
+      },
+      {
+        "technology_name": "Firefly",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dan Durn"
+      },
+      {
+        "technology_name": "Experience Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Adobe Experience Platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Real-time CDP",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Customer Journey Analytics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Journey Optimizer",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Adobe Experience Manager",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      },
+      {
+        "technology_name": "Workfront",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anil Chakravarthy"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-12-11 17:00:00"
+  }
+]

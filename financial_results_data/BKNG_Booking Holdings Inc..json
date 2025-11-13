@@ -1,0 +1,244 @@
+[
+  {
+    "company_name": "Booking Holdings Inc.",
+    "symbol": "BKNG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+17%",
+      "eps_change": "+76%",
+      "adjusted_ebitda_growth": "+53%",
+      "outlook_summary": "Strong start to 2024 with Q1 revenue and adjusted EBITDA ahead of expectations. Healthy growth for travel on the books for the peak summer season. Expects to grow faster than GDP."
+    },
+    "executives": [
+      {
+        "name": "Glenn Fogel",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ewout Steenbergen",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Nowak"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ewout Steenbergen"
+      },
+      {
+        "technology_name": "Trip Planner",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Stephen Ju"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 16:30:00"
+  },
+  {
+    "company_name": "Booking Holdings Inc.",
+    "symbol": "BKNG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "more than 7%",
+      "eps_change": "above 15%",
+      "rd_investment_change": "low double digits",
+      "outlook_summary": "Expects 2024 to be a strong year with revenue growth of more than 7% and adjusted EBITDA growing in the high single digits. Adjusted EPS growth expectation increased to above 15%."
+    },
+    "executives": [
+      {
+        "name": "Glenn Fogel",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ewout Steenbergen",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Glenn Fogel"
+      },
+      {
+        "technology_name": "Cloud Cost",
+        "technology_sentiment": "negative",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "increased",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ewout Steenbergen"
+      },
+      {
+        "technology_name": "Software License",
+        "technology_sentiment": "negative",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "increased",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ewout Steenbergen"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 16:30:00"
+  },
+  {
+    "company_name": "Booking Holdings Inc.",
+    "symbol": "BKNG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "8% (room nights Q3)",
+      "outlook_summary": "Expects a robust and positive fourth quarter with continued trends, easier year-over-year comps, and continued marketing leverage. Merchandising as a percentage of gross bookings expected to be flat year-over-year for 2024.",
+      "rd_investment_change": "null",
+      "eps_change": "null"
+    },
+    "executives": [
+      {
+        "name": "Ewout Steenbergen",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Glenn Fogel",
+        "role": "CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Justin Post"
+      },
+      {
+        "technology_name": "Performance Marketing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Ewout Steenbergen"
+      },
+      {
+        "technology_name": "Social Media",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ewout Steenbergen"
+      },
+      {
+        "technology_name": "Mobile Apps",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Ewout Steenbergen"
+      },
+      {
+        "technology_name": "Genius Loyalty Program",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ewout Steenbergen"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-30 16:30:00"
+  },
+  {
+    "company_name": "Booking Holdings Inc.",
+    "symbol": "BKNG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "14% (Q4)",
+      "eps_change": "+30% (Q4)",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Q1 guidance shows low double-digit growth for gross bookings, revenue, and EBITDA. Full year guidance on a constant currency basis is in line with the long-term algorithm. Room night growth for Q1 guided at 5-7% due to easier comps in Q4 2023 and a leap year headwind in Q1 2025."
+    },
+    "executives": [
+      {
+        "name": "Ewout Steenbergen",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Glenn Fogel",
+        "role": "CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Glenn Fogel"
+      },
+      {
+        "technology_name": "generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Glenn Fogel"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-20 16:30:00"
+  }
+]

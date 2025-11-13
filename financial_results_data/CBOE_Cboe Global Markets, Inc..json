@@ -1,0 +1,439 @@
+[
+  {
+    "company_name": "Cboe Global Markets, Inc.",
+    "symbol": "CBOE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+7%",
+      "outlook_summary": "Expects organic total net revenue growth to be at the higher end of the 5% to 7% range for 2024. Anticipates non-operating income of $37 million to $43 million. Full year CapEx guidance remains at $51 million to $57 million. Effective tax rate on adjusted earnings expected to be 28.5% to 30.5%. Net expense for Q2 2024 expected to be $9 million to $10 million."
+    },
+    "executives": [
+      {
+        "name": "Fred Tomczyk",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kenneth Hill",
+        "role": "Vice President of Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Patrick Moley",
+        "role": "Piper Sandler",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jill Griebenow",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Howson",
+        "role": "Global President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Isaacson",
+        "role": "Chief Operating Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Cathy Clay",
+        "role": "Executive Vice President of Global Derivatives",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Vikesh Patel",
+        "role": "President of Cboe Clear Europe",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Derivatives",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+7%",
+        "mentioned_by": "Jill Griebenow"
+      },
+      {
+        "technology_name": "Digital Asset Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Howson"
+      },
+      {
+        "technology_name": "Options on Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Howson"
+      },
+      {
+        "technology_name": "Complex Orders",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Howson"
+      },
+      {
+        "technology_name": "Clearing Operations",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Howson"
+      },
+      {
+        "technology_name": "Bitcoin Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Howson"
+      },
+      {
+        "technology_name": "Ether Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Howson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-03 08:30:00"
+  },
+  {
+    "company_name": "Cboe Global Markets, Inc.",
+    "symbol": "CBOE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "10%",
+      "eps_change": "+21%",
+      "outlook_summary": "Confident in hitting the lower end of 7%-10% net revenue growth for 2024, with an expected acceleration in trends in Q3 and Q4."
+    },
+    "executives": [
+      {
+        "name": "Fred Tomczyk",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jill Griebenow",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ken Hill",
+        "role": "unknown",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dan Fannon",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital Asset Derivatives",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "Global Technology Platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "Exchange Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "Cboe Global Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+unclear",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "US Options Data",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "reallocated resources",
+        "revenue_impact": "+unclear",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "Digital Spot Market",
+        "technology_sentiment": "negative",
+        "investment_action": "scrapping",
+        "investment_horizon": "short-term",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Fred Tomczyk"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-02 08:30:00"
+  },
+  {
+    "company_name": "Cboe Global Markets, Inc.",
+    "symbol": "CBOE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+11%",
+      "eps_change": "+8%",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expecting Q4 to hit lower end of 7%-10% D&A guidance range for 2024. Balanced business performance with strong fundamentals and strategic adjustments."
+    },
+    "executives": [
+      {
+        "name": "Fred Tomczyk",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Howson",
+        "role": "Global President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jill Griebenow",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Isaacson",
+        "role": "Chief Operating Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ken Hill",
+        "role": "Treasurer and Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Data and Access Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+6% to +9.7%",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "proprietary index options",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+13%",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "index futures",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+13%",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "S&P 500 index option products",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+7%",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "volatility product suite",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+33% to +20%",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "equities venues",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Howson"
+      },
+      {
+        "technology_name": "new access layer architecture",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Howson"
+      },
+      {
+        "technology_name": "core platform",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Howson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-01 08:30:00"
+  },
+  {
+    "company_name": "Cboe Global Markets, Inc.",
+    "symbol": "CBOE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "33%",
+      "outlook_summary": "Guidance for Q1 2025 includes below the line items, earnings on investments, and other income expected to have a modest impact on earnings. Other income anticipated to grow gradually in line with cash dividends. The company expects to leverage its flexible balance sheet and healthy free cash flow profile to produce durable returns for shareholders in 2025."
+    },
+    "executives": [
+      {
+        "name": "Fred Tomczyk",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ken Hill",
+        "role": "Head of Investor Relations and Treasurer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Howson",
+        "role": "Global President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jill Griebenow",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Isaacson",
+        "role": "Chief Operating Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Data Vantage",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+33%",
+        "mentioned_by": "Fred Tomczyk"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-07 08:30:00"
+  }
+]

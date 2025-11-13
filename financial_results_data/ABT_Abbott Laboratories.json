@@ -1,0 +1,491 @@
+[
+  {
+    "company_name": "Abbott Laboratories",
+    "symbol": "ABT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "10.8%",
+      "eps_change": "above analyst consensus estimates",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Raised midpoint of guidance for both EPS and sales growth. Forecast full year adjusted EPS of $4.55 to $4.70 and organic sales growth (excluding COVID testing) of 8.5% to 10%."
+    },
+    "executives": [
+      {
+        "name": "Robert Ford",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Bob Funck",
+        "role": "Executive Vice President, Finance",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Phil Boudreau",
+        "role": "Senior Vice President, Finance and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Comilla",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "COVID testing",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "excluding COVID testing related sales",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "medical devices",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+14%",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "pediatric nutrition",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+8%",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "infant formula",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "nutrition shake",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "GLP-1 medications",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "weight loss surgery",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "PROTALITY",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "established pharmaceuticals",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "14%",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "diagnostics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": ">5%",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "concussion testing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joanne Wuensch"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-17 09:00:00"
+  },
+  {
+    "company_name": "Abbott Laboratories",
+    "symbol": "ABT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "high single digit, double digit",
+      "outlook_summary": "Expects to continue delivering top-tier performance throughout this year and into next year."
+    },
+    "executives": [
+      {
+        "name": "Robert Ford",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Phil Boudreau",
+        "role": "Executive Vice President, Finance and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Comilla",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "COVID testing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Phil Boudreau"
+      },
+      {
+        "technology_name": "med tech",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "high single digit, double digit",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Aveir",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "mid-plus single digit",
+        "mentioned_by": "Danielle Antalffy"
+      },
+      {
+        "technology_name": "leadless pacing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "mid-plus single digit",
+        "mentioned_by": "Danielle Antalffy"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-18 09:00:00"
+  },
+  {
+    "company_name": "Abbott Laboratories",
+    "symbol": "ABT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+8.2% (excluding COVID testing)",
+      "eps_change": "positive",
+      "rd_investment_change": "accelerated",
+      "outlook_summary": "Reiterating full-year guidance, forecasting Q4 EPS between $1.31 and $1.37, with less than 1% unfavorable impact expected from foreign exchange."
+    },
+    "executives": [
+      {
+        "name": "Robert Ford",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Phil Boudreau",
+        "role": "Executive Vice President, Finance and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Comilla",
+        "role": " ",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "COVID testing",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "declining",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Diagnostic systems",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "sustaining growth into 2025",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Diagnostic platforms",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "sustaining growth into 2025",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Respiratory tests",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "growing demand",
+        "mentioned_by": "Robert Ford"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-16 09:00:00"
+  },
+  {
+    "company_name": "Abbott Laboratories",
+    "symbol": "ABT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "over 10%",
+      "eps_change": "13%",
+      "outlook_summary": "Well positioned for another year of strong growth in 2025, expecting continued gross margin expansion."
+    },
+    "executives": [
+      {
+        "name": "Robert Ford",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Phil Boudreau",
+        "role": "Executive Vice President, Finance and Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "CGM",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "over 20% constant currency growth",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Libre 3",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Lingo",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Structural Heart",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "invested in heavily",
+        "revenue_impact": "23%",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Surgical valves",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Structural interventions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Transcatheter repair",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Transcatheter replacement",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "MitraClip",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Roman"
+      },
+      {
+        "technology_name": "TriClip",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Roman"
+      },
+      {
+        "technology_name": "Tricuspid repair",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Roman"
+      },
+      {
+        "technology_name": "AVEIR pacemaker",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "7%",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Assert monitor",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "7%",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Heart failure devices",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "9.5%",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Vessel closure",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Esprit stent",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Ford"
+      },
+      {
+        "technology_name": "Eterna spinal cord stimulation",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "8%",
+        "mentioned_by": "Robert Ford"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-22 09:30:00"
+  }
+]

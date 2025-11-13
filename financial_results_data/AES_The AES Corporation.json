@@ -1,0 +1,276 @@
+[
+  {
+    "company_name": "The AES Corporation",
+    "symbol": "AES",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "up 10%",
+      "outlook_summary": "Upside to previous guidance on utilities, potential for higher returns, and efficient renewables/utilities growth."
+    },
+    "executives": [
+      {
+        "name": "Susan Harcourt",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andres Gluski",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steve Coughlin",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Renewables",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "Utilities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "Datacenter",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "Transmission",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "Generation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "Gas",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "higher margins",
+        "mentioned_by": "Steve Coughlin"
+      },
+      {
+        "technology_name": "Wind",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "impacted EBITDA",
+        "mentioned_by": "Steve Coughlin"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-02 10:00:00"
+  },
+  {
+    "company_name": "The AES Corporation",
+    "symbol": "AES",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "overachieved on our EPS growth",
+      "rd_investment_change": "investing $2.2 billion to $2.3 billion in new growth",
+      "outlook_summary": "well positioned for a strong finish to 2024, with a clear path to landing at least in the upper half of our guidance range for EPS, and additional detail around 2025 and beyond to be provided on the fourth quarter call."
+    },
+    "executives": [
+      {
+        "name": "Steve Coughlin",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Susan Harcourt",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andres Gluski",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Sullivan",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Nicholas Campanella",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Renewables",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "significant growth",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "U.S. Utilities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "most ambition investment program in their history",
+        "revenue_impact": "significant growth",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "Data Center",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "2.1 gigawatts of data center load growth",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "Energy Infrastructure",
+        "technology_sentiment": "neutral",
+        "investment_action": "divesting",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "shrinking",
+        "mentioned_by": "Steve Coughlin"
+      },
+      {
+        "technology_name": "Hydro",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "negative due to weather events",
+        "mentioned_by": "Andres Gluski"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-01 11:02:00"
+  },
+  {
+    "company_name": "The AES Corporation",
+    "symbol": "AES",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "not specified",
+      "eps_change": "not specified",
+      "rd_investment_change": "down 10%",
+      "outlook_summary": "expect to improve credit metrics, eliminate need for new equity, maintain dividend, and achieve 2025 and long-term financial commitments."
+    },
+    "executives": [
+      {
+        "name": "Andres Gluski",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Steve Coughlin",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Susan Harcourt",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ricardo Fallu",
+        "role": "Chief Operating Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "Renewables",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "down 10%",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "LNG",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andres Gluski"
+      },
+      {
+        "technology_name": "Energy Infrastructure",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andres Gluski"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-28 10:00:00"
+  }
+]

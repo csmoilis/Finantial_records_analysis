@@ -1,0 +1,180 @@
+[
+  {
+    "company_name": "The Clorox Company",
+    "symbol": "CLX",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "The company is focused on rebuilding margins and maintaining top-line growth, with expectations for gross margins to be flat for the year despite strong Q1 performance. Guidance implies a potential sales decline in the back half of the year."
+    },
+    "executives": [
+      {
+        "name": "Linda Rendle",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin Jacobsen",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Lisah Burhan",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cybersecurity",
+        "technology_sentiment": "negative",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "enhancing security controls",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Linda Rendle"
+      },
+      {
+        "technology_name": "IT infrastructure",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Linda Rendle"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2023-11-01 17:00:00"
+  },
+  {
+    "company_name": "The Clorox Company",
+    "symbol": "CLX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Updating full year 2024 outlook to reflect progress made in Q2, despite challenging operating environment and consumer pressure. Expects modest slowdown in category growth rates in the back half of the fiscal year. Raising sales expectation and expecting to grow margins.",
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Lisah Burhan",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Linda Rendle",
+        "role": "Chair and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin Jacobsen",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cyberattack",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "negative",
+        "mentioned_by": "Linda Rendle"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-02-01 17:00:00"
+  },
+  {
+    "company_name": "The Clorox Company",
+    "symbol": "CLX",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "flat to down a little bit in Q4, up about 1% for the full year",
+      "outlook_summary": "Expects improving volume trends and increased trade spending in Q4, leading to flat to slightly down organic sales. Expects margin expansion in fiscal year '25.",
+      "eps_change": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Kevin Jacobsen",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Linda Rendle",
+        "role": "Chair CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Lisah Burhan",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital transformation",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Linda Rendle"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-04-30 17:00:00"
+  },
+  {
+    "company_name": "The Clorox Company",
+    "symbol": "CLX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "flat organic sales for the full year",
+      "eps_change": "double-digit adjusted EPS growth",
+      "outlook_summary": "confident in winning with consumers and delivering strong financial performance in fiscal year 2025, supported by a return to volume-driven sales growth, pre-pandemic gross margin and free cash flow in line with long-term goals."
+    },
+    "executives": [
+      {
+        "name": "Lisah Burhan",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Linda Rendle",
+        "role": "Chair CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin Jacobsen",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "cyber-attack recovery",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "recovered most of the market share that we lost",
+        "mentioned_by": "Linda Rendle"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-08-01 17:00:00"
+  }
+]

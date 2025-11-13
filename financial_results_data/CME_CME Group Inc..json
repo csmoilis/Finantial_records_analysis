@@ -1,0 +1,465 @@
+[
+  {
+    "company_name": "CME Group Inc.",
+    "symbol": "CME",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "All 6 asset classes were up in Q1, indicating positive market conditions. Discussions around commercializing new opportunities suggest potential for revenue growth through trading and clearing fees, or subscription models. Cash and non-cash collateral rates were stable quarter-over-quarter.",
+      "revenue_growth": "up in Q1 across all 6 asset classes",
+      "us_cash_balances_q1": "76 billion USD",
+      "us_cash_earnings_q1": "36 basis points",
+      "noncash_balances_q1": "159 billion USD",
+      "noncash_earnings_q1": "10 basis points",
+      "us_cash_balances_april": "73 billion USD",
+      "noncash_balances_april": "163 billion USD"
+    },
+    "executives": [
+      {
+        "name": "Terrence Duffy",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Lynne Fitzpatrick",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Julie Winkler",
+        "role": "Chief Commercial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Tim McCourt",
+        "role": "Global Head of Equity and FX Product",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Suzanne Sprague",
+        "role": "Global Head of Clearing and Risk",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Market Data",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "potential through trading and clearing fees or subscription fees",
+        "mentioned_by": "Lynne Fitzpatrick"
+      },
+      {
+        "technology_name": "Consolidated Data Sets",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Julie Winkler"
+      },
+      {
+        "technology_name": "Bloomberg Corporate Bond Indices",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "addressable market of about 90 billion average daily volume",
+        "mentioned_by": "Tim McCourt"
+      },
+      {
+        "technology_name": "Treasury Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong volume growth",
+        "mentioned_by": "Brian Bedell"
+      },
+      {
+        "technology_name": "Cross Margin Program",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "upwards of 75% to 80% in margin savings",
+        "mentioned_by": "Suzanne Sprague"
+      },
+      {
+        "technology_name": "Portfolio Margining",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "average daily savings of about 7 billion USD",
+        "mentioned_by": "Suzanne Sprague"
+      },
+      {
+        "technology_name": "U.S. Treasury Clearing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher Allen"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-24 08:30:00"
+  },
+  {
+    "company_name": "CME Group Inc.",
+    "symbol": "CME",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Comfortable with full year guidance, implying about a $60 million increase in the back half of the year versus the first half, with increased spending on marketing, retail marketing, Google migration, and treasury clearing project, offset by reduced CapEx.",
+      "rd_investment_change": "increase"
+    },
+    "executives": [
+      {
+        "name": "Adam Minick",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Terrence Duffy",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kyle Voigt",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael Cyprys",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Alex Blostein",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian Bedell",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Lynne Fitzpatrick",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ken Vroman",
+        "role": "Executive",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Google AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Terrence Duffy"
+      },
+      {
+        "technology_name": "Google Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "increase",
+        "revenue_impact": "increase",
+        "mentioned_by": "Brian Bedell"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "increase",
+        "revenue_impact": "increase",
+        "mentioned_by": "Lynne Fitzpatrick"
+      },
+      {
+        "technology_name": "Artificial Intelligence",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ken Vroman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-24 20:30:00"
+  },
+  {
+    "company_name": "CME Group Inc.",
+    "symbol": "CME",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "27%",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "expects continued growth due to global need for risk management and market uncertainty."
+    },
+    "executives": [
+      {
+        "name": "Adam Minick",
+        "role": "N/A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Terrence Duffy",
+        "role": "N/A",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Julie Winkler",
+        "role": "N/A",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Tim McCourt",
+        "role": "N/A",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ken Worthington",
+        "role": "N/A",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Interest Rate Complex",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 17%",
+        "mentioned_by": "Terrence Duffy"
+      },
+      {
+        "technology_name": "SOFR Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Terrence Duffy"
+      },
+      {
+        "technology_name": "Treasury Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Terrence Duffy"
+      },
+      {
+        "technology_name": "Equity Products",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Terrence Duffy"
+      },
+      {
+        "technology_name": "Commodity Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 20%",
+        "mentioned_by": "Terrence Duffy"
+      },
+      {
+        "technology_name": "CFD",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Winkler"
+      },
+      {
+        "technology_name": "Bitcoin ETF",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim McCourt"
+      },
+      {
+        "technology_name": "Ether ETF",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim McCourt"
+      },
+      {
+        "technology_name": "Bitcoin Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 285%",
+        "mentioned_by": "Tim McCourt"
+      },
+      {
+        "technology_name": "Micro Bitcoin Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 470%",
+        "mentioned_by": "Tim McCourt"
+      },
+      {
+        "technology_name": "Micro Ether Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 641%",
+        "mentioned_by": "Tim McCourt"
+      },
+      {
+        "technology_name": "Perpetual Futures",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim McCourt"
+      },
+      {
+        "technology_name": "WTI Crude Oil Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Winkler"
+      },
+      {
+        "technology_name": "Micro Gold Futures",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Winkler"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-23 08:00:00"
+  },
+  {
+    "company_name": "CME Group Inc.",
+    "symbol": "CME",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "9%",
+      "outlook_summary": "Strong volumes expected to continue in 2025 driven by ongoing customer needs for efficient trading and hedging solutions, despite global economic uncertainties.",
+      "rd_investment_change": "increased investment during Q4"
+    },
+    "executives": [
+      {
+        "name": "Adam Minick",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Terry Duffy",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Lynne Fitzpatrick",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Julie Winkler",
+        "role": "Executive",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "approximately $85 million for the year (migration spend)",
+        "revenue_impact": "approximately 5% of transaction and clearing revenue in 2024 from new clients added in the last five years",
+        "mentioned_by": "Terry Duffy"
+      },
+      {
+        "technology_name": "Clearing Systems",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "included in $115 million guidance for 2025 migration",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lynne Fitzpatrick"
+      },
+      {
+        "technology_name": "Data Systems",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "included in $115 million guidance for 2025 migration",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lynne Fitzpatrick"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-12 08:30:00"
+  }
+]

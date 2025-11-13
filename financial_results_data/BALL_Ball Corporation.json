@@ -1,0 +1,289 @@
+[
+  {
+    "company_name": "Ball Corporation",
+    "symbol": "BALL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "normalized_free_cash_flow_range": "$900 million to $1 billion",
+      "factoring_unwind_impact": "$0.5 billion",
+      "share_buybacks": "over $1 billion for the foreseeable future",
+      "outlook_summary": "Expects normalized free cash flow in the $900 million to $1 billion range. Consistent share buybacks and dividends planned, with opportunistic repurchases possible. Europe recovery expected to be back half-weighted due to macro factors."
+    },
+    "executives": [
+      {
+        "name": "Howard Yu",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Daniel Fisher",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Philip Ng",
+        "role": "Analyst",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ann",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brandon",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Miranda",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Arun Viswanathan",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Pamela Kaufman",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Stefan Diaz",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Edlain Rodriguez",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Aerospace",
+        "technology_sentiment": "neutral",
+        "investment_action": "divesting",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Philip Ng"
+      },
+      {
+        "technology_name": "Aluminum Ends",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Daniel Fisher"
+      },
+      {
+        "technology_name": "Beverage Packaging",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Daniel Fisher"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-26 11:00:00"
+  },
+  {
+    "company_name": "Ball Corporation",
+    "symbol": "BALL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "influenced by the pass through of lower aluminum prices as well as lower volumes in South America, offset by increased volumes in North America and EMEA as well as favorable price/mix in South America",
+      "eps_change": "up year-over-year, comparable diluted earnings per share was $0.74 versus $0.61 in the second quarter of 2023. Full year 2024 comparable diluted EPS mid single digits plus",
+      "rd_investment_change": "CapEx is targeted to be in the range of $650 million, a year-over-year reduction of $400 million",
+      "outlook_summary": "anticipate year-over-year earnings improvement during the second half of 2024, driven by improving operational efficiencies, lowering cost and effectively managing risk. Anticipate full year global shipments to grow in the low to mid single digits range. Anticipate 10% plus per annum diluted EPS growth"
+    },
+    "executives": [
+      {
+        "name": "Howard Yu",
+        "role": "EVP and CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Fisher",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brandon Potthoff",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Aluminum Packaging",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "low to mid single digits range",
+        "mentioned_by": "Dan Fisher"
+      },
+      {
+        "technology_name": "Sustainable Aluminum Packaging",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dan Fisher"
+      },
+      {
+        "technology_name": "Circular Economy",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dan Fisher"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 11:00:00"
+  },
+  {
+    "company_name": "Ball Corporation",
+    "symbol": "BALL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "up 9.6% (from $0.83 to $0.91)",
+      "revenue_growth": "not specified",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "company expects to exceed 10% per annum diluted comparable EPS growth, including in 2025."
+    },
+    "executives": [
+      {
+        "name": "Howard Yu",
+        "role": "EVP and CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Fisher",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brandon Potthoff",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Aluminum Packaging",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Dan Fisher"
+      },
+      {
+        "technology_name": "Extruded Aluminum Aerosol",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "capital-efficient",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Dan Fisher"
+      },
+      {
+        "technology_name": "Extruded Aluminum Bottle",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "capital-efficient",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dan Fisher"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 11:00:00"
+  },
+  {
+    "company_name": "Ball Corporation",
+    "symbol": "BALL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "positive",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects sequential improvement throughout the quarters, leading to volume growth in 2025. EMEA business on track for significant year-over-year comparable operating earnings growth in 2025."
+    },
+    "executives": [
+      {
+        "name": "Howard Yu",
+        "role": "EVP and CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brandon Potthoff",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dan Fisher",
+        "role": "CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Aluminum packaging",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dan Fisher"
+      },
+      {
+        "technology_name": "Ball Business system",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Howard Yu"
+      },
+      {
+        "technology_name": "Energy markets",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+unclear",
+        "mentioned_by": "Dan Fisher"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-04 11:00:00"
+  }
+]

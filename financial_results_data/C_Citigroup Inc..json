@@ -1,0 +1,238 @@
+[
+  {
+    "company_name": "Citigroup Inc.",
+    "symbol": "C",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "9%",
+      "outlook_summary": "Full year 2024 outlook and medium-term guidance remain unchanged. On path to reach 11% to 12% return target over the medium-term. Expense guidance for 2026 is in the range of 51 to 53."
+    },
+    "executives": [
+      {
+        "name": "Jane Fraser",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mark Mason",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jenn Landis",
+        "role": "Head of Citi Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "technology",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mark Mason"
+      },
+      {
+        "technology_name": "platform",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mark Mason"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-12 11:00:00"
+  },
+  {
+    "company_name": "Citigroup Inc.",
+    "symbol": "C",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "expense_target": "around $51 billion to $53 billion of expenses by 2026",
+      "restructuring_savings": "about $1.5 billion",
+      "net_expense_reduction_potential": "$500 million to $1 billion",
+      "rotce_target": "11% to 12% over the medium-term",
+      "outlook_summary": "Confident in meeting medium-term targets, expecting a downward trend in expenses towards 2026.",
+      "nii_change": "down almost 4% year-over-year"
+    },
+    "executives": [
+      {
+        "name": "Jenn Landis",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jane Fraser",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mark Mason",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Transformation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "sufficient resources",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jane Fraser"
+      },
+      {
+        "technology_name": "DTA utilization",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "medium-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mark Mason"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jane Fraser"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jane Fraser"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-12 11:00:00"
+  },
+  {
+    "company_name": "Citigroup Inc.",
+    "symbol": "C",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "3%",
+      "eps_change": "N/A",
+      "rd_investment_change": "N/A",
+      "outlook_summary": "On track to meet full-year revenue guidance of $80 billion to $81 billion. Expects NII ex-markets to be slightly down for the full year. Expects expenses to be on the higher end of the full-year guidance range."
+    },
+    "executives": [
+      {
+        "name": "Jane Fraser",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mark Mason",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jenn Landis",
+        "role": "Head, Citi Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mike Mayo",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Transformation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jane Fraser"
+      },
+      {
+        "technology_name": "Simplification",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mark Mason"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-15 11:00:00"
+  },
+  {
+    "company_name": "Citigroup Inc.",
+    "symbol": "C",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Targeting RoTCE in the range of 10% to 11% in 2026. Expects total expenses in 2025 to be slightly below 2024 levels. Plans to buy back $1.5 billion of common stock in Q1 as part of a $20 billion share repurchase program.",
+      "rd_investment_change": "Expenses from org simplification and stranded costs will fund additional investments in transformation and technology in 2025.",
+      "eps_change": "null"
+    },
+    "executives": [
+      {
+        "name": "Mark Mason",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jane Fraser",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jenn Landis",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jane Fraser"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jane Fraser"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-15 11:00:00"
+  }
+]

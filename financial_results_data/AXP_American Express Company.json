@@ -1,0 +1,227 @@
+[
+  {
+    "company_name": "American Express Company",
+    "symbol": "AXP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "9% to 11%",
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "Reaffirming 2024 guidance for revenue growth of 9% to 11% and EPS between $12.65 and $13.15. Expects to realize a sizable gain on the sale of its certified business and reinvest a substantial portion back into the business."
+    },
+    "executives": [
+      {
+        "name": "Christophe Le Caillec",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kartik Ramachandran",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Stephen Squeri",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "low levels of growth",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Stephen Squeri"
+      },
+      {
+        "technology_name": "Pay over time",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christophe Le Caillec"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-19 08:30:00"
+  },
+  {
+    "company_name": "American Express Company",
+    "symbol": "AXP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "9% to 11%",
+      "eps_change": "mid-teens EPS growth",
+      "outlook_summary": "Raising full-year EPS guidance to a range of $13.30 to $13.80. Expects revenue growth in line with initial 9% to 11% range. Core business generating mid-teens EPS growth."
+    },
+    "executives": [
+      {
+        "name": "Kartik Ramachandran",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Stephen Squeri",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christophe Le Caillec",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital banking",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Cristopher Kennedy"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-19 08:30:00"
+  },
+  {
+    "company_name": "American Express Company",
+    "symbol": "AXP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "9%",
+      "eps_change": "north of guided towards at the beginning of the year",
+      "rd_investment_change": "stepped up technology spend",
+      "outlook_summary": "Q3 is a good proxy for what to expect about Q4, guiding towards 9% revenue growth."
+    },
+    "executives": [
+      {
+        "name": "Kartik Ramachandran",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Steve Squeri",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christophe Le Caillec",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Donna",
+        "role": "Operator",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Cristopher Kennedy",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Erika Najarian",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mark DeVries",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mihir Bhatia",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Control Management",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "investing more",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Stephen Squeri"
+      },
+      {
+        "technology_name": "Resy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "investments",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mihir Bhatia"
+      },
+      {
+        "technology_name": "Tock",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "investments",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mihir Bhatia"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-18 08:30:00"
+  },
+  {
+    "company_name": "American Express Company",
+    "symbol": "AXP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "10%",
+      "eps_change": "25%",
+      "outlook_summary": "Expects 2025 revenue growth of 8% to 10% and EPS of $15 to $15.50, representing a 12% to 16% increase over 2024. Sees momentum from Q4 2024 continuing into 2025, with potential to hit the higher end of revenue range if spend growth remains elevated."
+    },
+    "executives": [
+      {
+        "name": "Steve Squeri",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christophe Le Caillec",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kartik Ramachandran",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "high levels",
+        "revenue_impact": "drive growth",
+        "mentioned_by": "Steve Squeri"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-24 08:30:00"
+  }
+]

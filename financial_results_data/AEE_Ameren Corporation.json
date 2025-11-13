@@ -1,0 +1,313 @@
+[
+  {
+    "company_name": "Ameren Corporation",
+    "symbol": "AEE",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "eps_change": "down 2%",
+      "outlook_summary": "Remain on track to deliver within 2024 earnings guidance range of $4.52 per share to $4.72 per share."
+    },
+    "executives": [
+      {
+        "name": "Marty Lyons",
+        "role": "Chairman, President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Moehn",
+        "role": "Senior Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andrew Kirk",
+        "role": "Director of Investor Relations and Corporate Modeling",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Smart meters",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "55,000 installed",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Marty Lyons"
+      },
+      {
+        "technology_name": "Smart switches",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "60 installed",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Marty Lyons"
+      },
+      {
+        "technology_name": "Underground cable",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "15 miles energized",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Marty Lyons"
+      },
+      {
+        "technology_name": "Overhead lines",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "8 miles hardened",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Marty Lyons"
+      },
+      {
+        "technology_name": "Substations",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "8 upgraded",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Marty Lyons"
+      },
+      {
+        "technology_name": "Digital technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Moehn"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-03 10:00:00"
+  },
+  {
+    "company_name": "Ameren Corporation",
+    "symbol": "AEE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "positive (0.97 per share vs 0.90 per share)",
+      "revenue_growth": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Confident in 2024 earnings guidance range of $4.52 to $4.72 per share. Expects meaningful year-over-year O&M reductions in the second half of the year. Expects strong earnings per share growth driven by robust rate base growth and disciplined cost management.",
+      "industrial_sales_growth": "3% weather normalized year-to-date"
+    },
+    "executives": [
+      {
+        "name": "Michael Moehn",
+        "role": "Senior Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marty Lyons",
+        "role": "Chairman, President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andrew Kirk",
+        "role": "Director of Investor Relations and Corporate Modeling",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital and data analytics",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive (growth from existing large primary service customers)",
+        "mentioned_by": "Michael Moehn"
+      },
+      {
+        "technology_name": "Grid modernization",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Marty Lyons"
+      },
+      {
+        "technology_name": "Clean energy transition",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Marty Lyons"
+      },
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "sustainable cost savings",
+        "mentioned_by": "Michael Moehn"
+      },
+      {
+        "technology_name": "Standardization",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "sustainable cost savings",
+        "mentioned_by": "Michael Moehn"
+      },
+      {
+        "technology_name": "Optimization",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "sustainable cost savings",
+        "mentioned_by": "Michael Moehn"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-02 10:00:00"
+  },
+  {
+    "company_name": "Ameren Corporation",
+    "symbol": "AEE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "flat (Q3 2024 vs Q3 2023)",
+      "outlook_summary": "Issued 2025 guidance early to reinforce confidence in delivering 6-8% EPS CAGR (2024-2028). Expects 2025 EPS in range of $4.85 - $5.05, representing 7.1% growth over 2024 midpoint.",
+      "revenue_growth": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Marty Lyons",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Robin",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Carly Davenport",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Solar energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "500 megawatts of new generation",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Marty Lyons"
+      },
+      {
+        "technology_name": "Transmission infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "approximately $3.6 billion",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Marty Lyons"
+      },
+      {
+        "technology_name": "Natural gas energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "$900 million",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Marty Lyons"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-07 10:00:00"
+  },
+  {
+    "company_name": "Ameren Corporation",
+    "symbol": "AEE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "+5.7%",
+      "rd_investment_change": "approx. $4.3 billion in energy infrastructure in 2024",
+      "outlook_summary": "Affirming 2025 diluted EPS guidance range of $4.85 to $5.05, representing approximately 7% growth. Expects disciplined cost management to hold O&M expenses to around a 1% CAGR over the five-year plan. Confident in long-term strategy driving consistent superior value through robust rate base growth, disciplined cost management, and strong customer growth pipeline."
+    },
+    "executives": [
+      {
+        "name": "Martin Lyons",
+        "role": "Chairman, President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Moehn",
+        "role": "Senior Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andrew Kirk",
+        "role": "Senior Director, Investor Relations and Corporate Modeling",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Energy infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "$4.3 billion in 2024",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Lyons"
+      },
+      {
+        "technology_name": "Grid resilience",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Lyons"
+      },
+      {
+        "technology_name": "Technology sectors",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+2% growth in industrial sales",
+        "mentioned_by": "Michael Moehn"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-14 10:00:00"
+  }
+]

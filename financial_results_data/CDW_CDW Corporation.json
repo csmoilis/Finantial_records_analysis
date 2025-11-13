@@ -1,0 +1,413 @@
+[
+  {
+    "company_name": "CDW Corporation",
+    "symbol": "CDW",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "below our expectations",
+      "outlook_summary": "expects similar gross margins to 2023, but adjusted guidance for low single-digit gross profit growth due to slower solutions spend and earlier than anticipated client device refresh.",
+      "gross_margin_expectation": "similar to 2023, high 21s"
+    },
+    "executives": [
+      {
+        "name": "Steven O'Brien",
+        "role": "N/A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Christine Leahy",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Albert Miralles",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christine Leahy"
+      },
+      {
+        "technology_name": "Large Language Model",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christine Leahy"
+      },
+      {
+        "technology_name": "Security",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christine Leahy"
+      },
+      {
+        "technology_name": "Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christine Leahy"
+      },
+      {
+        "technology_name": "AI PC",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Vogt"
+      },
+      {
+        "technology_name": "AI-enabled Servers",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Vogt"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-01 08:30:00"
+  },
+  {
+    "company_name": "CDW Corporation",
+    "symbol": "CDW",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "down 3.6% year-over-year",
+      "eps_change": "flat to up slightly year-over-year",
+      "gross_profit_growth": "roughly flat, up 0.1% versus the prior year",
+      "gross_margin_change": "increased approximately 80 basis points year-over-year",
+      "outlook_summary": "Expects flat-to-low single-digit gross profit growth for full-year 2024, with gross margin similar to full-year 2023. Full-year non-GAAP EPS expected to be flat to up slightly year-over-year."
+    },
+    "executives": [
+      {
+        "name": "Al Miralles",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ruplu Bhattacharya",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Al Miralles"
+      },
+      {
+        "technology_name": "Security",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Al Miralles"
+      },
+      {
+        "technology_name": "Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Al Miralles"
+      },
+      {
+        "technology_name": "Netcomm",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "negative",
+        "mentioned_by": "Al Miralles"
+      },
+      {
+        "technology_name": "Collaboration hardware",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "negative",
+        "mentioned_by": "Al Miralles"
+      },
+      {
+        "technology_name": "SaaS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Al Miralles"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Ruplu Bhattacharya"
+      },
+      {
+        "technology_name": "Client devices",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Al Miralles"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-31 08:30:00"
+  },
+  {
+    "company_name": "CDW Corporation",
+    "symbol": "CDW",
+    "overall_sentiment": "negative",
+    "financials": {
+      "revenue_growth": "-3.5%",
+      "eps_change": "-3%",
+      "outlook_summary": "Expects low single digit gross profit decline for 2024, with Q4 non-GAAP EPS declining in the high single-digit range year-over-year."
+    },
+    "executives": [
+      {
+        "name": "Steve O'Brien",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris Leahy",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "negative"
+      },
+      {
+        "name": "Al Miralles",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Vogt",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Erik Woodring",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Amit Daryanani",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Matt Sheerin",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Leahy"
+      },
+      {
+        "technology_name": "Security",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve O'Brien"
+      },
+      {
+        "technology_name": "Client Devices",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Leahy"
+      },
+      {
+        "technology_name": "AI PCs",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Matt Sheerin"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-30 08:30:00"
+  },
+  {
+    "company_name": "CDW Corporation",
+    "symbol": "CDW",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "roughly flat year-over-year, but up 2% compared to the prior year factoring in 1 less day",
+      "eps_change": "grow low single digits year-over-year",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects low single-digit gross profit growth and stable gross margin. Full year non-GAAP EPS to grow low single digits. Q1 gross profit expected mid-single-digit decline sequentially, leading to low single-digit YoY growth."
+    },
+    "executives": [
+      {
+        "name": "Albert Miralles",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christine Leahy",
+        "role": "CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 2%",
+        "mentioned_by": "Albert Miralles"
+      },
+      {
+        "technology_name": "security services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Albert Miralles"
+      },
+      {
+        "technology_name": "hardware products",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "mid-single digit growth",
+        "mentioned_by": "Albert Miralles"
+      },
+      {
+        "technology_name": "SaaS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Albert Miralles"
+      },
+      {
+        "technology_name": "NetComm",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "continued growth",
+        "mentioned_by": "Albert Miralles"
+      },
+      {
+        "technology_name": "Storage",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong performer",
+        "mentioned_by": "Albert Miralles"
+      },
+      {
+        "technology_name": "Servers",
+        "technology_sentiment": "negative",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "challenging",
+        "mentioned_by": "Albert Miralles"
+      },
+      {
+        "technology_name": "Client Devices",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "mid-single digit growth",
+        "mentioned_by": "Albert Miralles"
+      },
+      {
+        "technology_name": "Software",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 5%",
+        "mentioned_by": "Albert Miralles"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-05 08:30:00"
+  }
+]

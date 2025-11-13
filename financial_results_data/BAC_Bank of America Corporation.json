@@ -1,0 +1,107 @@
+[
+  {
+    "company_name": "Bank of America Corporation",
+    "symbol": "BAC",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+35% (Investment Banking), +11% (Investment and brokerage services), +10% (Fees and commissions)",
+      "eps_change": "+0.07 (excluding FDIC assessment)",
+      "rd_investment_change": "not specified",
+      "outlook_summary": "Expects to continue returning capital at a strong rate as rules clarify. NII performance exceeded guidance. Expenses managed under inflation rate. Expects modest moves in loan growth and a decline in deposits (but delivered growth).",
+      "net_income": "$6.7 billion (reported), $7.2 billion (excluding FDIC assessment)",
+      "eps": "$0.76 (reported), $0.83 (excluding FDIC assessment)",
+      "investment_banking_fees": "$1.6 billion",
+      "investment_and_brokerage_services_revenue": "$3.6 billion",
+      "asset_under_management_flows": "$25 billion",
+      "sales_and_trading_revenue": "$5.2 billion",
+      "nii": "$14.2 billion",
+      "expenses_growth": "up less than 2% (adjusted for FDIC assessment)",
+      "headcount_reduction": "down by more than 4,700 people year-over-year",
+      "common_equity_tier_1_capital": "$197 billion"
+    },
+    "executives": [
+      {
+        "name": "Brian Moynihan",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Alastair Borthwick",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matthew Koder",
+        "role": "Head of Global Corporate and Investment Banking",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jimmy DeMare",
+        "role": "Head of Global Markets",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Lee McIntyre",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital delivery",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "included in overall investments",
+        "revenue_impact": "strong revenue growth",
+        "mentioned_by": "Brian Moynihan"
+      },
+      {
+        "technology_name": "Digitization",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "contributes to expense cost savings",
+        "revenue_impact": "customer retention and market share improvement",
+        "mentioned_by": "Alastair Borthwick"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-16 08:30:00"
+  },
+  {
+    "company_name": "Bank of America Corporation",
+    "symbol": "BAC",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "null",
+      "eps_change": "null",
+      "rd_investment_change": "null",
+      "outlook_summary": "Expects Net Interest Income (NII) to grow in the third and fourth quarters, with Q2 being the trough for the rate cycle. 2024 is seen as a foundational year for future growth."
+    },
+    "executives": [
+      {
+        "name": "Lee McEntire",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian Moynihan",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Alastair Borthwick",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-16 08:30:00"
+  }
+]

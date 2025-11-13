@@ -1,0 +1,440 @@
+[
+  {
+    "company_name": "Autodesk, Inc.",
+    "symbol": "ADSK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "12%",
+      "outlook_summary": "7% to 9% revenue growth range for the year, with acceleration expected in the back half due to EBAs, FX impact, and no longer having the drag from the exit of Russia."
+    },
+    "executives": [
+      {
+        "name": "Simon Mays-Smith",
+        "role": "VP, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andrew Anagnost",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Debbie Clifford",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Steve Tusa",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sterling Auty",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Autodesk Forma",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "significant",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Revit",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "enhanced value",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Flex consumption model",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Autodesk Build",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Innovyze",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "VR collaboration",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "digital twins",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Autodesk Construction Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "potential price increase",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "LLMs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "potential price increase",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "conversational interfaces",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "potential price increase",
+        "mentioned_by": "Andrew Anagnost"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2023-05-25 17:00:00"
+  },
+  {
+    "company_name": "Autodesk, Inc.",
+    "symbol": "ADSK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "12%",
+      "outlook_summary": "Raising the lower end of guidance ranges due to sustained momentum and early expansion of some EBAs. Foreign exchange movements will be a headwind. Switching from upfront to annual billings for multiyear customers creates a headwind to free cash flow. Expects cash tax rate to return to normalized level."
+    },
+    "executives": [
+      {
+        "name": "Simon Mays-Smith",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andrew Anagnost",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Debbie Clifford",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "BuildingConnected",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Autodesk Construction Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2023-08-23 17:00:00"
+  },
+  {
+    "company_name": "Autodesk, Inc.",
+    "symbol": "ADSK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Raising revenue, earnings per share, and free cash flow guidance while keeping billings guidance constant, despite FX and co-terming headwinds.",
+      "eps_change": "raised guidance",
+      "revenue_growth": "raising guidance",
+      "free_cash_flow_guidance": "raising guidance"
+    },
+    "executives": [
+      {
+        "name": "Simon Mays-Smith",
+        "role": "VP of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andrew Anagnost",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Debbie Clifford",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Autodesk AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Borg"
+      },
+      {
+        "technology_name": "Platform Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Industry Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Fusion",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Forma",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Flow",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2023-11-21 17:00:00"
+  },
+  {
+    "company_name": "Autodesk, Inc.",
+    "symbol": "ADSK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "40% constant currency",
+      "outlook_summary": "Fiscal 2025 revenue growth midpoint at 10%, contingent on macroeconomic backdrop and ability to harvest opportunities. Free cash flow growth of about 35% expected in fiscal 2025, with approximately $2.05 billion for fiscal 2026.",
+      "eps_change": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Simon Mays-Smith",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andrew Anagnost",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Debbie Clifford",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Data Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "BuildingConnected",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Fusion",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Cadence",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Anagnost"
+      },
+      {
+        "technology_name": "Payouts",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+0.5%",
+        "mentioned_by": "Debbie Clifford"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-02-29 17:00:00"
+  }
+]

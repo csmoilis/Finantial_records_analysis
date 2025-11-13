@@ -1,0 +1,331 @@
+[
+  {
+    "company_name": "Crown Castle Inc.",
+    "symbol": "CCI",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Company is on track to meet 2024 financial and operating goals."
+    },
+    "executives": [
+      {
+        "name": "Kris Hinson",
+        "role": "Vice President, Corporate Finance and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robert Bartolo",
+        "role": "Crown Castle's Board Chair",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steven Moskowitz",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Tony Melone",
+        "role": "Former Interim President and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dan Schlanger",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Fiber",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Bartolo"
+      },
+      {
+        "technology_name": "Small cell",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Bartolo"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-17 17:00:00"
+  },
+  {
+    "company_name": "Crown Castle Inc.",
+    "symbol": "CCI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "4.5%",
+      "outlook_summary": "Reiterated full year 2024 outlook, expecting solid operating and financial performance across all three businesses."
+    },
+    "executives": [
+      {
+        "name": "Kris Hinson",
+        "role": "Vice President of Corporate Finance and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Steven Moskowitz",
+        "role": "Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Schlanger",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Simon Flannery",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael Rollins",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Richard Choe",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jim Schneider",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "5G",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "high potential",
+        "mentioned_by": "Steven Moskowitz"
+      },
+      {
+        "technology_name": "Wireless Data",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "high potential",
+        "mentioned_by": "Steven Moskowitz"
+      },
+      {
+        "technology_name": "Fiber",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "moderate potential",
+        "mentioned_by": "Steven Moskowitz"
+      },
+      {
+        "technology_name": "Small Cell",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "high potential",
+        "mentioned_by": "Steven Moskowitz"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-17 17:00:00"
+  },
+  {
+    "company_name": "Crown Castle Inc.",
+    "symbol": "CCI",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "5%",
+      "outlook_summary": "Reaffirmed full year 2024 outlook for adjusted EBITDA and AFFO; lowered 2024 outlook for net income due to asset write-off in small cell business."
+    },
+    "executives": [
+      {
+        "name": "Steven Moskowitz",
+        "role": "Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Schlanger",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kris Hinson",
+        "role": "Vice President of Corporate Finance and Treasurer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Towers",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "4.5%",
+        "mentioned_by": "Steven Moskowitz"
+      },
+      {
+        "technology_name": "Small Cells",
+        "technology_sentiment": "neutral",
+        "investment_action": "divesting",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "10%",
+        "mentioned_by": "Steven Moskowitz"
+      },
+      {
+        "technology_name": "Fiber Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "2%",
+        "mentioned_by": "Steven Moskowitz"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steven Moskowitz"
+      },
+      {
+        "technology_name": "Broadband",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steven Moskowitz"
+      },
+      {
+        "technology_name": "Fiber Optics",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steven Moskowitz"
+      },
+      {
+        "technology_name": "5G",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steven Moskowitz"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-16 17:00:00"
+  },
+  {
+    "company_name": "Crown Castle Inc.",
+    "symbol": "CCI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "4.5%",
+      "outlook_summary": "Full-year 2025 outlook does not include contributions from the Fiber segment due to its sale, with adjusted EBITDA, AFFO, and AFFO per share potentially not representative of future performance. Expected AFFO of approximately $1.8 billion, with anticipated benefits from debt reduction and revenue improvements.",
+      "cost_reduction_annualized": "$100 million",
+      "net_capex_reduction_vs_june_forecast": "almost $200 million",
+      "net_capex_reduction_vs_oct_2023_guidance": "$400 million",
+      "advisory_fees_q4": "$10 million",
+      "advisory_fees_full_year": "$40 million",
+      "dividend_payout_ratio_target": "75% to 80% of annual AFFO"
+    },
+    "executives": [
+      {
+        "name": "Kris Hinson",
+        "role": "Vice President of Corporate Finance and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Steven Moskowitz",
+        "role": "Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Schlanger",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Towers",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "4.5%",
+        "mentioned_by": "Dan Schlanger"
+      },
+      {
+        "technology_name": "Small Cells",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "12%",
+        "mentioned_by": "Dan Schlanger"
+      },
+      {
+        "technology_name": "Fiber Solutions",
+        "technology_sentiment": "neutral",
+        "investment_action": "divesting",
+        "investment_horizon": "unclear",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "2%",
+        "mentioned_by": "Dan Schlanger"
+      },
+      {
+        "technology_name": "Commercial Enterprise Fiber",
+        "technology_sentiment": "neutral",
+        "investment_action": "divesting",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steven Moskowitz"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-03-13 17:00:00"
+  }
+]

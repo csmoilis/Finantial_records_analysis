@@ -1,0 +1,467 @@
+[
+  {
+    "company_name": "Broadcom Inc.",
+    "symbol": "AVGO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "34%",
+      "outlook_summary": "Reiterates fiscal 2024 guidance for consolidated revenue to be $50 billion, representing 40% year-on-year growth, and full year adjusted EBITDA guidance of 60%. Expects continued strong bookings at VMware will accelerate revenue growth through the rest of fiscal 2024."
+    },
+    "executives": [
+      {
+        "name": "Ji Yoo",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Hock Tan",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kirsten Spears",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Charlie Kawwas",
+        "role": "President, Semiconductor Solutions Group",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Edward Snyder",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Harsh Kumar",
+        "role": "Analyst",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Harlan Sur",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "over $10 billion",
+        "revenue_impact": "35%",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "Carbon Black",
+        "technology_sentiment": "neutral",
+        "investment_action": "integrating",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "Symantec",
+        "technology_sentiment": "neutral",
+        "investment_action": "integrating",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "VMware Cloud Foundation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit percentage sequentially",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "VCF",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong demand",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "Private Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "very successful",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "VMware Private AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong demand",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "GPUs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong demand",
+        "mentioned_by": "Hock Tan"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-03-07 17:15:00"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "symbol": "AVGO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "12%",
+      "outlook_summary": "Raising guidance for fiscal year 2024 consolidated revenue to $51 billion and adjusted EBITDA to 61%.",
+      "rd_investment_change": null,
+      "eps_change": null
+    },
+    "executives": [
+      {
+        "name": "Ji Yoo",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Hock Tan",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kirsten Spears",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Charlie Kawwas",
+        "role": "President, Semiconductor Solutions Group",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "VMware",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "networking",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "GPU",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Harlan Sur"
+      },
+      {
+        "technology_name": "TPU",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Harlan Sur"
+      },
+      {
+        "technology_name": "Cloud Foundation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ben Reitzes"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-06-12 17:00:00"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "symbol": "AVGO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "up 51% year-on-year (Q4 consolidated)",
+      "outlook_summary": "Raising fiscal 2024 revenue to $51.5 billion and adjusted EBITDA to 61.5%. Expects Q4 consolidated revenue of $14 billion, up 51% year-on-year. AI revenue expected to reach $12 billion for fiscal '24. Expects Q4 semiconductor revenue of $8 billion, up 9% year-on-year. Infrastructure software revenue expected to be $6 billion in Q4.",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Ji Yoo",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Hock Tan",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kirsten Spears",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Charlie Kawwas",
+        "role": "President, Semiconductor Solutions Group",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI Accelerators",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+10% sequentially (Q4)",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "AI Networking",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "over 40% year-on-year (Q4 total networking)",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "Ethernet Switching",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "over 4 times year-on-year",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "Optical Interconnects",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "three-fold year-on-year",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "PCI Express Switches",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "more than doubled year-on-year",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "NICs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "shipping in volume",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "DSPs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "shipping in volume",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "VMware",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "$3.8 billion (Q3 revenue)",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "SaaS",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Hock Tan"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-09-05 17:00:00"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "symbol": "AVGO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "22% (Q1 guidance)",
+      "eps_change": "12% year-on-year",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Consolidated Q1 revenue guidance of $14.6 billion, up 22% year-on-year. Q1 adjusted EBITDA expected at 66% of revenue. Semiconductor revenue expected to grow 10% year-on-year, AI revenue up 65% year-on-year. Infrastructure software revenue up 41% year-on-year."
+    },
+    "executives": [
+      {
+        "name": "Ji Yoo",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Hock Tan",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kirsten Spears",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Charlie Kawwas",
+        "role": "President Semiconductor Solutions Group",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+150% year-on-year (Q4)",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "Semiconductor",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+12% year-on-year (Q4)",
+        "mentioned_by": "Hock Tan"
+      },
+      {
+        "technology_name": "Custom silicon AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "Projected $50B in fiscal '27",
+        "mentioned_by": "Vijay Rakesh"
+      },
+      {
+        "technology_name": "VMware",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+41% year-on-year (Q1 guidance)",
+        "mentioned_by": "Kirsten Spears"
+      },
+      {
+        "technology_name": "Infrastructure software",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+41% year-on-year (Q1 guidance)",
+        "mentioned_by": "Kirsten Spears"
+      },
+      {
+        "technology_name": "Networking",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Harsh Kumar"
+      },
+      {
+        "technology_name": "Merchant silicon",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Harsh Kumar"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-12-12 17:00:00"
+  }
+]

@@ -1,0 +1,430 @@
+[
+  {
+    "company_name": "Franklin Resources, Inc.",
+    "symbol": "BEN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Guidance for the fiscal second quarter includes an assumption of $50 million of performance fees. Annual guide of $4.55 billion to $4.6 billion excludes performance fees and includes 9 months of Putnam, with expenses expected to increase between 1% and 2% year-over-year on a foundational level, assuming 5% higher revenue."
+    },
+    "executives": [
+      {
+        "name": "Selene Oh",
+        "role": "Chief Communications Officer and Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jennifer Johnson",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matthew Nicholls",
+        "role": "CFO and COO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam Spector",
+        "role": "Head of Global Distribution",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Daniel Fannon",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Alexander Blostein",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brennan Hawken",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael Cyprys",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "William Katz",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "ETFs",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Spector"
+      },
+      {
+        "technology_name": "Smart Beta",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Spector"
+      },
+      {
+        "technology_name": "Active Management",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Spector"
+      },
+      {
+        "technology_name": "Passive Mutual Fund",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Johnson"
+      },
+      {
+        "technology_name": "Passive ETF",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Johnson"
+      },
+      {
+        "technology_name": "Fixed Income",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Adam Spector"
+      },
+      {
+        "technology_name": "Stable Value",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Spector"
+      },
+      {
+        "technology_name": "Ultrashort",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Spector"
+      },
+      {
+        "technology_name": "Target Date",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+150B",
+        "mentioned_by": "Adam Spector"
+      },
+      {
+        "technology_name": "Alternatives",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Johnson"
+      },
+      {
+        "technology_name": "Equity",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer Johnson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-01-29 11:00:00"
+  },
+  {
+    "company_name": "Franklin Resources, Inc.",
+    "symbol": "BEN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Management expects effective fee rate to trend around 38.5%, with potential fluctuations due to mix, AUM levels, and one-time fees. Expenses are managed with discipline, showing flat growth excluding recent acquisitions.",
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Jennifer Johnson",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam Spector",
+        "role": "unclear",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matthew Nicholls",
+        "role": "unclear",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Fixed Income",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Glenn Schorr"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "ETFs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Adam Spector"
+      },
+      {
+        "technology_name": "Private Markets",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Jennifer Johnson"
+      },
+      {
+        "technology_name": "Alternatives",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Jennifer Johnson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-04-29 00:00:00"
+  },
+  {
+    "company_name": "Franklin Resources, Inc.",
+    "symbol": "BEN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "adjusted_operating_income_change_qoq": "+1.3%",
+      "adjusted_operating_income_change_yoy": "-10.9%",
+      "outlook_summary": "Continue to invest in the business to support strategic priorities in Asset Management and Wealth Management."
+    },
+    "executives": [
+      {
+        "name": "Jennifer M. Johnson",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matt Nicholls",
+        "role": "CFO and COO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Adam Spector",
+        "role": "Head of Global Distribution",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Selene Oh",
+        "role": "Chief Communications Officer and Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Artificial Intelligence",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer M. Johnson"
+      },
+      {
+        "technology_name": "AI Platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer M. Johnson"
+      },
+      {
+        "technology_name": "Blockchain Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer M. Johnson"
+      },
+      {
+        "technology_name": "Digital Assets",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer M. Johnson"
+      },
+      {
+        "technology_name": "Cryptocurrencies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer M. Johnson"
+      },
+      {
+        "technology_name": "Investment Management Technologies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jennifer M. Johnson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-07-26 11:00:00"
+  },
+  {
+    "company_name": "Franklin Resources, Inc.",
+    "symbol": "BEN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expenses expected to be similar to last fiscal year, with revenue loss from Western Asset Management offset by other growth areas. Careful expense management and integration initiatives are in place."
+    },
+    "executives": [
+      {
+        "name": "Jenny Johnson",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matt Nicholls",
+        "role": "CFO and COO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Adam Spector",
+        "role": "Head of Global Distribution",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Selene Oh",
+        "role": "Chief Communications Officer and Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "blockchain",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jenny Johnson"
+      },
+      {
+        "technology_name": "artificial intelligence",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jenny Johnson"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jenny Johnson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-11-04 11:00:00"
+  }
+]

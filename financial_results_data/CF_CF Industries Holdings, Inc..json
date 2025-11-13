@@ -1,0 +1,350 @@
+[
+  {
+    "company_name": "CF Industries Holdings, Inc.",
+    "symbol": "CF",
+    "overall_sentiment": "negative",
+    "financials": {
+      "adjusted_ebitda": "$460 million",
+      "net_earnings_attributable_to_common_stockholders": "$194 million",
+      "eps_change": "$1.03 per diluted share",
+      "ebitda": "$488 million",
+      "outlook_summary": "Acknowledged challenging first quarter due to production outages, but focused on restoring network to full utilization safely."
+    },
+    "executives": [
+      {
+        "name": "Tony Will",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris Bohn",
+        "role": "Executive Vice President and Chief Operating Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bert Frost",
+        "role": "Executive Vice President of Sales, Market Development and Supply Chain",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Martin Jarosick",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Ammonia",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Bohn"
+      },
+      {
+        "technology_name": "0 carbon ammonia",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bert Frost"
+      },
+      {
+        "technology_name": "steam methane reformer",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "$2.5 billion",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tony Will"
+      },
+      {
+        "technology_name": "flue gas capture",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tony Will"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 10:00:00"
+  },
+  {
+    "company_name": "CF Industries Holdings, Inc.",
+    "symbol": "CF",
+    "overall_sentiment": "positive",
+    "financials": {
+      "adjusted_ebitda_q2_2024": "752 million USD",
+      "adjusted_ebitda_h1_2024": "1.2 billion USD",
+      "net_earnings_h1_2024": "614 million USD",
+      "eps_h1_2024": "3.31 USD",
+      "net_earnings_q2_2024": "420 million USD",
+      "eps_q2_2024": "2.30 USD",
+      "net_cash_from_operations_ttm": "2 billion USD",
+      "free_cash_flow_ttm": "1.2 billion USD",
+      "dividends_paid_ttm": "341 million USD",
+      "shares_repurchased_ttm": "13.1 million",
+      "capital_returned_ttm": "1 billion USD",
+      "share_repurchase_authorization_remaining": "1.9 billion USD",
+      "share_repurchase_completion_date": "December 2025",
+      "outlook_summary": "Company pleased with operational performance and progress on decarbonization projects. Intends to complete remaining share repurchase authorization by December 2025. Believes enterprise value is undervalued, citing recent industry acquisitions."
+    },
+    "executives": [
+      {
+        "name": "Greg Cameron",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Bohn",
+        "role": "Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Bert Frost",
+        "role": "Executive Vice President of Sales, Market Development and Supply Chain",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Martin Jarosick",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Anthony Will",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Decarbonization",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anthony Will"
+      },
+      {
+        "technology_name": "Clean Energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anthony Will"
+      },
+      {
+        "technology_name": "Low carbon ammonia",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gregory Cameron"
+      },
+      {
+        "technology_name": "Ammonia",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anthony Will"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-08 11:00:00"
+  },
+  {
+    "company_name": "CF Industries Holdings, Inc.",
+    "symbol": "CF",
+    "overall_sentiment": "positive",
+    "financials": {
+      "adjusted_ebitda_q3_2024": "511 million USD",
+      "adjusted_ebitda_ytd_2024": "1.7 billion USD",
+      "shareholder_returns_ytd": "580 million USD",
+      "outlook_summary": "Global nitrogen demand remains consistently strong, and the company expects attractive margin opportunities globally."
+    },
+    "executives": [
+      {
+        "name": "Martin Jarosick",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Anthony Will",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Bohn",
+        "role": "Executive Vice President and Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Bert Frost",
+        "role": "Executive Vice President of Sales, Market Development and Supply Chain",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Greg Cameron",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Carbon Capture and Sequestration",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Bohn"
+      },
+      {
+        "technology_name": "Green Ammonia",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Bohn"
+      },
+      {
+        "technology_name": "Low-Carbon Ammonia",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Bohn"
+      },
+      {
+        "technology_name": "Ammonia",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bert Frost"
+      },
+      {
+        "technology_name": "UAN",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bert Frost"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 10:00:00"
+  },
+  {
+    "company_name": "CF Industries Holdings, Inc.",
+    "symbol": "CF",
+    "overall_sentiment": "positive",
+    "financials": {
+      "adjusted_ebitda_q4_2024": "562M USD",
+      "adjusted_ebitda_fy_2024": "2.3B USD",
+      "capital_returned_2024": "1.9B USD",
+      "outlook_summary": "Well-positioned to continue generating superior free cash flow, enabling growth and substantial capital return to shareholders. Expects strong nitrogen demand in the US 2025, with global nitrogen market tightening through the end of the decade. Anticipates continued share repurchases and potential investments in low-carbon ammonia production capacity."
+    },
+    "executives": [
+      {
+        "name": "Tony Will",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Bohn",
+        "role": "Executive Vice President and Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Bert Frost",
+        "role": "Executive Vice President of Sales, Market Development and Supply Chain",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Greg Cameron",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Martin Jarosick",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Ammonia",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bert Frost"
+      },
+      {
+        "technology_name": "Low-carbon ammonia",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tony Will"
+      },
+      {
+        "technology_name": "CCS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tony Will"
+      },
+      {
+        "technology_name": "Blue Point complex",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tony Will"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-20 11:00:00"
+  }
+]

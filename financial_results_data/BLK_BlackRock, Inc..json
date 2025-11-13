@@ -1,0 +1,372 @@
+[
+  {
+    "company_name": "BlackRock, Inc.",
+    "symbol": "BLK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "double-digit growth",
+      "eps_change": "double-digit growth",
+      "margin_expansion": "180 basis points",
+      "aum": "record $10.5 trillion",
+      "long_term_net_inflows": "$76 billion",
+      "outlook_summary": "Confident in ability to grow assets and drive profitable growth."
+    },
+    "executives": [
+      {
+        "name": "Martin Small",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Laurence Fink",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris Meade",
+        "role": "General Counsel",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robert S. Kapito",
+        "role": "President",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Laurence Fink"
+      },
+      {
+        "technology_name": "ETFs",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Small"
+      },
+      {
+        "technology_name": "Outsource solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Small"
+      },
+      {
+        "technology_name": "Private markets",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Small"
+      },
+      {
+        "technology_name": "Model portfolios",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Small"
+      },
+      {
+        "technology_name": "Option overlay strategies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Small"
+      },
+      {
+        "technology_name": "Separately managed accounts",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Small"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-12 07:30:00"
+  },
+  {
+    "company_name": "BlackRock, Inc.",
+    "symbol": "BLK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "3%",
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "Expects to achieve or exceed 5% organic base fee growth target over the long term. Expects headcount to be broadly flat in 2024 and a low- to mid-single digit percentage increase in 2024 core G&A expense."
+    },
+    "executives": [
+      {
+        "name": "Martin S. Small",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Laurence D. Fink",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Craig Siegenthaler",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Aladdin",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin S. Small"
+      },
+      {
+        "technology_name": "ETFs",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin S. Small"
+      },
+      {
+        "technology_name": "Indexing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin S. Small"
+      },
+      {
+        "technology_name": "Private Markets Data",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+15%",
+        "mentioned_by": "Martin S. Small"
+      },
+      {
+        "technology_name": "Technology Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "10%",
+        "mentioned_by": "Martin S. Small"
+      },
+      {
+        "technology_name": "eFront",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin S. Small"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-15 07:30:00"
+  },
+  {
+    "company_name": "BlackRock, Inc.",
+    "symbol": "BLK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "record levels of quarterly revenue",
+      "eps_change": null,
+      "rd_investment_change": "Q4 core G&A to reflect execution of planned technology investment spend at levels more consistent with Q3",
+      "outlook_summary": "Positive outlook for continued inflows across bond funds, ETFs, and institutional accounts. Expects Q4 core G&A to reflect planned technology investment and seasonal marketing spend increases. Anticipates repurchasing at least $375 million of shares in Q4."
+    },
+    "executives": [
+      {
+        "name": "Martin S. Small",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Laurence D. Fink",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christopher J. Meade",
+        "role": "General Counsel",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robert S. Kapito",
+        "role": "President",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Aladdin",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "15% ACV growth",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin S. Small"
+      },
+      {
+        "technology_name": "iShares",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "approximately $250 billion through the third quarter",
+        "revenue_impact": "+40% higher than at year end 2021 (for fixed income ETF assets)",
+        "mentioned_by": "Martin S. Small"
+      },
+      {
+        "technology_name": "Private Markets",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "triples infrastructure AUM and doubles private markets run rate management fees (due to GIP acquisition)",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin S. Small"
+      },
+      {
+        "technology_name": "Infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "triples AUM (due to GIP acquisition)",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin S. Small"
+      },
+      {
+        "technology_name": "Global Infrastructure Partners",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin S. Small"
+      },
+      {
+        "technology_name": "Preqin",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin S. Small"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-11 07:30:00"
+  },
+  {
+    "company_name": "BlackRock, Inc.",
+    "symbol": "BLK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "net_inflows_q4": "81 billion USD",
+      "net_inflows_fy2024": "153 billion USD",
+      "aum_growth_cash_liquidity": "20% year-over-year",
+      "net_inflows_last_5_years": "over 2 trillion USD",
+      "outlook_summary": "Optimistic about market opportunities for clients into 2025, expects continued growth and upside potential."
+    },
+    "executives": [
+      {
+        "name": "Laurence D. Fink",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Martin S. Small",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Robert S. Kapito",
+        "role": "President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christopher J. Meade",
+        "role": "General Counsel",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Aladdin",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher J. Meade"
+      },
+      {
+        "technology_name": "eFront",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher J. Meade"
+      },
+      {
+        "technology_name": "Preqin",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Laurence D. Fink"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-15 07:30:00"
+  }
+]

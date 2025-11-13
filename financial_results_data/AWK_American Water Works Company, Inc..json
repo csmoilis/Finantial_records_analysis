@@ -1,0 +1,317 @@
+[
+  {
+    "company_name": "American Water Works Company, Inc.",
+    "symbol": "AWK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "+0.04 per share",
+      "outlook_summary": "Affirmed full year earnings guidance.",
+      "revenue_growth": null
+    },
+    "executives": [
+      {
+        "name": "Aaron Musgrave",
+        "role": "N/A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "M. Hardwick",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Cheryl Norton",
+        "role": "N/A",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Griffith",
+        "role": "N/A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Richard Sunderland",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Agnieszka Storozynski",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Gregg Orrill",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "PFAS",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Cheryl Norton"
+      },
+      {
+        "technology_name": "Data Centers",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gregg Orrill"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 09:00:00"
+  },
+  {
+    "company_name": "American Water Works Company, Inc.",
+    "symbol": "AWK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "in line with expectations; raised guidance to $5.25-$5.30 per share",
+      "revenue_growth": "effective in the latter half of 2024",
+      "outlook_summary": "raised 2024 EPS guidance to the top half of the range; on track for 8.5% EPS growth in 2024",
+      "rd_investment_change": "invested $1.4 billion in capital projects year-to-date"
+    },
+    "executives": [
+      {
+        "name": "Susan Hardwick",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John",
+        "role": "President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Cheryl",
+        "role": "COO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Bowler",
+        "role": "Executive Vice President and CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Nick Furia",
+        "role": "Vice President and Treasurer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Aaron Musgrave",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Water infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "$1.4 billion year-to-date",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Susan Hardwick"
+      },
+      {
+        "technology_name": "Wastewater infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "$1.4 billion year-to-date",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Susan Hardwick"
+      },
+      {
+        "technology_name": "Water quality",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Cheryl"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 09:00:00"
+  },
+  {
+    "company_name": "American Water Works Company, Inc.",
+    "symbol": "AWK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_growth_longterm": "7% to 9% compounded annual growth rates",
+      "outlook_summary": "Affirming long-term targets of 7% to 9% EPS and dividend compounded annual growth rates through 2029 and beyond. Expects 8% to 9% rate base growth over the next decade. Updated financing plan includes $2.5 billion of external equity issuances for 2025-2029.",
+      "revenue_growth": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Richard Sunderland",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Bowler",
+        "role": "Executive Vice President and CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Griffith",
+        "role": "President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Susan Hardwick",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Durgesh Chopra",
+        "role": "Analyst",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Aaron Musgrave",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Cheryl Norton",
+        "role": "Executive Vice President and COO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cybersecurity",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "none",
+        "mentioned_by": "Richard Sunderland"
+      },
+      {
+        "technology_name": "Wastewater Infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "accelerated CapEx plan",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Griffith"
+      },
+      {
+        "technology_name": "Lead and Copper Rule",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "expected impact of EPA's lead and copper rule improvements",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Cheryl Norton"
+      },
+      {
+        "technology_name": "PFAS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Griffith"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 09:00:00"
+  },
+  {
+    "company_name": "American Water Works Company, Inc.",
+    "symbol": "AWK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "7% to 9% growth",
+      "outlook_summary": "Affirmation of financial plan, long-term targets, and guidance for 7% to 9% EPS and dividend growth, driven by 8% to 9% rate base growth. Consistent EPS growth expected through 2029 and beyond. Business plan is strong and compelling.",
+      "revenue_growth": "8% to 9% rate base growth"
+    },
+    "executives": [
+      {
+        "name": "Susan Hardwick",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Griffith",
+        "role": "President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Bowler",
+        "role": "Executive Vice President and CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Cheryl Norton",
+        "role": "Executive Vice President and COO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Aaron Musgrave",
+        "role": "VP of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Infrastructure Renewal",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Susan Hardwick"
+      },
+      {
+        "technology_name": "Water Quality",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Susan Hardwick"
+      },
+      {
+        "technology_name": "Wastewater Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Susan Hardwick"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-20 09:00:00"
+  }
+]

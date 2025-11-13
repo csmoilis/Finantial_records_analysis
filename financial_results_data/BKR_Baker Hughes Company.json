@@ -1,0 +1,332 @@
+[
+  {
+    "company_name": "Baker Hughes Company",
+    "symbol": "BKR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Confident in full year guidance, expecting another strong year with continued margin progress and resilience despite external volatility. Q2 guidance highlights differentiated portfolio and strong EBITDA growth, particularly in IET. Full year guidance remains unchanged, with increasing confidence based on H1 performance."
+    },
+    "executives": [
+      {
+        "name": "Lorenzo Simonelli",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Nancy Buese",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chase Mulvehill",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "ready gas turbines",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "clean power solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "LNG equipment",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "production optimization solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "natural gas",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Lorenzo Simonelli"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-24 09:30:00"
+  },
+  {
+    "company_name": "Baker Hughes Company",
+    "symbol": "BKR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "Not explicitly stated as a company-wide percentage, but segment revenues were discussed positively.",
+      "eps_change": "Not explicitly stated",
+      "rd_investment_change": "Not explicitly stated",
+      "outlook_summary": "Raised EBITDA guidance by 5% due to stronger revenue expectations and margin upgrades in IET. Expects IET revenues to increase by 20% this year. OFSE outlook unchanged. Trending toward the high end of new energy guidance ($800M - $1B)."
+    },
+    "executives": [
+      {
+        "name": "Lorenzo Simonelli",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Nancy Buese",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chase Mulvehill",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cordant Asset Health",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "Leucipa",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "Gas Tech Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lorenzo Simonelli"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-26 09:30:00"
+  },
+  {
+    "company_name": "Baker Hughes Company",
+    "symbol": "BKR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "outpace 20% installed base increase by 2030",
+      "outlook_summary": "Seeing robust level of activity for 2025 with positive momentum, official guidance in January 2025. EBITDA margins in IET reaching high-teens, on track for 20% in 2026. OFSE EBITDA margin at 19.3%, approaching 20% target."
+    },
+    "executives": [
+      {
+        "name": "Lorenzo Simonelli",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Nancy Buese",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chase Mulvehill",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "LNG",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "expected to increase by 70% between now and 2030",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "Advanced Service Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "Digital Capabilities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "Industrial Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "Lean Strategies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lorenzo Simonelli"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-23 09:30:00"
+  },
+  {
+    "company_name": "Baker Hughes Company",
+    "symbol": "BKR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "EBITDA expected to demonstrate strong growth in 2025. Expects segment margins beyond 20% target. Guidance for 2025 IET orders at $13.5 billion midpoint.",
+      "revenue_growth": "strong growth trajectory",
+      "eps_change": "N/A",
+      "rd_investment_change": "N/A"
+    },
+    "executives": [
+      {
+        "name": "Chase Mulvehill",
+        "role": "VP, IR",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Lorenzo Simonelli",
+        "role": "Chairman & CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Nancy Buese",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Gas Tech Services",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "structurally grow high margin business",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "LNG",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Lorenzo Simonelli"
+      },
+      {
+        "technology_name": "new energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Nancy Buese"
+      },
+      {
+        "technology_name": "digital",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Lorenzo Simonelli"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-31 03:30:00"
+  }
+]

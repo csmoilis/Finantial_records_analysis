@@ -1,0 +1,447 @@
+[
+  {
+    "company_name": "Amgen Inc.",
+    "symbol": "AMGN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+22%",
+      "outlook_summary": "On track to meet 2024 full goals and long-term objectives with a strong growth outlook."
+    },
+    "executives": [
+      {
+        "name": "Robert Bradway",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Justin Claeys",
+        "role": "Not specified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "James Bradner",
+        "role": "Not specified",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Murdo Gordon",
+        "role": "Not specified",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Vikram Karnani",
+        "role": "Not specified",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Peter Griffith",
+        "role": "Not specified",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "MariTide",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Bradner"
+      },
+      {
+        "technology_name": "Repatha",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+double-digit volume growth",
+        "mentioned_by": "Murdo Gordon"
+      },
+      {
+        "technology_name": "EVENITY",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+double-digit volume growth",
+        "mentioned_by": "Murdo Gordon"
+      },
+      {
+        "technology_name": "TEZSPIRE",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+double-digit volume growth",
+        "mentioned_by": "Murdo Gordon"
+      },
+      {
+        "technology_name": "TAVNEOS",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+double-digit volume growth",
+        "mentioned_by": "Murdo Gordon"
+      },
+      {
+        "technology_name": "BLINCYTO",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+double-digit volume growth",
+        "mentioned_by": "Murdo Gordon"
+      },
+      {
+        "technology_name": "Legacy Horizon Business",
+        "technology_sentiment": "positive",
+        "investment_action": "integrating",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "$914 million in Q1",
+        "mentioned_by": "Murdo Gordon"
+      },
+      {
+        "technology_name": "TEPEZZA",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Vikram Karnani"
+      },
+      {
+        "technology_name": "Obesity",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Bradway"
+      },
+      {
+        "technology_name": "Tarlatamab",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jay Olson"
+      },
+      {
+        "technology_name": "Small Cell Lung Cancer",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Murdo Gordon"
+      },
+      {
+        "technology_name": "GLP-1s",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mohit Bansal"
+      },
+      {
+        "technology_name": "AMG 133",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mohit Bansal"
+      },
+      {
+        "technology_name": "Obesity and Cardiometabolic Strategy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gregory Renza"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-01 22:45:00"
+  },
+  {
+    "company_name": "Amgen Inc.",
+    "symbol": "AMGN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "rd_investment_change": "expected to increase to $1.3 billion in 2024 from $1.1 billion to $1.2 billion",
+      "outlook_summary": "Long-term outlook remains robust. Expenses for Q3 expected to grow at a similar rate to Q1 and Q2. OI&E expected to be approximately $2.5 billion, including interest expense related to the Horizon acquisition debt. Non-GAAP tax rate expected to be in the 15% to 16% range.",
+      "eps_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Justin Claeys",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bob Bradway",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Peter Griffith",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Murdo Gordon",
+        "role": "EVP Global Commercial Operations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Vikram Karnani",
+        "role": "EVP of Human Resources",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jay Bradner",
+        "role": "Chief Scientific Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "rare disease products",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bob Bradway"
+      },
+      {
+        "technology_name": "MariTide manufacturing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "1.3 billion USD",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peter Griffith"
+      },
+      {
+        "technology_name": "TEPEZZA",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Nachman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-06 16:30:00"
+  },
+  {
+    "company_name": "Amgen Inc.",
+    "symbol": "AMGN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "rd_investment_change": "up 35% quarter-over-quarter to the prior year",
+      "outlook_summary": "Capital expenditure guidance remains at $1.3 billion for 2024. Long-term growth outlook remains strong.",
+      "oi_and_e_guidance": "$2.4 billion to $2.5 billion",
+      "non_gaap_tax_rate": "14% to 15% range",
+      "capital_expenditure_guidance": "$1.3 billion for 2024"
+    },
+    "executives": [
+      {
+        "name": "Justin Claeys",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bob Bradway",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Murdo Gordon",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Vikram Karnani",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "James Bradner",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Peter Griffith",
+        "role": "Executive",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "MariTide",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Bradner"
+      },
+      {
+        "technology_name": "Obesity treatments",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Bradner"
+      },
+      {
+        "technology_name": "513",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Bradner"
+      },
+      {
+        "technology_name": "TEPEZZA",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Bradner"
+      },
+      {
+        "technology_name": "Antibody platform",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robert Bradway"
+      },
+      {
+        "technology_name": "MVASI",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Murdo Gordon"
+      },
+      {
+        "technology_name": "PAVBLU",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Murdo Gordon"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-30 16:30:00"
+  },
+  {
+    "company_name": "Amgen Inc.",
+    "symbol": "AMGN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects continued growth and innovation through 2030 and beyond, driven by a strong business, portfolio, and pipeline. Anticipates operating margin of roughly 46% in 2025, with Q1 operating margin lowest at roughly 42% and accelerating thereafter. Non-GAAP OI&E expected at approximately $2.4 billion in 2025. Non-GAAP tax rate expected at 15% to 16%. Share repurchases not to exceed $500 million in 2025. Share count in Q1 2025 expected flat to Q4 2024. Capital expenditures of approximately $2.3 billion in 2025. Free cash flow performance in 2025 expected to be similar to 2023, impacted by working capital timing, tax payments, and repatriation tax payment.",
+      "revenue_growth": "mid-single-digit percent level (over past decade)",
+      "eps_change": "approximately 9% per year (over past decade)",
+      "rd_investment_change": "Declining non-GAAP SG&A spend as a percentage of product sales by approximately 1 to 2 percentage points year-over-year in 2025."
+    },
+    "executives": [
+      {
+        "name": "Justin Claeys",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robert Bradway",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jay Bradner",
+        "role": "Head of R&D",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Murdo Gordon",
+        "role": "Head of Commercial",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Peter Griffith",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peter Griffith"
+      },
+      {
+        "technology_name": "Artificial Intelligence",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jay Bradner"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-04 16:30:00"
+  }
+]

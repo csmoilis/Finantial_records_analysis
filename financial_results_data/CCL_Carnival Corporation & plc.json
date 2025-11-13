@@ -1,0 +1,212 @@
+[
+  {
+    "company_name": "Carnival Corporation & plc",
+    "symbol": "CCL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "up over 17%",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Full-year guidance raised for net income and EBITDA, driven by higher yields and cost improvements, partially offset by Red Sea rerouting and fuel costs. Expects capacity increase of 4.5% and net income of $1.28 billion."
+    },
+    "executives": [
+      {
+        "name": "David Bernstein",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Josh Weinstein",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Beth Roberts",
+        "role": "SVP, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Micky Arison",
+        "role": "Chair",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Advertising",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Bernstein"
+      },
+      {
+        "technology_name": "Carbon Footprint Reduction",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "David Bernstein"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-03-27 10:00:00"
+  },
+  {
+    "company_name": "Carnival Corporation & plc",
+    "symbol": "CCL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+12%",
+      "eps_change": "N/A",
+      "rd_investment_change": "N/A",
+      "outlook_summary": "Improved full year guidance with net income of $1.55 billion, driven by higher yields, cost savings, and reduced interest expense. Expects two-turn improvement in net debt to EBITDA leverage by year-end."
+    },
+    "executives": [
+      {
+        "name": "David Bernstein",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Beth Roberts",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Josh Weinstein",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Micky Arison",
+        "role": "Chair",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Celebration Key",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "N/A",
+        "revenue_impact": "N/A",
+        "mentioned_by": "Josh Weinstein"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-06-25 10:00:00"
+  },
+  {
+    "company_name": "Carnival Corporation & plc",
+    "symbol": "CCL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": null,
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "Expects continued improvements in leverage metrics and balance sheet, moving towards investment-grade metrics by end of 2026. Substantial free cash flow driven by operational execution and a low newbuild order book.",
+      "ebitda": "record $2.8 billion (Q3)",
+      "debt_prepayments": "$7.3 billion since the beginning of 2023",
+      "revolving_credit_facility_upsized": "nearly $500 million",
+      "undrawn_commitment": "$3 billion",
+      "net_debt_to_ebitda_leverage": "approaching 4.5 times (expected end of 2024)",
+      "cost_impact_celebration_key": "0.5 point (year-over-year)",
+      "cost_impact_dry_dock_days_2025": "0.75 point (year-over-year)",
+      "yield_guidance_q4": "5%"
+    },
+    "executives": [
+      {
+        "name": "Beth Roberts",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Josh Weinstein",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Bernstein",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Micky Arison",
+        "role": "Chair",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Celebration Key",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Josh Weinstein"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-09-30 10:00:00"
+  },
+  {
+    "company_name": "Carnival Corporation & plc",
+    "symbol": "CCL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+4%",
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "2025 net income guidance over $2.3 billion, an improvement of more than $400 million versus 2024. Yield growth expected to exceed 4%."
+    },
+    "executives": [
+      {
+        "name": "Beth Roberts",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Josh Weinstein",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Bernstein",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mickey Harrison",
+        "role": "Chair",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Carbon Emissions",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "EUA regulation in 2025 increases to 70% of carbon emissions from 40% in 2024, expected impact of higher EUA costs on year-over-year fuel expense to be about $0.03 per share.",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Josh Weinstein"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-12-20 10:00:00"
+  }
+]

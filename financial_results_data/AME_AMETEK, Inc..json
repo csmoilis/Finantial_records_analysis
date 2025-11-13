@@ -1,0 +1,237 @@
+[
+  {
+    "company_name": "AMETEK, Inc.",
+    "symbol": "AME",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "flat",
+      "eps_change": "double-digit growth",
+      "outlook_summary": "Increasing earnings guidance for the full year."
+    },
+    "executives": [
+      {
+        "name": "Kevin Coleman",
+        "role": "Vice President of Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Zapico",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dalip Puri",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Semiconductor",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Zapico"
+      },
+      {
+        "technology_name": "Energy",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Zapico"
+      },
+      {
+        "technology_name": "New Product Development",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "significant investment in R&D and engineering",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Zapico"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 08:30:00"
+  },
+  {
+    "company_name": "AMETEK, Inc.",
+    "symbol": "AME",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "flat to up low single digits",
+      "eps_change": "down 1% to 2% versus the prior year (Q3 guidance)",
+      "outlook_summary": "expects second half sales and operating performance to be similar to the first half, a reduction of four points in the sales outlook. Earnings guidance reduced by $0.05 at the midpoint."
+    },
+    "executives": [
+      {
+        "name": "Dave Zapico",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dalip Puri",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kevin Coleman",
+        "role": "Vice President of Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 08:30:00"
+  },
+  {
+    "company_name": "AMETEK, Inc.",
+    "symbol": "AME",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "5% to 7%",
+      "eps_change": "6% to 7%",
+      "outlook_summary": "Raising full-year earnings guidance; Q4 sales expected up mid-single digits, EPS up 8% to 11% YoY."
+    },
+    "executives": [
+      {
+        "name": "Dave Zapico",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dalip Puri",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kevin Coleman",
+        "role": "Vice President of Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "CAMECA",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong growth",
+        "mentioned_by": "Dave Zapico"
+      },
+      {
+        "technology_name": "Aerospace & Defense",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong growth",
+        "mentioned_by": "Dave Zapico"
+      },
+      {
+        "technology_name": "semicap",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Barger"
+      },
+      {
+        "technology_name": "Virtek Vision",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Zapico"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 08:30:00"
+  },
+  {
+    "company_name": "AMETEK, Inc.",
+    "symbol": "AME",
+    "overall_sentiment": "positive",
+    "financials": {
+      "free_cash_flow_conversion": "124% of net income (full year), 115% (expected 2025)",
+      "total_debt": "$2.1 billion (down $1.2 billion from end of 2023)",
+      "cash_and_equivalents": "$374 million",
+      "share_repurchases": "$220 million (full year), $155 million (Q4)",
+      "acquisition_expenditure": "€105 million (Kern Microtechnik)",
+      "gross_debt_to_ebitda_ratio": "0.9x (end of 2024)",
+      "net_debt_to_ebitda_ratio": "0.8x (end of 2024)",
+      "available_liquidity": "$2.5 billion (cash and credit facilities)",
+      "outlook_summary": "Well positioned to navigate trade uncertainties and drive growth and value creation in 2025, with balanced growth expected across all geographies.",
+      "organic_orders": "4% increase",
+      "book_to_bill_ratio": "1.01 (excluding FX on backlog)"
+    },
+    "executives": [
+      {
+        "name": "Dave Zapico",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dalip Puri",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin Coleman",
+        "role": "Vice President of Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Zapico"
+      },
+      {
+        "technology_name": "Medical",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Zapico"
+      },
+      {
+        "technology_name": "Aerospace and Defense",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joe Giordano"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-04 08:30:00"
+  }
+]

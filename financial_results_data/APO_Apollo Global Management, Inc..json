@@ -1,0 +1,384 @@
+[
+  {
+    "company_name": "Apollo Global Management, Inc.",
+    "symbol": "APO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "19%",
+      "eps_change": "16%",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects mid-teens earnings growth for 2024, signaling attractive growth trajectory. Confident in Q1 setting a good trend for the year. Guidance for 2024 includes 100 basis points of margin expansion ('24 over '23)."
+    },
+    "executives": [
+      {
+        "name": "Marc Rowan",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "James Zelter",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Martin Kelly",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Noah Gunn",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Alexander Bernstein",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Global Wealth",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Zelter"
+      },
+      {
+        "technology_name": "Capital Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Zelter"
+      },
+      {
+        "technology_name": "ATLAS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "James Zelter"
+      },
+      {
+        "technology_name": "Private Credit",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Zelter"
+      },
+      {
+        "technology_name": "Asset-Based Finance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Zelter"
+      },
+      {
+        "technology_name": "Artificial Intelligence",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 08:30:00"
+  },
+  {
+    "company_name": "Apollo Global Management, Inc.",
+    "symbol": "APO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "18% year-over-year",
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "Expects SRE growth rate for 2024 to be in the mid-single digit percentage range. Expects Q3 SRE to be in line with Q2 before growth resumes in Q4. Fee-related revenues increased 11% quarter-over-quarter and 18% year-over-year. Expect full year fees to be stronger than originally expected. On track to grow total fee-related expenses by a low double-digit rate in 2024."
+    },
+    "executives": [
+      {
+        "name": "Scott Kleinman",
+        "role": "Co-President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Martin Kelly",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Noah Gunn",
+        "role": "Global Head of Investor Relations",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marc Rowan",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jim Zelter",
+        "role": "Co-President",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Scott Kleinman"
+      },
+      {
+        "technology_name": "Clean energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Scott Kleinman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 08:30:00"
+  },
+  {
+    "company_name": "Apollo Global Management, Inc.",
+    "symbol": "APO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Q4 expected to be similar to Q3 in terms of SRE dollars, assuming 11% return on alts, leading to 5% growth for the year."
+    },
+    "executives": [
+      {
+        "name": "Noah Gunn",
+        "role": "Global Head of Investor Relations",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marc Rowan",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jim Zelter",
+        "role": "Co-President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Martin Kelly",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-04 22:45:00"
+  },
+  {
+    "company_name": "Apollo Global Management, Inc.",
+    "symbol": "APO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "17%",
+      "eps_change": "N/A",
+      "rd_investment_change": "N/A",
+      "outlook_summary": "Expects to drive greater inflows across asset management and retirement services in 2025, executing against a five-year plan with upward progression in capital formation targets."
+    },
+    "executives": [
+      {
+        "name": "Martin Kelly",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marc Rowan",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jim Zelter",
+        "role": "President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Noah Gunn",
+        "role": "Global Head of Investor Relations",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Credit Business",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+20%",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "Capital Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+25%",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "Global Wealth",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "Third-Party Credit",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "PE-Adjacent Businesses",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "Asset-Backed Finance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "Direct Lending",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "Infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "Clean Transition",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "Secondaries",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "Hybrid Value",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Martin Kelly"
+      },
+      {
+        "technology_name": "Private Markets",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Noah Gunn"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-04 08:30:00"
+  }
+]

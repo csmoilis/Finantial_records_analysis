@@ -1,0 +1,255 @@
+[
+  {
+    "company_name": "Avery Dennison Corporation",
+    "symbol": "AVY",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "The company remains confident in its position and prospects for GDP-plus growth and top quartile returns over the longer term."
+    },
+    "executives": [
+      {
+        "name": "Gregory Lovins",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Deon Stander",
+        "role": "VP, Innovation and Strategy",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Joshua Spector",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Christopher Kapsch",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Niccolo Piccini",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "George Staphos",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jeffrey Zekauskas",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Intelligent Label",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "20% plus",
+        "mentioned_by": "George Staphos"
+      },
+      {
+        "technology_name": "RFID",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher Kapsch"
+      },
+      {
+        "technology_name": "Data Management",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Deon Stander"
+      },
+      {
+        "technology_name": "Material Science",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Deon Stander"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-24 12:00:00"
+  },
+  {
+    "company_name": "Avery Dennison Corporation",
+    "symbol": "AVY",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "estimated 4.5% organic sales growth",
+      "eps_change": "nearly 20% earnings growth in 2024",
+      "rd_investment_change": "incremental savings from restructuring actions of more than $50 million, up $5 million from previous outlook",
+      "outlook_summary": "raised outlook for earnings growth, targeting nearly 20% earnings growth in 2024, with a cautious approach due to uncertain environment."
+    },
+    "executives": [
+      {
+        "name": "Deon Stander",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Greg Lovins",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Eble",
+        "role": "Vice President of Finance and Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Intelligent Labels",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "more than 20% volume growth and mid-teens sales growth targeted for the year",
+        "mentioned_by": "Deon Stander"
+      },
+      {
+        "technology_name": "RFID",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Matt Roberts"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-23 12:00:00"
+  },
+  {
+    "company_name": "Avery Dennison Corporation",
+    "symbol": "AVY",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_growth_target_annual": "10%",
+      "earnings_growth_2024": "nearly 20%",
+      "organic_sales_growth_target": "4.5% to 5%",
+      "volume_growth_target_annual": "high single-digit",
+      "restructuring_savings_target": "more than $55 million",
+      "currency_translation_headwind": "roughly $5 million",
+      "free_cash_flow_conversion_target": "roughly 100%",
+      "outlook_summary": "Raised guidance for the year, expecting nearly 20% earnings growth in 2024, while remaining cautious due to an uncertain environment. Confident in delivering 10% earnings growth across a range of scenarios over the long term."
+    },
+    "executives": [
+      {
+        "name": "Deon Stander",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Greg Lovins",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Eble",
+        "role": "Vice President of Finance and Investor Relations",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Intelligent Labels",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Lovins"
+      },
+      {
+        "technology_name": "Apparel",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Lovins"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-23 11:00:00"
+  },
+  {
+    "company_name": "Avery Dennison Corporation",
+    "symbol": "AVY",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "3.5% ex-currency",
+      "eps_change": "up 10% compared to prior year",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects 2025 adjusted EPS of $9.80 to $10.20, up roughly 10% excluding currency. Anticipates 3% to 4% organic sales growth with mid-single digit volume growth."
+    },
+    "executives": [
+      {
+        "name": "Danny Allouche",
+        "role": "Interim CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Deon Stander",
+        "role": "unknown",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John",
+        "role": "unknown",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Intelligent Labels",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "roughly 1 point of organic sales growth annually",
+        "mentioned_by": "Deon Stander"
+      },
+      {
+        "technology_name": "High Value Categories",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "roughly 3 points of organic sales growth annually",
+        "mentioned_by": "Deon Stander"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-30 11:00:00"
+  }
+]

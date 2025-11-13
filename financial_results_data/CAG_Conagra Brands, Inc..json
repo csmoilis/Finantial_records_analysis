@@ -1,0 +1,189 @@
+[
+  {
+    "company_name": "Conagra Brands, Inc.",
+    "symbol": "CAG",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-0.3%",
+      "eps_change": "positive",
+      "outlook_summary": "Reaffirming full year guidance for fiscal '24, with expected meaningful top-line progress in the second half."
+    },
+    "executives": [
+      {
+        "name": "Melissa Napier",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sean Connolly",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Marberger",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2023-10-05 09:30:00"
+  },
+  {
+    "company_name": "Conagra Brands, Inc.",
+    "symbol": "CAG",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-3.4%",
+      "eps_change": "flat",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Updating guidance for fiscal '24 reflecting consumer environment and additional brand investments in the second-half. Expects gross productivity savings of $300 million by end of fiscal '24. Expects interest expense of $440 million. Ardent Mills to contribute $170 million to bottom-line. Full-year tax-rate estimate remains 24%. Prioritizing debt reduction efforts, aiming for 3x net leverage ratio by end of fiscal '26."
+    },
+    "executives": [
+      {
+        "name": "Bayle Ellis",
+        "role": "Manager of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sean Connolly",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dave Marberger",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Max Gumport",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-01-04 09:30:00"
+  },
+  {
+    "company_name": "Conagra Brands, Inc.",
+    "symbol": "CAG",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "8%",
+      "outlook_summary": "Implied guidance for Q4 suggests around -2% in organic sales growth. Management aims for sequential volume improvement, but will continue to invest, impacting the top line. They are being prudent due to a volatile macro environment. The company is in its annual operating planning process, evaluating brand performance and consumer needs to inform investment profiles for the next fiscal year, with positive early signs on ROI from test markets."
+    },
+    "executives": [
+      {
+        "name": "Sean Connolly",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Marberger",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Melissa Napier",
+        "role": "SVP, Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Connected shop floor",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Sean Connolly"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-04-04 09:30:00"
+  },
+  {
+    "company_name": "Conagra Brands, Inc.",
+    "symbol": "CAG",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "down 2.1% (FY24 organic net sales)",
+      "eps_change": "down 1 year, 6.4% 2 year CAGR (adjusted EPS)",
+      "outlook_summary": "guiding to an organic net sales range of minus 1.5% to flat, adjusted operating margin of approximately 15.6% to 15.8%, and adjusted EPS of approximately $2.60 to $2.65 for fiscal '25."
+    },
+    "executives": [
+      {
+        "name": "Sean Connolly",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Marberger",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Supply Chain Productivity",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "approximate 4% of cost of goods sold (savings target)",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Sean Connolly"
+      },
+      {
+        "technology_name": "Brand Building Investments",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive (sequential volume improvement)",
+        "mentioned_by": "Sean Connolly"
+      },
+      {
+        "technology_name": "Cost Savings Initiatives",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "1 billion USD (by end of fiscal '25)",
+        "revenue_impact": "offset projected inflation",
+        "mentioned_by": "Sean Connolly"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-07-11 08:30:00"
+  }
+]

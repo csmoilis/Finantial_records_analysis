@@ -1,0 +1,567 @@
+[
+  {
+    "company_name": "Becton, Dickinson and Company",
+    "symbol": "BDX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "2.4%",
+      "eps_change": "exceeded goals",
+      "outlook_summary": "raised guidance for fiscal 2024 and expects continued margin expansion beyond FY '25."
+    },
+    "executives": [
+      {
+        "name": "Tom",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christopher DelOrefice",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "BD Excellence",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom"
+      },
+      {
+        "technology_name": "Recode Network Architecture",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "doubles going into '25",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher DelOrefice"
+      },
+      {
+        "technology_name": "Cancer Diagnostics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom"
+      },
+      {
+        "technology_name": "Cell Sampling",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom"
+      },
+      {
+        "technology_name": "BD Pyxis",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Christopher DelOrefice"
+      },
+      {
+        "technology_name": "BD Alaris Infusion System",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Christopher DelOrefice"
+      },
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher DelOrefice"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-02-01 08:00:00"
+  },
+  {
+    "company_name": "Becton, Dickinson and Company",
+    "symbol": "BDX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "accelerated significantly in Q2",
+      "eps_change": "ahead of expectations",
+      "outlook_summary": "Increased FY'24 adjusted EPS guidance; second half of fiscal '24 expects about 7.5% organic sales growth at the midpoint, with Q3 at least 6% and Q4 further accelerating. On track for double-digit free cash flow growth."
+    },
+    "executives": [
+      {
+        "name": "Greg Rodetis",
+        "role": "Senior Vice President, Treasurer and Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Thomas Polen",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christopher DelOrefice",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Alaris",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "nearly 250 basis points contribution to second half growth",
+        "revenue_impact": "at least $300 million for the full year",
+        "mentioned_by": "Christopher DelOrefice"
+      },
+      {
+        "technology_name": "Vacutainers",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "benefiting from strong utilization",
+        "mentioned_by": "Thomas Polen"
+      },
+      {
+        "technology_name": "Diagnostic systems products",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "benefiting from strong utilization",
+        "mentioned_by": "Thomas Polen"
+      },
+      {
+        "technology_name": "Pyxis",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Thomas Polen"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-05-02 08:00:00"
+  },
+  {
+    "company_name": "Becton, Dickinson and Company",
+    "symbol": "BDX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "upper 6%",
+      "eps_change": "positive",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Well-positioned for continued strong financial performance in FY25 and beyond with above-market mid-single-digit organic revenue growth and significant margin expansion."
+    },
+    "executives": [
+      {
+        "name": "Chris DelOrefice",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Tom Polen",
+        "role": "Chairman, Chief Executive Officer and President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Greg Rodetis",
+        "role": "Senior Vice President, Treasurer and Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robbie Marcus",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mike Garrison",
+        "role": "President of the Medical segment",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rick Byrd",
+        "role": "President of the Interventional segment",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Alaris",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+6%",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "smart factory",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "biologics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "differentiated growth",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "biosimilar",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "differentiated share gains",
+        "mentioned_by": "Tom Polen"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-08-01 08:00:00"
+  },
+  {
+    "company_name": "Becton, Dickinson and Company",
+    "symbol": "BDX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "competitive organic revenue growth",
+      "eps_change": "strong margins out of the gate with Q1 year-over-year margin improvement and then what I would call just a nice glide path of sequential margin improvement throughout the year",
+      "rd_investment_change": "differentiated levels that will enable growth as you think of selling specifically and R&D, so both shorter term and long term",
+      "outlook_summary": "guidance reflects continued execution with a focus on margin improvement and balanced EPS growth, with Q1 showing year-over-year margin improvement and sequential improvement throughout the year."
+    },
+    "executives": [
+      {
+        "name": "Tom Polen",
+        "role": "Chairman, Chief Executive Officer and President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chris DelOrefice",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Greg Rodetis",
+        "role": "Senior Vice President, Treasurer and Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mike Garrison",
+        "role": "President of the Medical segment",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mike Feld",
+        "role": "President of the Life Sciences segment",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rick Byrd",
+        "role": "President of the Interventional segment",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "Pyxis platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "Advanced Patient Monitoring",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "HemoSphere Alta Monitor",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "Predictive IQ algorithms",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "Swan IQ",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "ForeSight IQ",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "BD FACSDiscover Analyzer, A8",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "Cell Sorter",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "PureWick platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "PureWick Portable",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Polen"
+      },
+      {
+        "technology_name": "BD Alaris",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "MDS consumable portfolio",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "hypodermic portfolios",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "vascular access management portfolios",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "Prefilled devices for biologic drugs",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "GLP-1s",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "specimen management",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "mid-single-digit growth",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "lab automation",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "tough prior-year comparisons",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "ID/AST",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "tough prior-year comparisons",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "molecular platform",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "BD MAX",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "BD COR",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "Biosciences",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "lower market demand",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "FACSLyric cell analyzer",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Chris DelOrefice"
+      },
+      {
+        "technology_name": "cancer reagents",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Chris DelOrefice"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-11-07 08:00:00"
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "company_name": "CMS Energy Corporation",
+    "symbol": "CMS",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "up just under 1.5%",
+      "outlook_summary": "Confident in the outlook for 2024, but still work to do. Early days for considering 2025 outlook."
+    },
+    "executives": [
+      {
+        "name": "Garrick Rochow",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rejji Hayes",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jason Shore",
+        "role": "None",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Data Center",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Arcaro"
+      },
+      {
+        "technology_name": "Renewable Energy Plan",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Garrick Rochow"
+      },
+      {
+        "technology_name": "Financial Compensation Mechanism",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Rejji Hayes"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-25 09:30:00"
+  },
+  {
+    "company_name": "CMS Energy Corporation",
+    "symbol": "CMS",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "+0.18 vs H1 2023",
+      "outlook_summary": "Reaffirming all financial objectives, expecting full year guidance at $3.29 to $3.35 per share, with confidence toward the high end. Long-term adjusted EPS growth guidance remains at 6% to 8%."
+    },
+    "executives": [
+      {
+        "name": "Garrick Rochow",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rejji Hayes",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jason Shore",
+        "role": "Treasurer and Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Renewable Energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "$17 billion in 5-year capital plan",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Garrick Rochow"
+      },
+      {
+        "technology_name": "Clean Energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Garrick Rochow"
+      },
+      {
+        "technology_name": "Data Centers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Garrick Rochow"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-25 09:30:00"
+  },
+  {
+    "company_name": "CMS Energy Corporation",
+    "symbol": "CMS",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "+0.41 USD vs same period 2023",
+      "outlook_summary": "Reaffirming all financial objectives for 2024, confident towards high end of guidance range. Initiating 2025 guidance at $3.52-$3.58/share (6-8% growth). Well-positioned for high end of 2025 range. Will refresh 5-year capital and financial plans on Q4 call.",
+      "revenue_growth": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Garrick Rochow",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rejji Hayes",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jason Shore",
+        "role": "Treasurer and Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeremy Tonet"
+      },
+      {
+        "technology_name": "Renewable Technologies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Travis Miller"
+      },
+      {
+        "technology_name": "Storage",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Travis Miller"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 09:30:00"
+  },
+  {
+    "company_name": "CMS Energy Corporation",
+    "symbol": "CMS",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "6% to 8% growth",
+      "outlook_summary": "Raising 2025 guidance from $3.52-$3.58 to $3.54-$3.60, representing 6%-8% growth. Long-term adjusted EPS growth range of 6%-8%."
+    },
+    "executives": [
+      {
+        "name": "Jason Shore",
+        "role": "Treasurer and Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Garrick Rochow",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rejji Hayes",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "renewable energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Rejji Hayes"
+      },
+      {
+        "technology_name": "wind",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julien Dumoulin-Smith"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-06 09:30:00"
+  }
+]

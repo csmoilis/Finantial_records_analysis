@@ -1,0 +1,232 @@
+[
+  {
+    "company_name": "CBRE Group, Inc.",
+    "symbol": "CBRE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "solid net revenue growth",
+      "eps_change": "exceeded our expectations",
+      "outlook_summary": "core earnings exceeded expectations; expecting growth in Q3 and Q4, with acceleration above trend.",
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Robert Sulentic",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Emma Giamartino",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brad Burke",
+        "role": "Head of Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-03 08:30:00"
+  },
+  {
+    "company_name": "CBRE Group, Inc.",
+    "symbol": "CBRE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "double-digit",
+      "eps_change": "record EPS in 2025",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Increased confidence in achieving record EPS in 2025. Expects sustained double-digit long-term growth trajectory. Full year core EPS outlook raised to $4.70 to $4.90."
+    },
+    "executives": [
+      {
+        "name": "Chandni Luthra",
+        "role": "Executive Vice President, Head of FP&A and Investor Relations",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Bob Sulentic",
+        "role": "Chair and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Emma Giamartino",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Data Center Management",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bob Sulentic"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-25 08:30:00"
+  },
+  {
+    "company_name": "CBRE Group, Inc.",
+    "symbol": "CBRE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "18%",
+      "eps_change": "+67%",
+      "outlook_summary": "Raised full year core EPS guidance to $4.95-$5.05, representing a 12% increase at the midpoint from the original outlook. Expects best ever Q4 core EPS. 2025 expectations imply near peak earnings, with expected double-digit growth in resilient businesses and recovery in transactional businesses."
+    },
+    "executives": [
+      {
+        "name": "Chandni Luthra",
+        "role": "EVP, Global Head of FP&A and IR",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bob Sulentic",
+        "role": "Chair and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Emma Giamartino",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Data Centers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bob Sulentic"
+      },
+      {
+        "technology_name": "Infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bob Sulentic"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-24 08:30:00"
+  },
+  {
+    "company_name": "CBRE Group, Inc.",
+    "symbol": "CBRE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects continued double-digit earnings growth in 2025 and beyond, with a strong Q4 2025 contributing similarly to full year core EPS as in 2024. Expects narrowing delta between GAAP and core earnings due to reduced restructuring costs. Sees margin expansion in GWS and BOE segments. Pipeline is strong in enterprise across sectors like technology and health care, with renewals in financial services, and strong growth expected in the local U.S. market.",
+      "revenue_growth": "double-digit",
+      "eps_change": "double-digit"
+    },
+    "executives": [
+      {
+        "name": "Chandni Luthra",
+        "role": "Host/VP of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bob Sulentic",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Emma Giamartino",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jamie Hodari",
+        "role": "CEO of Building Operations & Experience",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Vikram Kohli",
+        "role": "COO and CEO of Advisory",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam Gallistel",
+        "role": "Co-CEO of Investment Management",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andy Glanzman",
+        "role": "Co-CEO of Investment Management",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "flex workplace",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bob Sulentic"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Emma Giamartino"
+      },
+      {
+        "technology_name": "data centers",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bob Sulentic"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-13 08:30:00"
+  }
+]

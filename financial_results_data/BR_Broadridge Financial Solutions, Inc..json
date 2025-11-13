@@ -1,0 +1,363 @@
+[
+  {
+    "company_name": "Broadridge Financial Solutions, Inc.",
+    "symbol": "BR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "8%",
+      "eps_change": "30%",
+      "outlook_summary": "Reaffirms full year guidance: recurring revenue growth of 6% to 9%, continued margin expansion, 8% to 12% adjusted EPS growth, and closed sales of $280 million to $320 million."
+    },
+    "executives": [
+      {
+        "name": "Tim Gokey",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Edmund Reese",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Edings Thibault",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Wealth Management Platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "moderating",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "Trading Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "moderating",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "BTCS",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2023-11-02 08:30:00"
+  },
+  {
+    "company_name": "Broadridge Financial Solutions, Inc.",
+    "symbol": "BR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "6% to 9%",
+      "eps_change": "8% to 12%",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Reaffirming guidance for 6% to 9% recurring revenue growth, 8% to 12% adjusted EPS growth, and strong closed sales. On track for 100% free cash flow conversion."
+    },
+    "executives": [
+      {
+        "name": "Edmund Reese",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Tim Gokey",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Edings Thibault",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "OpsGPT",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "digital ledger repo",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "LTX",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "BondGPT",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "distribution AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-02-01 08:30:00"
+  },
+  {
+    "company_name": "Broadridge Financial Solutions, Inc.",
+    "symbol": "BR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "6%",
+      "eps_change": "approximately 10%",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Fiscal '24 guidance reaffirmed with recurring revenue growth at the low end of 6%-9% range and AOI margin expansion to approximately 20%. Expects strong free cash flow conversion and capital returns."
+    },
+    "executives": [
+      {
+        "name": "Edings Thibault",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Tim Gokey",
+        "role": "Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Edmund Reese",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "Digitization",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "Data",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-05-08 08:30:00"
+  },
+  {
+    "company_name": "Broadridge Financial Solutions, Inc.",
+    "symbol": "BR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "6%",
+      "eps_change": "double-digit",
+      "rd_investment_change": null,
+      "outlook_summary": "Guidance includes 5% to 7% organic recurring revenue growth, and 8% to 12% adjusted EPS growth, with $290 million to $330 million of closed sales."
+    },
+    "executives": [
+      {
+        "name": "Edings Thibault",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Tim Gokey",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ashima Ghei",
+        "role": "Interim Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI-Enabled solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "distributed ledger technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "Wealth platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "BondGPT",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "OpsGPT console",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "distributed ledger repo platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "digital solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "front and back office solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "tailored shareholder reports",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      },
+      {
+        "technology_name": "virtual shareholder meeting capabilities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tim Gokey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-08-06 08:00:00"
+  }
+]

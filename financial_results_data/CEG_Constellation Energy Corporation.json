@@ -1,0 +1,209 @@
+[
+  {
+    "company_name": "Constellation Energy Corporation",
+    "symbol": "CEG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "+$1.04 per share",
+      "outlook_summary": "Company expects strong performance driven by commercial business optimization and potential upside in power prices later in the decade."
+    },
+    "executives": [
+      {
+        "name": "Joe Dominguez",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Eggers",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Emily Duncan",
+        "role": "Senior Vice President, Investor Relations and Strategic Growth",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Nuclear Power",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "1 billion USD (stock buybacks, implying confidence in existing assets)",
+        "revenue_impact": "+10% base earnings growth",
+        "mentioned_by": "Joe Dominguez"
+      },
+      {
+        "technology_name": "Next-generation nuclear units",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joe Dominguez"
+      },
+      {
+        "technology_name": "Renewable energy",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joe Dominguez"
+      },
+      {
+        "technology_name": "Nuclear fuel",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "ensures fleet operation for next decade",
+        "mentioned_by": "Joe Dominguez"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-09 10:00:00"
+  },
+  {
+    "company_name": "Constellation Energy Corporation",
+    "symbol": "CEG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects to grow base earnings by at least 10% through the decade, with opportunities for additional growth from new clean energy projects and data center customers. Confident in ability to exceed base earnings each year."
+    },
+    "executives": [
+      {
+        "name": "Joe Dominguez",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Eggers",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Emily Duncan",
+        "role": "Senior Vice President, Investor Relations and Strategic Growth",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Clean Energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joe Dominguez"
+      },
+      {
+        "technology_name": "Nuclear Power",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joe Dominguez"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joe Dominguez"
+      },
+      {
+        "technology_name": "Data Centers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joe Dominguez"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-06 10:00:00"
+  },
+  {
+    "company_name": "Constellation Energy Corporation",
+    "symbol": "CEG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "increase our earnings outlook for the year once again",
+      "revenue_growth": "increased our enhanced gross margin by $275 million",
+      "outlook_summary": "forecast at least 13% compound base EPS growth through 2030",
+      "rd_investment_change": "higher O&M due to the strong earnings results and stock comp"
+    },
+    "executives": [
+      {
+        "name": "Emily Duncan",
+        "role": "Senior Vice President, Investor Relations and Strategic Growth",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Joe Dominguez",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Eggers",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Data Center Development",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+ significant revenue growth",
+        "mentioned_by": "Joseph Dominguez"
+      },
+      {
+        "technology_name": "Clean Power",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+ significant revenue growth",
+        "mentioned_by": "Joseph Dominguez"
+      },
+      {
+        "technology_name": "Reliable Power",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+ significant revenue growth",
+        "mentioned_by": "Joseph Dominguez"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-04 10:00:00"
+  }
+]

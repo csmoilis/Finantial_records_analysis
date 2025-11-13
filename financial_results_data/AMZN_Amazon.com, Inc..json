@@ -1,0 +1,344 @@
+[
+  {
+    "company_name": "Amazon.com, Inc.",
+    "symbol": "AMZN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+13%",
+      "eps_change": "up 221%",
+      "rd_investment_change": null,
+      "outlook_summary": "Worldwide revenue expected to be near the top end of guidance range. Operating income and free cash flow show significant year-over-year improvements."
+    },
+    "executives": [
+      {
+        "name": "Andrew Jassy",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brian Olsavsky",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Fildes",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "meaningful way",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Douglas Anmuth"
+      },
+      {
+        "technology_name": "Grocery",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ronald Josey"
+      },
+      {
+        "technology_name": "Kuiper",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Douglas Anmuth"
+      },
+      {
+        "technology_name": "Health Care",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Douglas Anmuth"
+      },
+      {
+        "technology_name": "AWS",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Jassy"
+      },
+      {
+        "technology_name": "Prime Video ads",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Jassy"
+      },
+      {
+        "technology_name": "Logistics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "step function increase in CapEx",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Youssef Squali"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-30 17:30:00"
+  },
+  {
+    "company_name": "Amazon.com, Inc.",
+    "symbol": "AMZN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "Not explicitly stated, but implied strong unit volume growth.",
+      "eps_change": "unclear",
+      "rd_investment_change": "expects capital investments to be higher in the second half of the year, majority to support AWS infrastructure including generative AI",
+      "outlook_summary": "Expects capital investments to be higher in the second half of 2024, with Q3 impacted by Prime Day deals, marketing spend, and Q4 holiday ramp-up; anticipates continued consumer caution with spending and focus on lower ASP products."
+    },
+    "executives": [
+      {
+        "name": "Andy Jassy",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brian Olsavsky",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dave Fildes",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AWS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "majority of capital spend to support growing need",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andy Jassy"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "majority of capital spend to support growing need",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andy Jassy"
+      },
+      {
+        "technology_name": "Custom Silicon",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "medium to long term",
+        "profit_outlook": "high potential",
+        "rd_investment": "pace of investment mentioned",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Eric Sheridan"
+      },
+      {
+        "technology_name": "Kuiper",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "incremental investment not quantified",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Doug Anmuth"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 17:30:00"
+  },
+  {
+    "company_name": "Amazon.com, Inc.",
+    "symbol": "AMZN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "11%",
+      "eps_change": null,
+      "rd_investment_change": "Expected capital investments of $75 billion in 2024, with expectations to spend more in 2025, primarily driven by Generative AI.",
+      "outlook_summary": "Guidance incorporates order trends seen to date and appropriate assumptions; actual results may differ materially."
+    },
+    "executives": [
+      {
+        "name": "Andy Jassy",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brian Olsavsky",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Fildes",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "Majority of $75B CapEx in 2024, with expectations to spend more in 2025",
+        "revenue_impact": "multi-billion dollar business growing triple-digit percentages year-over-year",
+        "mentioned_by": "Andy Jassy"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Fildes"
+      },
+      {
+        "technology_name": "AWS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "Investments to support demand for AI services",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andy Jassy"
+      },
+      {
+        "technology_name": "Robotics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "included in fulfillment and transportation network investments",
+        "revenue_impact": "improve delivery speeds and lower cost to serve",
+        "mentioned_by": "Dave Fildes"
+      },
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "included in fulfillment and transportation network investments",
+        "revenue_impact": "improve delivery speeds and lower cost to serve",
+        "mentioned_by": "Dave Fildes"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 17:00:00"
+  },
+  {
+    "company_name": "Amazon.com, Inc.",
+    "symbol": "AMZN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "11%",
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "Exceeded revenue guidance due to lower than anticipated FX headwinds, largest operating income quarter ever, positive margin improvement for eight consecutive quarters."
+    },
+    "executives": [
+      {
+        "name": "Dave Fildes",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andy Jassy",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brian Olsavsky",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andy Jassy"
+      },
+      {
+        "technology_name": "Custom Silicon",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andy Jassy"
+      },
+      {
+        "technology_name": "Robotics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Nowak"
+      },
+      {
+        "technology_name": "Gen AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Nowak"
+      },
+      {
+        "technology_name": "GPU",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Nowak"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-06 17:00:00"
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "company_name": "Biogen Inc.",
+    "symbol": "BIIB",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "net_debt_position": "approx. $5 billion",
+      "ebitda": "$3 billion",
+      "leverage_ratio": "1.5-2 turns",
+      "free_cash_flow_per_year": "$2 billion",
+      "capacity_for_business_development_2024": "$4-5 billion",
+      "capacity_for_business_development_2025_plus": "Reata-like acquisition",
+      "priority_review_voucher_sale_proceeds": "$103 million",
+      "outlook_summary": "Remains committed to sustainable top and bottom-line growth. Allowance made for potential R&D success milestone or opt-in payments."
+    },
+    "executives": [
+      {
+        "name": "Chris Viehbacher",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Alisha Alaimo",
+        "role": "Head and President of North-America",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mike McDonnell",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Priya Singhal",
+        "role": "Head of Development",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chuck Triano",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Neuroscience",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Viehbacher"
+      },
+      {
+        "technology_name": "Rare Disease",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Viehbacher"
+      },
+      {
+        "technology_name": "Immunology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Viehbacher"
+      },
+      {
+        "technology_name": "MS",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "declining",
+        "mentioned_by": "Chris Viehbacher"
+      },
+      {
+        "technology_name": "lecanemab",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "uncertain",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Paul Matteis"
+      },
+      {
+        "technology_name": "SKYCLARYS",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Salveen Richter"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-06-05 10:00:00"
+  },
+  {
+    "company_name": "Biogen Inc.",
+    "symbol": "BIIB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects 2024 operating income to grow at a mid to high teen percentage, revised up from a low double-digit percentage. Expects a reduction in interest income of approximately $20 million for the remainder of 2024 due to lower cash balances from the HI-Bio acquisition.",
+      "eps_change": "+9%",
+      "revenue_growth": "stabilized"
+    },
+    "executives": [
+      {
+        "name": "Chris Viehbacher",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike McDonnell",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Alisha Alaimo",
+        "role": "Head and President of North America",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dr. Priya Singhal",
+        "role": "Head of Development",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chuck Triano",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dr. Travis Murdoch",
+        "role": "HI-Bio",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "biosimilars",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Viehbacher"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 08:30:00"
+  },
+  {
+    "company_name": "Biogen Inc.",
+    "symbol": "BIIB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "cash_and_marketable_securities": "1.7 billion USD",
+      "net_debt": "4.6 billion USD",
+      "free_cash_flow": "901 million USD",
+      "free_cash_flow_since": "Q2 2021",
+      "non_gaap_diluted_eps_guidance_2024": "16.10-16.60 USD",
+      "eps_change_2024_vs_2023": "+11% (at midpoint)",
+      "revenue_growth_outlook_2024": "low single-digit percentage decline",
+      "outlook_summary": "Raised full-year EPS guidance and expects revenue to decline by a low single-digit percentage, while increasing investment in new product launches and R&D. Anticipates seasonally higher SG&A in Q4.",
+      "operating_income_margin_improvement_year_to_date": "+7 percentage points",
+      "operating_income_growth_year_on_year": "+23%",
+      "full_year_operating_income_improvement_guidance": "mid-single-digit percentage",
+      "full_year_operating_income_growth_guidance": "high teens percentage",
+      "gross_savings_target": "1 billion USD",
+      "net_savings_target": "800 million USD"
+    },
+    "executives": [
+      {
+        "name": "Chris Viehbacher",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dr. Priya Singhal",
+        "role": "Head of Development",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike McDonnell",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Alisha Alaimo",
+        "role": "Head and President of North America",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Stephen Amato",
+        "role": "Senior Director of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "felzartamab",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Viehbacher"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dr. Priya Singhal"
+      },
+      {
+        "technology_name": "dapi",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dr. Priya Singhal"
+      },
+      {
+        "technology_name": "litifilimab",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dr. Priya Singhal"
+      },
+      {
+        "technology_name": "tau ASO BIIB080",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dr. Priya Singhal"
+      },
+      {
+        "technology_name": "LEQEMBI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dr. Priya Singhal"
+      },
+      {
+        "technology_name": "SPINRAZA",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike McDonnell"
+      },
+      {
+        "technology_name": "SKYCLARYS",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike McDonnell"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-30 08:30:00"
+  },
+  {
+    "company_name": "Biogen Inc.",
+    "symbol": "BIIB",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "30%",
+      "outlook_summary": "Guidance takes account of the stronger dollar. Each cent change in the euro versus the U.S. dollar impacts revenue by approximately $15 million."
+    },
+    "executives": [
+      {
+        "name": "Chris Viehbacher",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Priya Singhal",
+        "role": "Head of Development",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mike McDonnell",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Tim Power",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robin Kramer",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "LEQEMBI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+28%",
+        "mentioned_by": "Chris Viehbacher"
+      },
+      {
+        "technology_name": "FAMPYRA",
+        "technology_sentiment": "neutral",
+        "investment_action": "divesting",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike McDonnell"
+      },
+      {
+        "technology_name": "ZURZUVAE",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Paul Matteis"
+      },
+      {
+        "technology_name": "SKYCLARYS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Paul Matteis"
+      },
+      {
+        "technology_name": "SPINRAZA",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+2%",
+        "mentioned_by": "Mike McDonnell"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-12 08:30:00"
+  }
+]

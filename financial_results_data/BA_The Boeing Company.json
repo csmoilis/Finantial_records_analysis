@@ -1,0 +1,319 @@
+[
+  {
+    "company_name": "The Boeing Company",
+    "symbol": "BA",
+    "overall_sentiment": "negative",
+    "financials": {
+      "revenue_growth": "-8%",
+      "eps_change": "slight improvement",
+      "outlook_summary": "Second quarter free cash flow expected to improve sequentially but be another sizable use of cash. Committed to managing the balance sheet to prioritize investment-grade rating and allow factory and supply chain to stabilize."
+    },
+    "executives": [
+      {
+        "name": "Matt Welch",
+        "role": "Interviewer/Host",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Calhoun",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian West",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "737 MAX",
+        "technology_sentiment": "negative",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian West"
+      },
+      {
+        "technology_name": "787",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Calhoun"
+      },
+      {
+        "technology_name": "777X",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Calhoun"
+      },
+      {
+        "technology_name": "P-8",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Scott Deuschle"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-24 10:30:00"
+  },
+  {
+    "company_name": "The Boeing Company",
+    "symbol": "BA",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Expecting larger use of cash than previously forecasted due to production stabilization and working capital timing. Sees commercial market demand as robust for the next 20 years.",
+      "rd_investment_change": "deliberately investing today",
+      "revenue_growth": "expect the global fleet to almost double",
+      "eps_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Dave Calhoun",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian West",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Matt Welch",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "BCA factories",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Calhoun"
+      },
+      {
+        "technology_name": "defense fixed-price development programs",
+        "technology_sentiment": "neutral",
+        "investment_action": "maturing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Calhoun"
+      },
+      {
+        "technology_name": "services",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Calhoun"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "unclear",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "unclear",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "commercial market",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Calhoun"
+      },
+      {
+        "technology_name": "MAX",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ken Herbert"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-31 10:30:00"
+  },
+  {
+    "company_name": "The Boeing Company",
+    "symbol": "BA",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "working_capital_comment": "Working capital drag expected to be about half of previous estimates due to customer advance timing, but may return to previous levels in Q4 due to inventory buildup. Q4 free cash flow may resemble Q2 levels. 2025 free cash flow expected to be significantly better than 2024, with usage in H1 and positive cash flow in H2.",
+      "outlook_summary": "2025 free cash flow will be significantly better than 2024, with a usage in the first half and turning positive in the second half. Production rate ramps for BCA and cash implications of charges for BDS will impact divisions. 777X will be a cash flow investment in preparation for EIS in 2026.",
+      "revenue_growth": null,
+      "eps_change": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Brian West",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kelly Ortberg",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Matt Welch",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sheila Kahyaoglu",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Doug Harned",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jason Gursky",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Noah Poponak",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris Raymond",
+        "role": "Team Lead (Global Services)",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "777X",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "cash flow investment",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian West"
+      },
+      {
+        "technology_name": "MAX",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Noah Poponak"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-23 10:30:00"
+  },
+  {
+    "company_name": "The Boeing Company",
+    "symbol": "BA",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Expects 2025 free cash flow to be a use of cash but with significant improvement over 2024. First half of 2025 will be negative, second half positive. CapEx may increase by $500 million in 2025 to support growth.",
+      "revenue_growth": "unclear",
+      "eps_change": "down 20.38",
+      "rd_investment_change": "approximately $500 million increase in CapEx in 2025"
+    },
+    "executives": [
+      {
+        "name": "Kelly Ortberg",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian West",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Matt Welch",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "777X program",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "continued investment",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kelly Ortberg"
+      },
+      {
+        "technology_name": "737 MAX",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "producing at 38 a month",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kelly Ortberg"
+      },
+      {
+        "technology_name": "787",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "finished last year at a production rate of five per month",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kelly Ortberg"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-28 10:00:00"
+  }
+]

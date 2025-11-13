@@ -1,0 +1,389 @@
+[
+  {
+    "company_name": "Blackstone Inc.",
+    "symbol": "BX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "12%",
+      "eps_change": "N/A",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Favorable multiyear picture of growth driven by fee earning AUM expansion, perpetual strategies, and strong credit business performance. Expects continued FRE generation over $1 billion quarterly."
+    },
+    "executives": [
+      {
+        "name": "Jon Gray",
+        "role": "President and Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Chae",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steve Schwarzman",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Weston Tucker",
+        "role": "Head of Shareholder Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Schwarzman"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Schwarzman"
+      },
+      {
+        "technology_name": "Data Centers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Schwarzman"
+      },
+      {
+        "technology_name": "Energy Infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Schwarzman"
+      },
+      {
+        "technology_name": "Private Credit",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Schwarzman"
+      },
+      {
+        "technology_name": "Infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Schwarzman"
+      },
+      {
+        "technology_name": "Energy Transition",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Schwarzman"
+      },
+      {
+        "technology_name": "Life Sciences",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Schwarzman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-18 09:00:00"
+  },
+  {
+    "company_name": "Blackstone Inc.",
+    "symbol": "BX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "+0.96 per common share",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects a near-term lag in net realizations but anticipates a significant acceleration as markets heal and liquidity improves. Projects a material step up in FRE in Q4 due to exiting management fee holidays and scheduled crystallizations. Expects full year benefit of flagship vehicles in 2025 and plans to raise multiple other flagships, alongside continued expansion of perpetual strategies. Credit insurance business shows strong positive trajectory with segment FRE increasing nearly 30% year-over-year."
+    },
+    "executives": [
+      {
+        "name": "Weston Tucker",
+        "role": "Head of Shareholder Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Steve Schwarzman",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jon Gray",
+        "role": "President and Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Chae",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Life Sciences",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Steve Schwarzman"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jon Gray"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jon Gray"
+      },
+      {
+        "technology_name": "Solar",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "1B USD",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Schwarzman"
+      },
+      {
+        "technology_name": "Wind",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "1B USD",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Schwarzman"
+      },
+      {
+        "technology_name": "Private Credit",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Jon Gray"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-18 09:00:00"
+  },
+  {
+    "company_name": "Blackstone Inc.",
+    "symbol": "BX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "stable mid-single-digit year-over-year",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Optimistic about 2025 FRE growth driven by base management fees, structural up-work ramp, flagship vehicle activation, drawdown funds, new raises, perpetual strategies expansion, and credit insurance management fees. Expects material step up in FRE in Q4 driven by fund fee recognition and scheduled crystallization events. Anticipates a constructive environment for realizations in 2025."
+    },
+    "executives": [
+      {
+        "name": "Jon Gray",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steven Chubak",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ken Worthington",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian Bedell",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Benjamin Budish",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Bedell"
+      },
+      {
+        "technology_name": "Data Center",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "significant",
+        "mentioned_by": "Brian Bedell"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-17 09:00:00"
+  },
+  {
+    "company_name": "Blackstone Inc.",
+    "symbol": "BX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "up 81% year-over-year",
+      "eps_change": "$1.69 per common share",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Positive outlook for fundraising and realizations in 2025. Expects smaller crystallizations periodically starting Q2 2025. Credit insurance business well-positioned for strong performance in 2025. Disposition activity concentrated in private equity strategies in near term, with overall activity levels meaningfully higher in the second half of 2025. Expects sustained commercial real estate recovery."
+    },
+    "executives": [
+      {
+        "name": "Weston Tucker",
+        "role": "Head of Shareholder Relations",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steve Schwarzman",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jon Gray",
+        "role": "President and Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Chae",
+        "role": "Vice Chairman and Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Credit Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "26% and 24% growth in FRE and DE",
+        "mentioned_by": "Jon Gray"
+      },
+      {
+        "technology_name": "Private Equity",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jon Gray"
+      },
+      {
+        "technology_name": "Data Centers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jon Gray"
+      },
+      {
+        "technology_name": "Energy Infrastructure",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jon Gray"
+      },
+      {
+        "technology_name": "Life Sciences",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jon Gray"
+      },
+      {
+        "technology_name": "Real Estate",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "4% same-store NOI growth in prior year",
+        "mentioned_by": "Jon Gray"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jon Gray"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-30 10:36:00"
+  }
+]

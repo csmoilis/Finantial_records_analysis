@@ -1,0 +1,507 @@
+[
+  {
+    "company_name": "Aptiv PLC",
+    "symbol": "APTV",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+2%",
+      "outlook_summary": "Maintains long-term growth framework of 6-8% in a flat market, though current 2024 outlook is closer to 6%.",
+      "operating_margin_improvement": "+200 basis points"
+    },
+    "executives": [
+      {
+        "name": "Jane Wu",
+        "role": "Vice President of Investor Relations and Corporate Development",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kevin P. Clark",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Joseph Massaro",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Software-defined vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin P. Clark"
+      },
+      {
+        "technology_name": "Digital transformation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin P. Clark"
+      },
+      {
+        "technology_name": "Edge computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin P. Clark"
+      },
+      {
+        "technology_name": "AI/ML",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin P. Clark"
+      },
+      {
+        "technology_name": "ADAS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin P. Clark"
+      },
+      {
+        "technology_name": "In-cabin sensing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin P. Clark"
+      },
+      {
+        "technology_name": "Wind River",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin P. Clark"
+      },
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "significant cost savings",
+        "mentioned_by": "Kevin P. Clark"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 08:00:00"
+  },
+  {
+    "company_name": "Aptiv PLC",
+    "symbol": "APTV",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "-2%",
+      "eps_change": "+26%",
+      "outlook_summary": "Revised financial outlook is prudent, reflecting lower OEM production schedules and incremental management conservatism, with expected increased operating margins."
+    },
+    "executives": [
+      {
+        "name": "Jane Wu",
+        "role": "Vice President of Investor Relations and Corporate Development",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kevin Clark",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Joe Massaro",
+        "role": "Vice Chair and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Joe Spak",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Electrification",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Connectivity",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Digitization",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Active Safety",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "User Experience",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Software-defined vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Engineered Components",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Kevin Clark"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 08:00:00"
+  },
+  {
+    "company_name": "Aptiv PLC",
+    "symbol": "APTV",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-1%",
+      "eps_change": "+41%",
+      "outlook_summary": "Revised full-year outlook expects revenues between $19.6 billion to $19.9 billion, with operating income of $2.35 billion and an operating margin of 11.9%. Global vehicle production is now expected to be down 4% in 2024. EPS estimates revised to $6.15 at the midpoint. Operating cash forecast remains at $2.15 billion.",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Jane Wu",
+        "role": "Vice President of Investor Relations and Corporate Development",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kevin Clark",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Joe Massaro",
+        "role": "Vice Chair and Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Vision software",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "80M USD",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joe Massaro"
+      },
+      {
+        "technology_name": "Active Safety",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+20%",
+        "mentioned_by": "Joe Massaro"
+      },
+      {
+        "technology_name": "Electric Vehicle (EV) production",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "negative",
+        "mentioned_by": "Joe Massaro"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 08:00:00"
+  },
+  {
+    "company_name": "Aptiv PLC",
+    "symbol": "APTV",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+2%",
+      "eps_change": "record operating income and earnings per share",
+      "rd_investment_change": "increased investment in Wind River's commercial and product organization",
+      "outlook_summary": "Conservative outlook for 2025, not factoring in future policy changes, but positioned to capitalize on growth opportunities including EVs and ADAS."
+    },
+    "executives": [
+      {
+        "name": "Kevin Clark",
+        "role": "Chair and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Varun Lloroya",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jane Wu",
+        "role": "Vice President of Investor Relations and Corporate Development",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Advanced Safety",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "mid-teens growth",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "User Experience",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "declining revenues due to roll-off of legacy programs",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Wind River",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "increased investment in commercial and product organization",
+        "revenue_impact": "+14% in Q4",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "DevSecOps",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "improved developer productivity by over 20%",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "VxWorks",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Operator",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Developer",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Elixir Pro",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong revenue growth in 2025",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "incremental growth opportunities",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Edge Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "customers look to reduce costs",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Electric Vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "continued growth",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "ADAS",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "ongoing adoption globally",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "5G Infrastructure",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "continued slowdown impacting closure rates",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Open RAN",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "demonstrates leadership position",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Electrification",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "trend will continue",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "trend will continue",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Digitalization",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "trend will continue",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Connectivity",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "trend will continue",
+        "mentioned_by": "Kevin Clark"
+      },
+      {
+        "technology_name": "Software",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "significant interest generated",
+        "mentioned_by": "Varun Lloroya"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-06 08:00:00"
+  }
+]

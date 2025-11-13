@@ -1,0 +1,217 @@
+[
+  {
+    "company_name": "American International Group, Inc.",
+    "symbol": "AIG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "The company outlined capital management strategies for 2024 and 2025, including share repurchases and potential dividend increases, with a focus on maintaining strong capital levels and reducing debt. They are also working towards a 10%+ ROCE and a leaner operating structure."
+    },
+    "executives": [
+      {
+        "name": "Peter Zaffino",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sabra Purtill",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin Hogan",
+        "role": "Executive",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Property",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peter Zaffino"
+      },
+      {
+        "technology_name": "Casualty",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+46%",
+        "mentioned_by": "Robert Cox"
+      },
+      {
+        "technology_name": "Financial Lines",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peter Zaffino"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 08:30:00"
+  },
+  {
+    "company_name": "American International Group, Inc.",
+    "symbol": "AIG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+7%",
+      "outlook_summary": "Expects accident year loss ratio ex-cat to be approximately the same in the back half of the year. Expects share count to be in the 550 million to 600 million target range by the end of 2025, representing a total of $10 billion of share repurchases over 2024 and 2025."
+    },
+    "executives": [
+      {
+        "name": "Peter Zaffino",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Elyse Greenspan",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Quentin McMillan",
+        "role": "N/A",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "N/A"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "N/A"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 08:30:00"
+  },
+  {
+    "company_name": "American International Group, Inc.",
+    "symbol": "AIG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects to deliver a 10% core operating ROE for the full-year 2025, with potential for increases beyond that. Focus on continued underwriting performance, expense management, and capital deployment.",
+      "share_repurchases": "$4.8 billion in Q3 2024, continuing $10 billion authorization over 2024-2025.",
+      "dividends": "$765 million in Q3 2024, with an 11% increase earlier in the year.",
+      "parent_liquidity": "$4.2 billion at end of Q3 2024.",
+      "core_operating_roe_2025_target": "10%",
+      "adjusted_pre_tax_loss_other_operations": "$143 million (nearly 50% YoY improvement)",
+      "net_investment_income_other_operations": "$125 million in Q3 2024",
+      "projected_short_term_investment_income_decline_Q4": "~$25 million sequentially",
+      "book_value_per_share": "$71.46 (up 4% from June 30, 2024)",
+      "book_value_per_share_YoY_increase": "10% from year end 2023",
+      "adjusted_book_value_per_share": "$73.90 (up 2% from June 30)",
+      "core_operating_roe_Q3": "9.2%",
+      "core_operating_roe_YTD": "9.3%",
+      "general_insurance_adjusted_pre_tax_income": "$1.2 billion",
+      "general_insurance_underwriting_income": "$437 million (including $411 million catastrophe losses)",
+      "hurricane_milton_preliminary_loss_estimate": "$175 million - $275 million",
+      "general_insurance_Q3_accident_year_combined_ratio_adjusted": "88.3% (up 140 bps YoY)",
+      "general_insurance_YTD_accident_year_combined_ratio": "88.1% (down 60 bps YoY)",
+      "general_insurance_Q3_accident_year_loss_ratio": "56.4% (flat YoY)",
+      "favorable_prior_year_development": "$153 million in Q3 2024",
+      "adverse_development_UK_Europe_casualty_financial_lines": "$181 million"
+    },
+    "executives": [
+      {
+        "name": "Peter Zaffino",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sabra Purtill",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Quentin McMillan",
+        "role": "Executive",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-05 08:30:00"
+  },
+  {
+    "company_name": "American International Group, Inc.",
+    "symbol": "AIG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+7%",
+      "eps_change": "+5%",
+      "outlook_summary": "Moving forward with strong momentum into 2025 after outstanding fourth quarter and full year 2024 performance."
+    },
+    "executives": [
+      {
+        "name": "Peter Zaffino",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Keith Walsh",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Quentin McMillan",
+        "role": "Unclear",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Don Bailey",
+        "role": "Unclear",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jon Hancock",
+        "role": "Unclear",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-12 08:30:00"
+  }
+]

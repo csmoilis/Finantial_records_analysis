@@ -1,0 +1,633 @@
+[
+  {
+    "company_name": "Cadence Design Systems, Inc.",
+    "symbol": "CDNS",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "at the upper end of guidance range",
+      "outlook_summary": "raising financial outlook for the year",
+      "record_backlog": "$6 billion"
+    },
+    "executives": [
+      {
+        "name": "Anirudh Devgan",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Wall",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Richard Gu",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Cadence.AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Palladium Z3",
+        "technology_name_secondary": "emulation platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Protium X3",
+        "technology_name_secondary": "prototyping platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Hardware accelerated verification",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Custom processor",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "EDA",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jay Vleeschhouwer"
+      },
+      {
+        "technology_name": "IP",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Wall"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-22 17:00:00"
+  },
+  {
+    "company_name": "Cadence Design Systems, Inc.",
+    "symbol": "CDNS",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "over 13% year-over-year",
+      "eps_change": "+0.06",
+      "outlook_summary": "Updated revenue guidance to over 13% year-over-year growth. Raised non-GAAP EPS by $0.06. On track for 50% incremental margin excluding BETA CAE. Assumed lower China revenue, but only need 13% from China to hit midpoint guidance."
+    },
+    "executives": [
+      {
+        "name": "Anirudh Devgan",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Wall",
+        "role": "Senior Vice President, and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Richard Gu",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Cadence.AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "orders more than tripling over the last year",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "EDA",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "SDA",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Digital Biology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Palladium Z3",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Hardware",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Wall"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-22 16:30:00"
+  },
+  {
+    "company_name": "Cadence Design Systems, Inc.",
+    "symbol": "CDNS",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "59%",
+      "eps_change": "raised outlook",
+      "outlook_summary": "Expects a strong Q4 and 2024, with prudent guidance and strong momentum in IP and SD&A."
+    },
+    "executives": [
+      {
+        "name": "Anirudh Devgan",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Wall",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Richard Gu",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "nearly triple over the last year",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Hyperscale computing",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Autonomous driving",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "5G",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Cadence.AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "nearly triple over the last year",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "GenAI agents",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Big data analytics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Arm",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "TSMC N3",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "TSMC N2P",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "TSMC A16",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "3Dblox",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Integrity 3D-IC",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Auto router",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Millennium platform",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lee Simpson"
+      },
+      {
+        "technology_name": "CSS",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lee Simpson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-28 17:00:00"
+  },
+  {
+    "company_name": "Cadence Design Systems, Inc.",
+    "symbol": "CDNS",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "13.5%",
+      "operating_margin": "42.5%",
+      "backlog": "$6.8 billion",
+      "outlook_summary": "Expects approximately 24% of revenue in Q1 and Q2, with the second half of the year being stronger, anticipating Q4 to be higher than Q3."
+    },
+    "executives": [
+      {
+        "name": "Anirudh Devgan",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Wall",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Richard Gu",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Agentic AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Physical AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "EDA",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Hardware",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "IP",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "System Software",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Cadence.ai",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Cadence Cerebrus",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "SimAI",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Allegro X AI",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "LLM based Design Agents",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "JedAI data platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Verisium AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "debug AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "OpenEye drug discovery",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      },
+      {
+        "technology_name": "Spectre FX FastSPICE",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anirudh Devgan"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-18 17:00:00"
+  }
+]

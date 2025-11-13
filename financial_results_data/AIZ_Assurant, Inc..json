@@ -1,0 +1,348 @@
+[
+  {
+    "company_name": "Assurant, Inc.",
+    "symbol": "AIZ",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "15% (PMC channel)",
+      "eps_change": "42% year-over-year (adjusted EPS excluding cats)",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects Enterprise adjusted EBITDA to grow by mid-single digits, excluding cats, trending toward the higher end of the outlook. Adjusted EPS growth to approximate adjusted EBITDA growth."
+    },
+    "executives": [
+      {
+        "name": "Keith Demmings",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Keith Meier",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sean Moshier",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "digital-first",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "artificial intelligence",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "Assurant Tech Pro",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "Connected Living",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "iSmash",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Meier"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-08 08:00:00"
+  },
+  {
+    "company_name": "Assurant, Inc.",
+    "symbol": "AIZ",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "N/A",
+      "eps_change": "29%",
+      "rd_investment_change": "N/A",
+      "outlook_summary": "Increased full year 2024 growth expectations. Expects Global Lifestyle's adjusted EBITDA to grow modestly. Expects Global Auto adjusted EBITDA to be flat to modestly down. Expects to be on the high end of $200M-$300M share repurchases range."
+    },
+    "executives": [
+      {
+        "name": "Keith Demmings",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Keith Meier",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sean Moshier",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Connected Living",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "$13 million",
+        "revenue_impact": "+14% (constant currency, excluding investments)",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "Mobile Protection Programs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "1.6 million mobile subscribers added",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "Card Benefits",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "multi-year",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "millions of Chase cardholders covered",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "Auto Claims",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "loss pressures",
+        "mentioned_by": "Keith Meier"
+      },
+      {
+        "technology_name": "Vehicle Service Contracts",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "profitability despite risk",
+        "mentioned_by": "Keith Meier"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-07 08:00:00"
+  },
+  {
+    "company_name": "Assurant, Inc.",
+    "symbol": "AIZ",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": null,
+      "eps_change": "mid to high teens",
+      "rd_investment_change": null,
+      "outlook_summary": "expects adjusted EBITDA to increase low-double-digits and adjusted EPS to increase mid to high teens for the full year"
+    },
+    "executives": [
+      {
+        "name": "Sean Moshier",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Keith Demmings",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Keith Meier",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Barnidge",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "millions of devices per year",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "Robotics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "millions of devices per year",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "approximately $21 million",
+        "revenue_impact": "strong at 11%",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "better customer experience",
+        "mentioned_by": "Keith Meier"
+      },
+      {
+        "technology_name": "Digital",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "better customer experience",
+        "mentioned_by": "Keith Meier"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "better customer experience",
+        "mentioned_by": "Keith Meier"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-06 08:00:00"
+  },
+  {
+    "company_name": "Assurant, Inc.",
+    "symbol": "AIZ",
+    "overall_sentiment": "positive",
+    "financials": {
+      "adjusted_ebitda_growth_fy2024": "+15%",
+      "adjusted_eps_growth_fy2024": "+19%",
+      "adjusted_ebitda_growth_q4": "+13%",
+      "adjusted_eps_growth_q4": "+13%",
+      "cash_flow_upstreamed_q4": "~$250M USD",
+      "cash_flow_upstreamed_fy2024": ">$800M USD",
+      "capital_returned_q4": "$161M USD",
+      "capital_returned_fy2024": ">$450M USD",
+      "share_repurchases_fy2024": "$300M USD",
+      "holding_company_liquidity_end_fy2024": "$673M USD",
+      "dividend_increase": "+11%",
+      "dividend_raise_consecutive_years": "20",
+      "outlook_summary": "expects ninth consecutive year of profitable growth in 2025, with investments from 2024 expected to be earned back in 2025 with an attractive one-year payback."
+    },
+    "executives": [
+      {
+        "name": "Sean Moshier",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Keith Meier",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Keith Demmings",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "Robotics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Demmings"
+      },
+      {
+        "technology_name": "HomeTech",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Keith Demmings"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-12 08:00:00"
+  }
+]

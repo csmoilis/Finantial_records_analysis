@@ -1,0 +1,268 @@
+[
+  {
+    "company_name": "Airbnb, Inc.",
+    "symbol": "ABNB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "18%",
+      "net_income": "Q1 record",
+      "adjusted_ebitda": "Q1 record",
+      "free_cash_flow": "4.2B USD",
+      "free_cash_flow_margin": "41%",
+      "outlook_summary": "Guiding Q2 room night growth to be flat, with Q2 margins slightly softer than consensus due to calendar effects and growth investments. Expects investments made now to impact more in the second half of the year."
+    },
+    "executives": [
+      {
+        "name": "Brian Chesky",
+        "role": "Co-Founder and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ellie Mertz",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Angela Yang",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Chesky"
+      },
+      {
+        "technology_name": "Platform and product innovation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Chesky"
+      },
+      {
+        "technology_name": "App",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ellie Mertz"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-08 16:30:00"
+  },
+  {
+    "company_name": "Airbnb, Inc.",
+    "symbol": "ABNB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "11%",
+      "eps_change": null,
+      "rd_investment_change": "investments in the back half of the year",
+      "outlook_summary": "No Q4 outlook provided. Will provide 2025 outlook closer to the time. Expects investments in the back half of the year for growth."
+    },
+    "executives": [
+      {
+        "name": "Ellie Mertz",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brian Chesky",
+        "role": "Co-Founder and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Angela Yang",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "experiences",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "not a lot of incremental investment required",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Nick Jones"
+      },
+      {
+        "technology_name": "co-hosting",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Chesky"
+      },
+      {
+        "technology_name": "host provided services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Chesky"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-06 16:30:00"
+  },
+  {
+    "company_name": "Airbnb, Inc.",
+    "symbol": "ABNB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+10%",
+      "adjusted_ebitda": "$2 billion",
+      "free_cash_flow": "$1.1 billion",
+      "free_cash_flow_margin": "38%",
+      "stock_repurchase": "$1.1 billion",
+      "outlook_summary": "Nights booked will accelerate in Q4 relative to Q3. Q4 EBITDA guide implies a margin in the high 20s (around 27-28%)."
+    },
+    "executives": [
+      {
+        "name": "Angela Yang",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian Chesky",
+        "role": "Co-Founder and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ellie Mertz",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Core optimization",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "stable set of resources",
+        "revenue_impact": "+",
+        "mentioned_by": "Ellie Mertz"
+      },
+      {
+        "technology_name": "Co-host Network",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "incremental listings",
+        "mentioned_by": "Brian Chesky"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-07 16:30:00"
+  },
+  {
+    "company_name": "Airbnb, Inc.",
+    "symbol": "ABNB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "up 10%",
+      "outlook_summary": "Expects to invest $200-$250 million in new businesses in 2025, with adjusted EBITDA margin of at least 34.5%. Free cash flow was $4.5 billion in 2024 with a 40% margin."
+    },
+    "executives": [
+      {
+        "name": "Ellie Mertz",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brian Chesky",
+        "role": "Co-founder and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Angela Yang",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "New Tech Stack",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Chesky"
+      },
+      {
+        "technology_name": "Search",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Chesky"
+      },
+      {
+        "technology_name": "Merchandising",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Chesky"
+      },
+      {
+        "technology_name": "New Businesses",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "$200M - $250M USD",
+        "revenue_impact": "positive",
+        "mentioned_by": "Ellie Mertz"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Chesky"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-13 16:30:00"
+  }
+]

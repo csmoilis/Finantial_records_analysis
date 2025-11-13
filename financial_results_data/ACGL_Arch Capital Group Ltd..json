@@ -1,0 +1,273 @@
+[
+  {
+    "company_name": "Arch Capital Group Ltd.",
+    "symbol": "ACGL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "operating_income_per_share": "$2.45",
+      "annualized_operating_return_on_equity": "20.7%",
+      "book_value_per_share_increase": "5.2%",
+      "book_value_per_share_as_of_march_31": "$49.36",
+      "underwriting_income": "$736 million",
+      "net_premium_written_growth_reinsurance": "31%",
+      "net_premium_written_growth_insurance": "12%",
+      "combined_ratio": "78.8%",
+      "prior_year_development": "$126 million (pretax)",
+      "prior_year_development_points": "3.7 points",
+      "baltimore_bridge_impact_insurance": "2.1 points",
+      "baltimore_bridge_impact_reinsurance": "3.0 points",
+      "catastrophe_loss_activity": "$58 million",
+      "current_quarter_ex_cat_combined_ratio_improvement": "1.4 points",
+      "gross_premium_pc_units": "$5.6 billion",
+      "gross_premium_pc_increase": "26%",
+      "net_investment_income": "$426 million (pretax)",
+      "net_investment_income_per_share": "$1.12",
+      "portfolio_total_return": "0.8%",
+      "income_from_operating_affiliates": "$55 million",
+      "somers_deferred_tax_asset_true_up": "$14 million",
+      "effective_tax_rate": "8.5%",
+      "outlook_summary": "Transaction to acquire US MidCorp and Entertainment insurance businesses from Allianz targeting Q3 close, expected to be moderately accretive to EPS and ROE starting in 2025. Capital base remains strong with leverage ratio in the mid-teen range. Investable asset base grown significantly, supporting further growth in investment income."
+    },
+    "executives": [
+      {
+        "name": "François Morin",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marc Grandisson",
+        "role": "CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "data and analytics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "François Morin"
+      },
+      {
+        "technology_name": "technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "François Morin"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-30 11:00:00"
+  },
+  {
+    "company_name": "Arch Capital Group Ltd.",
+    "symbol": "ACGL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects to return capital through share buybacks or dividends if opportunities do not arise. Pleased to report another highly profitable quarter due to significant contributions from all three underwriting segments and strong investment results. Successfully deploying capital into an extended hard market has fueled excellent risk-adjusted returns. Record $762 million of underwriting income and an annualized operating ROE of 20.5%. P&C environment remains excellent with plentiful opportunities for attractive returns, even as competition normalizes. Current rate increases are broadly above trend. Arch is an active yet disciplined market participant, practicing restraint and patience. The level of reserving for new delinquencies is lower than a year ago.",
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Francois Morin",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marc Grandisson",
+        "role": "CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-31 11:00:00"
+  },
+  {
+    "company_name": "Arch Capital Group Ltd.",
+    "symbol": "ACGL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "annualized_operating_return_on_equity": "14.8%",
+      "book_value_per_share_increase": "8.1%",
+      "cat_losses_q3": "$450 million",
+      "insurance_segment_net_premium": "$1.8 billion",
+      "insurance_segment_underwriting_income": "$120 million",
+      "investment_income_midcorp_acquisition": "$20 million",
+      "portfolio_total_return": "3.97%",
+      "available_for_sale_portfolio_appreciation": "$1.56 per share",
+      "cash_flow_from_operations_ytd": "> $5 billion",
+      "effective_tax_rate_q3": "8%",
+      "common_shareholders_equity": "$21.4 billion",
+      "debt_preferred_to_capital_ratio": "14.2%",
+      "outlook_summary": "The company maintains a strong balance sheet and financial flexibility to deploy capital and deliver outstanding results for shareholders."
+    },
+    "executives": [
+      {
+        "name": "Nicolas Papadopoulo",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Francois Morin",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marc Grandisson",
+        "role": "Former CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 11:00:00"
+  },
+  {
+    "company_name": "Arch Capital Group Ltd.",
+    "symbol": "ACGL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+17%",
+      "eps_change": "positive",
+      "outlook_summary": "expects cat load to represent approximately 7% to 8% of full-year group-wide net earned premium for 2025.",
+      "underwriting_income": "down 13% from last year",
+      "operating_income_full_year": "$3.5 billion",
+      "operating_return_on_equity_full_year": "18.9%",
+      "book_value_per_share_increase": "13%",
+      "special_dividend": "$5 per share",
+      "share_repurchases_q4": "$24 million",
+      "q4_after_tax_operating_income_per_share": "$2.26",
+      "annualized_operating_return_on_equity": "16.4%",
+      "net_income_return_on_equity_full_year": "22.8%",
+      "combined_ratio_full_year": "78.6%",
+      "catastrophe_losses_q4": "$393 million",
+      "prior_period_favorable_development": "$146 million",
+      "california_wildfire_loss_estimate": "$450 million to $550 million"
+    },
+    "executives": [
+      {
+        "name": "Nicolas Papadopoulo",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Francois Morin",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jimmy Bhullar",
+        "role": "Executive",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Nicolas Papadopoulo"
+      },
+      {
+        "technology_name": "Reinsurance",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Nicolas Papadopoulo"
+      },
+      {
+        "technology_name": "Specialty Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Nicolas Papadopoulo"
+      },
+      {
+        "technology_name": "Lloyds",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Nicolas Papadopoulo"
+      },
+      {
+        "technology_name": "Property Catastrophe Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Nicolas Papadopoulo"
+      },
+      {
+        "technology_name": "Midcorp Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Francois Morin"
+      },
+      {
+        "technology_name": "Entertainment Insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Francois Morin"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-11 11:00:00"
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "company_name": "Colgate-Palmolive Company",
+    "symbol": "CL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "strong organic growth guidance raise",
+      "eps_change": "positive",
+      "outlook_summary": "expects continued sustainable growth and delivering long-term algorithm for shareholders"
+    },
+    "executives": [
+      {
+        "name": "John Faucher",
+        "role": "Speaker",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Noel Wallace",
+        "role": "Chairman, President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Stanley Sutula",
+        "role": "Speaker",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Data Analytics",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Noel Wallace"
+      },
+      {
+        "technology_name": "Innovation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Noel Wallace"
+      },
+      {
+        "technology_name": "Wet Pet Food Manufacturing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "investment in capacity",
+        "revenue_impact": "positive",
+        "mentioned_by": "Stanley Sutula"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-26 08:30:00"
+  },
+  {
+    "company_name": "Colgate-Palmolive Company",
+    "symbol": "CL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": null,
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "Expects to drive consistent compounded earnings growth through balanced organic sales growth, strong gross margins, and effective brand investment."
+    },
+    "executives": [
+      {
+        "name": "John Faucher",
+        "role": "Chief Investor Relations Officer and Executive Vice President, M&A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Noel Wallace",
+        "role": "Chairman, President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Stan Sutula",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Noel Wallace"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-26 08:30:00"
+  },
+  {
+    "company_name": "Colgate-Palmolive Company",
+    "symbol": "CL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "6% (target)",
+      "outlook_summary": "Positive outlook for sustained growth, with expectations to meet long-term algorithm despite difficult comparisons. Focus on innovation and brand health to drive volume-led organic sales growth."
+    },
+    "executives": [
+      {
+        "name": "John Faucher",
+        "role": "Chief Investor Relations Officer and Senior Vice President, M&A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Noel Wallace",
+        "role": "Chairman, President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Stan Sutula",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Noel Wallace"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-25 08:30:00"
+  },
+  {
+    "company_name": "Colgate-Palmolive Company",
+    "symbol": "CL",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "high-single-digit",
+      "eps_change": "Double-digit based ... ahead of our initial guidance",
+      "rd_investment_change": "up 15%",
+      "outlook_summary": "confident in our strategy and in our ability to deliver consistent compounded growth to deliver on our guidance and drive strong total shareholder return"
+    },
+    "executives": [
+      {
+        "name": "John Faucher",
+        "role": "Chief Investor Relations Officer and Executive Vice President, M&A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Noel Wallace",
+        "role": "Chairman, President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Stan Sutula",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Faucher"
+      },
+      {
+        "technology_name": "data analytics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Faucher"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-31 02:30:00"
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "company_name": "Boston Scientific Corporation",
+    "symbol": "BSX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "13.8%",
+      "outlook_summary": "Raising full year guidance to 10% to 12% organic growth."
+    },
+    "executives": [
+      {
+        "name": "Michael Mahoney",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Daniel Brennan",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ken Stein",
+        "role": "Unknown",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "FARAPULSE",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "significant",
+        "revenue_impact": "substantial",
+        "mentioned_by": "Michael Mahoney"
+      },
+      {
+        "technology_name": "PFA",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "significant",
+        "revenue_impact": "rapid uptake",
+        "mentioned_by": "Michael Mahoney"
+      },
+      {
+        "technology_name": "AGENT",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "potential up to 20% of PCI volume",
+        "mentioned_by": "Ken Stein"
+      },
+      {
+        "technology_name": "WATCHMAN",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "19%",
+        "mentioned_by": "Michael Mahoney"
+      },
+      {
+        "technology_name": "DCB",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "potential up to 20% of PCI volume",
+        "mentioned_by": "Ken Stein"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-24 08:00:00"
+  },
+  {
+    "company_name": "Boston Scientific Corporation",
+    "symbol": "BSX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "13% to 15%",
+      "eps_change": "16% to 18%",
+      "outlook_summary": "Expects Q3 2024 organic revenue growth of 13% to 15% and full year 2024 adjusted EPS growth of 16% to 18%."
+    },
+    "executives": [
+      {
+        "name": "Jon Monson",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael F. Mahoney",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Brennan",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dr. Ken Stein",
+        "role": "Chief Medical Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "PFA",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael F. Mahoney"
+      },
+      {
+        "technology_name": "Watchman",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael F. Mahoney"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-24 08:00:00"
+  },
+  {
+    "company_name": "Boston Scientific Corporation",
+    "symbol": "BSX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "19.5%",
+      "eps_change": "+27%",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects full year adjusted operating margin to be approximately 27%. Expects full year free cash flow to exceed $2 billion. Aims to outperform markets, deliver meaningful margin improvement, and grow adjusted EPS double-digits in 2025."
+    },
+    "executives": [
+      {
+        "name": "Daniel Brennan",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Mahoney",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jon Monson",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dr. Ken Stein",
+        "role": "Chief Medical Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Art Butcher",
+        "role": "President of MedSurg and Asia Pacific businesses",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "FARAPULSE",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Mahoney"
+      },
+      {
+        "technology_name": "OPAL",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Mahoney"
+      },
+      {
+        "technology_name": "RHYTHMIA mapping system",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Mahoney"
+      },
+      {
+        "technology_name": "PFA",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Anthony Petrone"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-23 08:00:00"
+  },
+  {
+    "company_name": "Boston Scientific Corporation",
+    "symbol": "BSX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "mid-teens",
+      "eps_change": "double-digit",
+      "rd_investment_change": "9%",
+      "outlook_summary": "Expects to outgrow end markets, targeting double-digit EPS growth and 9% WAMGR by 2026."
+    },
+    "executives": [
+      {
+        "name": "Michael Mahoney",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Brennan",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dr. Ken Stein",
+        "role": "Chief Medical Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robert Marcus",
+        "role": "Host/Moderator",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jon Monson",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Roman",
+        "role": "Unclear",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "FairPulse",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Mahoney"
+      },
+      {
+        "technology_name": "ICTX",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Mahoney"
+      },
+      {
+        "technology_name": "PFA",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Frederick Wise"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-05 08:00:00"
+  }
+]

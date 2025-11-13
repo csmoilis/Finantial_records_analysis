@@ -1,0 +1,324 @@
+[
+  {
+    "company_name": "Citizens Financial Group, Inc.",
+    "symbol": "CFG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "3% sequential quarter (fees)",
+      "eps_change": "not specified",
+      "rd_investment_change": "not specified",
+      "outlook_summary": "Maintains positive outlook for Citizens over the balance of the year and the medium term. Expects net growth in the second half of the year. Targets 16%-18% return. Expects to get back to nominal GDP growth rates in '25-'27 in a strong economy."
+    },
+    "executives": [
+      {
+        "name": "John Woods",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Bruce Van Saun",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kristin Silberberg",
+        "role": "Executive Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brendan Coughlin",
+        "role": "Head of Consumer Banking",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Don McCree",
+        "role": "Head of Commercial Banking",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "potential for further breakthroughs",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bruce Van Saun"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-17 09:00:00"
+  },
+  {
+    "company_name": "Citizens Financial Group, Inc.",
+    "symbol": "CFG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects NII and net interest margin to rebound in the fourth quarter, with a return to positive operating leverage. Net charge-offs trending in line with expectations. Expects to end the year with a target CET1 ratio of approximately 10.5%. Confident in ability to hit medium-term 16% to 18% return target.",
+      "revenue_growth": "up 7% linked quarter (fees)",
+      "eps_change": "unclear",
+      "rd_investment_change": "ongoing benefits from BSO and TOP, growing contributions from data and technology initiatives"
+    },
+    "executives": [
+      {
+        "name": "John Woods",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Bruce Van Saun",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kristin Silberberg",
+        "role": "Executive Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brendan Coughlin",
+        "role": "Head of Consumer Banking",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Don McCree",
+        "role": "Head of Commercial Banking",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Private Bank",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "medium term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "generated $4 billion of deposits and $3.6 billion of AUM",
+        "mentioned_by": "John Woods"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "growing contributions",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Woods"
+      },
+      {
+        "technology_name": "Cloud Migration",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "growing contributions",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Woods"
+      },
+      {
+        "technology_name": "Data",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "growing contributions",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Woods"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-17 09:00:00"
+  },
+  {
+    "company_name": "Citizens Financial Group, Inc.",
+    "symbol": "CFG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "mid- to high-single-digits (expected for non-interest income)",
+      "eps_change": "unclear",
+      "rd_investment_change": "continued investment in strategic initiatives",
+      "outlook_summary": "expect positive operating leverage in Q4, credit broadly stable, on track to hit most full-year guides with exception of balance sheet volume impacting NII and a modestly higher ACL build. Confident in medium-term 16%-18% return target."
+    },
+    "executives": [
+      {
+        "name": "Kristin Silberberg",
+        "role": "Executive Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bruce Van Saun",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Woods",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brendan Coughlin",
+        "role": "Head of Consumer Banking",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Don McCree",
+        "role": "Head of Commercial Banking",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Capital Markets",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "mid- to high-single-digits (expected)",
+        "mentioned_by": "Bruce Van Saun"
+      },
+      {
+        "technology_name": "Wealth Management",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "slightly up",
+        "mentioned_by": "John Woods"
+      },
+      {
+        "technology_name": "Card and Credit",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Bruce Van Saun"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-16 09:00:00"
+  },
+  {
+    "company_name": "Citizens Financial Group, Inc.",
+    "symbol": "CFG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "up 4% (expected for 2025)",
+      "outlook_summary": "Expects solid growth in NII, nice fee growth paced by capital markets and wealth, positive operating leverage around 1.5% for the full-year 2025, and continued reserve releases. Confident in achieving medium-term 16%-18% ROTCE target."
+    },
+    "executives": [
+      {
+        "name": "Bruce Van Saun",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Woods",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brendan Coughlin",
+        "role": "Head of Consumer Banking",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Don McCree",
+        "role": "Head of Commercial Banking",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Lovin Thomas",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Private Bank",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "5% accretive to bottom line in 2025",
+        "mentioned_by": "Bruce Van Saun"
+      },
+      {
+        "technology_name": "Wealth",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "John Woods"
+      },
+      {
+        "technology_name": "Capital Markets",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "John Woods"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-17 09:00:00"
+  }
+]

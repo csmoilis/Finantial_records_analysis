@@ -1,0 +1,287 @@
+[
+  {
+    "company_name": "Capital One Financial Corporation",
+    "symbol": "COF",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "$3.13",
+      "revenue_growth": "6%",
+      "outlook_summary": "Capital One is leaning in across the card business, seeing good account originations and purchase volume growth. Auto origination volumes were up 20% year-over-year and quarter-over-quarter. Prepared to implement CFPB late fee rule, with mitigating actions expected to resolve impact within a couple of years."
+    },
+    "executives": [
+      {
+        "name": "Jeff Norris",
+        "role": "Senior Vice President of Finance",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andrew Young",
+        "role": "not specified",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Richard Fairbank",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jeffrey Adelson",
+        "role": "not specified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Pancari",
+        "role": "not specified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Moshe Orenbuch",
+        "role": "not specified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mihir Bhatia",
+        "role": "not specified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rick Shane",
+        "role": "not specified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Donald Fandetti",
+        "role": "not specified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sanjay Sakhrani",
+        "role": "not specified",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Venture X business card",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Richard Fairbank"
+      },
+      {
+        "technology_name": "Spark cash plus card",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Richard Fairbank"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-25 17:00:00"
+  },
+  {
+    "company_name": "Capital One Financial Corporation",
+    "symbol": "COF",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "positive",
+      "eps_change": "positive",
+      "outlook_summary": "Modestly down operating efficiency ratio expected for 2024, even with Walmart impact. Marketing investments to increase in the second half of 2024."
+    },
+    "executives": [
+      {
+        "name": "Jeff Norris",
+        "role": "Senior Vice President of Finance",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Richard Fairbank",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andrew Young",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Machine Learning",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Young"
+      },
+      {
+        "technology_name": "Digital capabilities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Young"
+      },
+      {
+        "technology_name": "Technology transformation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Young"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-23 17:00:00"
+  },
+  {
+    "company_name": "Capital One Financial Corporation",
+    "symbol": "COF",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+5%",
+      "eps_change": "flat",
+      "rd_investment_change": "up 7%",
+      "outlook_summary": "Expects full year 2024 annual operating efficiency ratio to be in the low 42s. Expects sequential quarter increase in operating expense in Q4. Total company marketing in the second half of 2024 to be meaningfully higher than in the first half."
+    },
+    "executives": [
+      {
+        "name": "Jeff Norris",
+        "role": "Senior Vice President of Finance",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Richard Fairbank",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andrew Young",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "technology transformation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Young"
+      },
+      {
+        "technology_name": "underwriting",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Richard Fairbank"
+      },
+      {
+        "technology_name": "data-driven decisioning",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Richard Fairbank"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-24 17:00:00"
+  },
+  {
+    "company_name": "Capital One Financial Corporation",
+    "symbol": "COF",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "+2%",
+      "eps_change": "Not specified, but $1.1 billion earned in Q4 and $4.8 billion for the full year",
+      "rd_investment_change": "ongoing investment mentioned, but no specific change percentage",
+      "outlook_summary": "Guidance for operating efficiency ratio in the low 42% range for 2024, with no short-term guidance for 2025 but a positive long-term outlook on efficiency improvements driven by technology."
+    },
+    "executives": [
+      {
+        "name": "Jeff Norris",
+        "role": "Senior Vice President of Finance",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Richard Fairbank",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andrew Young",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ryan Nash",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Pancari",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Technology Transformation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "significant investment",
+        "revenue_impact": "positive, through efficiency and cost savings",
+        "mentioned_by": "Richard Fairbank"
+      },
+      {
+        "technology_name": "Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "cost savings",
+        "mentioned_by": "Richard Fairbank"
+      },
+      {
+        "technology_name": "Legacy Technology",
+        "technology_sentiment": "negative",
+        "investment_action": "divesting",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "low potential",
+        "rd_investment": "reducing costs",
+        "revenue_impact": "cost savings",
+        "mentioned_by": "Richard Fairbank"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-21 16:30:00"
+  }
+]

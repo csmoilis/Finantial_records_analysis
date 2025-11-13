@@ -1,0 +1,273 @@
+[
+  {
+    "company_name": "Ameriprise Financial, Inc.",
+    "symbol": "AMP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+10%",
+      "eps_change": "+19%",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expecting G&A increase in the mid-single digit range for the full-year. Expects advisor loans to increase. Clients will put money back to work in wrap and other products over time."
+    },
+    "executives": [
+      {
+        "name": "Alicia Charity",
+        "role": "Host/Introduction",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jim Cracchiolo",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Walter Berman",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ryan Krueger",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Alex Blostein",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Suneet Kamath",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Wilma Burdis",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "ongoing",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James M. Cracchiolo"
+      },
+      {
+        "technology_name": "Data and Analytics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "ongoing",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James M. Cracchiolo"
+      },
+      {
+        "technology_name": "Technology Platforms",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "ongoing",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James M. Cracchiolo"
+      },
+      {
+        "technology_name": "Cybersecurity",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "ongoing",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James M. Cracchiolo"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-23 09:00:00"
+  },
+  {
+    "company_name": "Ameriprise Financial, Inc.",
+    "symbol": "AMP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "9%",
+      "eps_change": "+17%",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Maintain expense discipline in 2024 to achieve growth and shareholder objectives. Expect to return 80% of operating earnings to shareholders in 2024."
+    },
+    "executives": [
+      {
+        "name": "Jim Cracchiolo",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Walter Berman",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Alicia Charity",
+        "role": " ",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Cracchiolo"
+      },
+      {
+        "technology_name": "ETFs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Cracchiolo"
+      },
+      {
+        "technology_name": "Active ETFs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Cracchiolo"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-25 09:00:00"
+  },
+  {
+    "company_name": "Ameriprise Financial, Inc.",
+    "symbol": "AMP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "11%",
+      "eps_change": "+17%",
+      "outlook_summary": "Expects to return 80% of operating earnings to shareholders in 2024. G&A expenses expected to be flattish in 2025 compared to 2024. Believes they have strong returns and a substantial excess capital position for deployment in 2025, with flexibility for buybacks, M&A, or business adjustments."
+    },
+    "executives": [
+      {
+        "name": "Alicia Charity",
+        "role": "Host",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jim Cracchiolo",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Walter Berman",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "cloud-based technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "25-30M USD",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Walter Berman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-24 09:00:00"
+  },
+  {
+    "company_name": "Ameriprise Financial, Inc.",
+    "symbol": "AMP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+11%",
+      "eps_change": "+17%",
+      "return_on_equity_growth": "+300 basis points",
+      "outlook_summary": "Company delivered excellent growth in Q4, continuing a long track record of outperforming stated financial targets. Expects solid performance in 2025 based on current fundamentals and transactional growth."
+    },
+    "executives": [
+      {
+        "name": "Stephanie Rabe",
+        "role": "Host/Introduction",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jim Cracchiolo",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Walter Berman",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Intelligent Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Cracchiolo"
+      },
+      {
+        "technology_name": "Robotics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Cracchiolo"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Cracchiolo"
+      },
+      {
+        "technology_name": "AI Agents",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Cyprys"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-30 09:00:00"
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "company_name": "The Bank of New York Mellon Corporation",
+    "symbol": "BK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+3%",
+      "eps_change": "+11% (reported), +14% (excluding notable items)",
+      "outlook_summary": "Net interest income expected down 10% year-over-year; expenses excluding notable items expected flat year-over-year; effective tax rate 23%-24%; returning 100% or more of 2024 earnings to shareholders.",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Robin Vince",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dermot McDonogh",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Marius Merz",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Shannon Hobbs",
+        "role": "Chief People Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "DGX SuperPOD",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robin Vince"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-16 11:00:00"
+  },
+  {
+    "company_name": "The Bank of New York Mellon Corporation",
+    "symbol": "BK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "NII_outlook_full_year_2024": "down 10% year-over-year",
+      "expense_goal_full_year_2024": "roughly flat excluding notable items",
+      "effective_tax_rate_full_year_2024": "23% to 24%",
+      "earnings_return_target_2024": "100% or more",
+      "common_dividend_increase": "12%",
+      "margin": "33%",
+      "return_on_tangible_common_equity": "25% (24% excluding notable items)",
+      "outlook_summary": "Incrementally confident in ability to drive positive operating leverage in 2024, supported by solid fee growth, better than expected NII performance to date, and continued expense discipline."
+    },
+    "executives": [
+      {
+        "name": "Robin Vince",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dermot McDonogh",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marius Merz",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Digital Fund Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Data Management Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Aladdin",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-12 09:30:00"
+  },
+  {
+    "company_name": "The Bank of New York Mellon Corporation",
+    "symbol": "BK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+5%",
+      "eps_change": "+22%",
+      "outlook_summary": "Expects net interest income in Q4 to be slightly below Q3 levels but to outperform full-year guidance by 5 percentage points. Full-year core expenses expected to be roughly flat. Effective tax rate expected at the lower end of 23%-24%. On track to return 100% or more of 2024 earnings to shareholders."
+    },
+    "executives": [
+      {
+        "name": "Marius Merz",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robin Vince",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dermot McDonogh",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ebrahim Poonawala",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Betsy Graseck",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cash Management",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "Money Market Funds",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "Active Strategies",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "Fixed Income",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "Index Strategies",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "Wealth Management",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+14%",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "Capital Markets",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "Debt Capital Markets",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "Treasury Market",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "Security Services",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 5%",
+        "mentioned_by": "Dermot McDonogh"
+      },
+      {
+        "technology_name": "Market Services",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 5%",
+        "mentioned_by": "Dermot McDonogh"
+      },
+      {
+        "technology_name": "Investment Management",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 2%",
+        "mentioned_by": "Dermot McDonogh"
+      },
+      {
+        "technology_name": "Foreign Exchange",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+14%",
+        "mentioned_by": "Dermot McDonogh"
+      },
+      {
+        "technology_name": "Fixed Income Trading",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dermot McDonogh"
+      },
+      {
+        "technology_name": "Equity Trading",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dermot McDonogh"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-11 11:00:00"
+  },
+  {
+    "company_name": "The Bank of New York Mellon Corporation",
+    "symbol": "BK",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "6%",
+      "nii_change": "-1%",
+      "operating_leverage_reported": "968 basis points",
+      "operating_leverage_excluding_notable_items": "288 basis points",
+      "expense_change_reported": "-4%",
+      "expense_change_excluding_notable_items": "1%",
+      "shareholder_return": "102% of 2024 earnings",
+      "outlook_summary": "Confident in delivering positive operating leverage and meeting or exceeding medium-term financial targets (pre-tax margin >= 33%, return on tangible common equity >= 23%). Manages Tier 1 leverage ratio between 5.5% and 6%."
+    },
+    "executives": [
+      {
+        "name": "Robin Vince",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dermot McDonogh",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marius Merz",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "drive topline growth",
+        "mentioned_by": "Robin Vince"
+      },
+      {
+        "technology_name": "digital assets",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "solve client and market needs",
+        "mentioned_by": "Robin Vince"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-15 12:00:00"
+  }
+]

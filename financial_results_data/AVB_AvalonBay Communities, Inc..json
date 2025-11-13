@@ -1,0 +1,293 @@
+[
+  {
+    "company_name": "AvalonBay Communities, Inc.",
+    "symbol": "AVB",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "90 basis points",
+      "outlook_summary": "The outlook has improved due to job market changes, but consumer is facing crosswinds from inflation, car loans, and student loan repayment."
+    },
+    "executives": [
+      {
+        "name": "Jason Reilley",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Benjamin Schall",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sean Breslin",
+        "role": "Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matthew Birenbaum",
+        "role": "Chief Investment Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin O'Shea",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Development Communities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+10%",
+        "mentioned_by": "Matthew Birenbaum"
+      },
+      {
+        "technology_name": "Lease-up",
+        "technology_sentiment": "positive",
+        "investment_action": "ongoing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Matthew Birenbaum"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-26 11:00:00"
+  },
+  {
+    "company_name": "AvalonBay Communities, Inc.",
+    "symbol": "AVB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "3.5%",
+      "eps_change": "+3.7%",
+      "outlook_summary": "Raising full year core FFO per share by $0.11 to $11.02 per share, representing a year-over-year growth rate of 3.7%. Expects same-store operating expense growth of 4.8% for full year 2024, a 60 basis point decrease from last quarter's outlook. Expects same-store NOI growth of 2.9% in 2024."
+    },
+    "executives": [
+      {
+        "name": "Kevin O'Shea",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Benjamin Schall",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sean Breslin",
+        "role": "Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matt Birenbaum",
+        "role": "Chief Investment Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Benjamin Schall"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 13:00:00"
+  },
+  {
+    "company_name": "AvalonBay Communities, Inc.",
+    "symbol": "AVB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "core_FFO_guidance": "$11.04 per share",
+      "core_FFO_growth_rate": "3.9%",
+      "same_store_revenue_growth": "3.5%",
+      "same_store_operating_expense_estimate_reduction": "30 basis points",
+      "same_store_NOI_guidance": "3%",
+      "outlook_summary": "Increased full year core FFO guidance for 2024 for the third time, expecting same-store revenue growth of 3.5% and same-store NOI guidance of 3%. Outlook for 2025 is healthy, with a lean-in to development for differentiated earnings growth."
+    },
+    "executives": [
+      {
+        "name": "Benjamin Schall",
+        "role": "CEO and President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sean Breslin",
+        "role": "Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin O'Shea",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Matt Birenbaum",
+        "role": "Chief Investment Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jason Reilley",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "incremental revenue",
+        "mentioned_by": "Benjamin Schall"
+      },
+      {
+        "technology_name": "AvalonConnect",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "incremental revenue",
+        "mentioned_by": "Benjamin Schall"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-05 11:00:00"
+  },
+  {
+    "company_name": "AvalonBay Communities, Inc.",
+    "symbol": "AVB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "15% other rental revenue growth in 2024 and is projected to produce almost 9% growth in 2025",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Strong financial and operating results expected to continue with a focus on superior growth. Apartment fundamentals look favorable in established regions, with a rich menu of investment opportunities and a well-positioned balance sheet."
+    },
+    "executives": [
+      {
+        "name": "Jason Reilley",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ben Schall",
+        "role": "CEO and President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matthew Birenbaum",
+        "role": "unclear",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sean Breslin",
+        "role": "unclear",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ben Schall"
+      },
+      {
+        "technology_name": "centralized services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+39 million of NOI",
+        "mentioned_by": "Ben Schall"
+      },
+      {
+        "technology_name": "lease AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ben Schall"
+      },
+      {
+        "technology_name": "ancillary services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+15%",
+        "mentioned_by": "Ben Schall"
+      },
+      {
+        "technology_name": "resident solar",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Matthew Birenbaum"
+      },
+      {
+        "technology_name": "kitchen renovations",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Matthew Birenbaum"
+      },
+      {
+        "technology_name": "bath renovations",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Matthew Birenbaum"
+      },
+      {
+        "technology_name": "accessory dwelling units",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Matthew Birenbaum"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-06 13:00:00"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "company_name": "Caterpillar Inc.",
+    "symbol": "CAT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "adjusted_operating_profit_margin": "22.2%",
+      "eps_change": "record profit per share of $5.60",
+      "outlook_summary": "Expects sales and revenues to be broadly similar to the record 2023 level; expects to be in the top half of target ranges for adjusted operating profit margin and ME&T free cash flow.",
+      "cash_deployment": "$5.1 billion for share repurchases and dividends in Q1, including a $3.5 billion accelerated share repurchase program."
+    },
+    "executives": [
+      {
+        "name": "Jim Umpleby",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andrew Bonfield",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kyle Epley",
+        "role": "Senior Vice President of the Global Finance Services Division",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rob Rengel",
+        "role": "Senior Director of IR",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ryan Fiedler",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Umpleby"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Umpleby"
+      },
+      {
+        "technology_name": "Large Reciprocating Engines",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "approximately double output as compared to 2023",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Umpleby"
+      },
+      {
+        "technology_name": "Electrification",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Umpleby"
+      },
+      {
+        "technology_name": "Battery Electric Trucks",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Umpleby"
+      },
+      {
+        "technology_name": "Hybrid Energy Storage",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Umpleby"
+      },
+      {
+        "technology_name": "Autonomous Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Umpleby"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-25 08:30:00"
+  },
+  {
+    "company_name": "Caterpillar Inc.",
+    "symbol": "CAT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "-4%",
+      "eps_change": "+8%",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Sales and revenues expected to decline at a roughly similar rate in the second half versus the prior year. Adjusted operating profit margins expected to be stronger than anticipated, above the top end of the target range. ME&T free cash flow generation expected to be in the top half of the target range."
+    },
+    "executives": [
+      {
+        "name": "James Umpleby",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ryan Fiedler",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andrew Bonfield",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kyle Epley",
+        "role": "Senior Vice President of the Global Finance Services Division",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rob Rengel",
+        "role": "Senior Director of IR",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Battery-electric trucks",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Umpleby"
+      },
+      {
+        "technology_name": "Ethanol powered trucks",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Umpleby"
+      },
+      {
+        "technology_name": "Hydrogen fuel",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Umpleby"
+      },
+      {
+        "technology_name": "Autonomous solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Umpleby"
+      },
+      {
+        "technology_name": "Cloud computing",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Umpleby"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "James Umpleby"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-06 08:30:00"
+  },
+  {
+    "company_name": "Caterpillar Inc.",
+    "symbol": "CAT",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-4%",
+      "eps_change": "in line with expectations",
+      "rd_investment_change": "lower SG&A and R&D expenses",
+      "outlook_summary": "Expects slightly lower sales and revenues in Q4 compared to prior year. ME&T free cash flow anticipated near the top of the target range. Full year adjusted operating profit margin unchanged and remains above the top of the range. Full year adjusted profit per share unchanged."
+    },
+    "executives": [
+      {
+        "name": "Jim Umpleby",
+        "role": "Chairman and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ryan Fiedler",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andrew Bonfield",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kyle Epley",
+        "role": "Senior Vice President of the Global Finance Services Division",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Alex Kapper",
+        "role": "Vice President-Elect of IR",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rob Rengel",
+        "role": "Senior Director of IR",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital capabilities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Umpleby"
+      },
+      {
+        "technology_name": "Operator assistance technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Umpleby"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-30 08:30:00"
+  },
+  {
+    "company_name": "Caterpillar Inc.",
+    "symbol": "CAT",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "slightly lower compared to 2024",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "anticipates 2025 sales and revenues to be slightly lower compared to 2024, with continued strength in energy and transportation mostly offsetting lower sales in construction industries and resource industries. Expects services revenues to grow in 2025. Full year adjusted operating profit margin expected to be lower than 2024 but in the top half of the target range. ME&T free cash flow expected in the top half of the target range of $5 billion to $10 billion."
+    },
+    "executives": [
+      {
+        "name": "Alex Kapper",
+        "role": "Vice President-elect of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jim Umpleby",
+        "role": "Chairman and CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andrew Bonfield",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kyle Epley",
+        "role": "Senior Vice President of Global Finance Services Division",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ryan Fiedler",
+        "role": "Vice President of IR",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robert Rengel",
+        "role": "Senior Director of IR",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Vision Link",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "large reciprocating engines",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "125%",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jim Umpleby"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-30 08:30:00"
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "company_name": "Centene Corporation",
+    "symbol": "CNC",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+7%",
+      "eps_change": "+7%",
+      "outlook_summary": "Increasing full year 2024 adjusted EPS guidance by $0.10 to greater than $6.80. Expects Marketplace to be within target 5% to 7.5% range in 2024. Full year investment income expected to be above $1.4 billion. Expects Medicare segment HBR around 90% for the full year. Expects membership to be in the mid-13s by year-end."
+    },
+    "executives": [
+      {
+        "name": "Sarah London",
+        "role": "Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Drew Asher",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jennifer Gilligan",
+        "role": "Host",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ken Fasola",
+        "role": "President",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Inflation Reduction Act",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Asher"
+      },
+      {
+        "technology_name": "Medicare",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Sarah London"
+      },
+      {
+        "technology_name": "Medicaid",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Sarah London"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-26 08:30:00"
+  },
+  {
+    "company_name": "Woodside Energy",
+    "symbol": "CNC",
+    "overall_sentiment": "positive",
+    "financials": {
+      "net_profit_after_tax": "$1.9 billion",
+      "interim_dividend_per_share": "$0.69",
+      "unit_production_cost_reduction": "-6%",
+      "lng_reliability": "98%",
+      "production": ">89 million barrels of oil equivalent",
+      "earnings_per_share": "strong",
+      "dividend_yield": "7.3%",
+      "cash_margin": ">80%",
+      "free_cash_flow": "$740 million",
+      "gearing_target": "10% to 20%",
+      "divestment_proceeds_scarborough": "$910 million",
+      "total_consideration_scarborough": "$1.4 billion",
+      "aud_tax_royalty_payments": "AUD2.7 billion",
+      "aud_local_business_spend": "AUD2.4 billion"
+    },
+    "executives": [
+      {
+        "name": "Meg O'Neill",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Graham Tiver",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Energy Transition",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Meg O'Neill"
+      },
+      {
+        "technology_name": "Clean Ammonia Project",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Graham Tiver"
+      },
+      {
+        "technology_name": "LNG",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Meg O'Neill"
+      },
+      {
+        "technology_name": "Methane Emissions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Meg O'Neill"
+      },
+      {
+        "technology_name": "Scope 1 and 2 emissions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Meg O'Neill"
+      },
+      {
+        "technology_name": "Scope 3 investments",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Meg O'Neill"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-27 08:30:00"
+  },
+  {
+    "company_name": "Centene Corporation",
+    "symbol": "CNC",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "eps_change": "greater than $6.80",
+      "outlook_summary": "Full year 2024 adjusted diluted EPS guidance of greater than $6.80. Expects to grow adjusted EPS in 2025. Long-term EPS growth target of 12% to 15% in a normalized environment. Q3 adjusted diluted EPS of $1.62, stronger than expected. Q3 Medicaid performance better than mid-quarter commentary."
+    },
+    "executives": [
+      {
+        "name": "Jennifer Gilligan",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sarah London",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andrew Asher",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ken Fasola",
+        "role": "President",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Windley"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-25 08:30:00"
+  },
+  {
+    "company_name": "Centene Corporation",
+    "symbol": "CNC",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "positive",
+      "revenue_growth": "+$4 billion (2025 guidance increase)",
+      "outlook_summary": "Lifting full year 2025 revenue guidance by $4 billion. Full year 2025 adjusted diluted EPS outlook remains unchanged at greater than $7.25."
+    },
+    "executives": [
+      {
+        "name": "Jennifer Gilligan",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sarah London",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andrew Asher",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christian Borgmeyer",
+        "role": "Analyst (on behalf of Ryan Langston)",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sarah James",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Scott Fidel",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "improve business operations",
+        "mentioned_by": "Sarah London"
+      },
+      {
+        "technology_name": "ICHRA",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "future earnings power",
+        "mentioned_by": "Sarah London"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-04 08:30:00"
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "company_name": "American Tower Corporation",
+    "symbol": "AMT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+10%",
+      "outlook_summary": "The company is experiencing an acceleration in U.S. application pipeline and sequential step-up in co-location and amendment growth in Europe, leading to confidence in driving strong, sustained growth for 2024 and beyond. Q1 performance exceeded expectations. Services revenue expected to be $195 million with $100 million gross margin. FX headwinds noted, primarily from Africa, impacting property revenue by $15 million and EBITDA/AFFO by $5 million ($0.01 dilution)."
+    },
+    "executives": [
+      {
+        "name": "Steven Vondran",
+        "role": "Executive Vice President, U.S. Division President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rodney Smith",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam Smith",
+        "role": "None provided",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael Rollins",
+        "role": "None provided",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Simon Flannery",
+        "role": "None provided",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ric Prentiss",
+        "role": "None provided",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Barden",
+        "role": "None provided",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Nicholas Del Deo",
+        "role": "None provided",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Batya Levi",
+        "role": "None provided",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jon Atkin",
+        "role": "None provided",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "5G",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Steven Vondran"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Steven Vondran"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-30 09:50:00"
+  },
+  {
+    "company_name": "American Tower Corporation",
+    "symbol": "AMT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "5.3%",
+      "eps_change": "unclear",
+      "rd_investment_change": "increase for US data center business, +$55M total CapEx increase",
+      "outlook_summary": "Revised full year outlook indicates continued strength and confidence in driving strong growth."
+    },
+    "executives": [
+      {
+        "name": "Steve Vondran",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rod Smith",
+        "role": "Executive Vice President, CFO and Treasurer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam Smith",
+        "role": "Senior Vice President of Investor Relations and FP&A",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Mobile Data Consumption",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong growth",
+        "mentioned_by": "Steve Vondran"
+      },
+      {
+        "technology_name": "Data Center",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "+$30 million for maintenance CapEx and additional success-based development investments",
+        "revenue_impact": "double-digit revenue growth, record cash backlog, 60% pre-leased data center projects",
+        "mentioned_by": "Rod Smith"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-30 08:30:00"
+  },
+  {
+    "company_name": "American Tower Corporation",
+    "symbol": "AMT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "mid-single-digit organic tenant billings growth",
+      "eps_change": "Expectation to resume growth in 2025",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects mid-single-digit AFFO per share growth for 2025, projecting $10.50 per share from continuing operations."
+    },
+    "executives": [
+      {
+        "name": "Adam Smith",
+        "role": "Senior Vice President of Investor Relations and FP&A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Steve Vondran",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rod Smith",
+        "role": "Executive Vice President, CFO, and Treasurer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ric Prentiss",
+        "role": "analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "5G",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Steve Vondran"
+      },
+      {
+        "technology_name": "4G",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Steve Vondran"
+      },
+      {
+        "technology_name": "Data Center",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Steve Vondran"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-29 08:30:00"
+  },
+  {
+    "company_name": "American Tower Corporation",
+    "symbol": "AMT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "nearly 10% (U.S. data center business)",
+      "eps_change": null,
+      "rd_investment_change": "moderately increasing year-to-year (overall capital spend), reducing emerging market discretionary CapEx by over 15% compared to 2024",
+      "outlook_summary": "2025 plan is in-line with net leverage target, stronger growth and returns expected over the long-term."
+    },
+    "executives": [
+      {
+        "name": "Rod Smith",
+        "role": "Executive Vice President, CFO, and Treasurer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam Smith",
+        "role": "Senior Vice President of Investor Relations in FP&A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Steve Vondran",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Bud Noel",
+        "role": "Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rich Rossi",
+        "role": "U.S. and Canada Business Lead",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "5G",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Rod Smith"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steve Vondran"
+      },
+      {
+        "technology_name": "Data Center",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "nearly 10% revenue growth",
+        "revenue_impact": "+10%",
+        "mentioned_by": "Rod Smith"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-25 08:30:00"
+  }
+]

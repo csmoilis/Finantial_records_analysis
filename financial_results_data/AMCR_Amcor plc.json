@@ -1,0 +1,210 @@
+[
+  {
+    "company_name": "Amcor plc",
+    "symbol": "AMCR",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": null,
+      "eps_change": "mid-single digits growth expected in H2",
+      "rd_investment_change": null,
+      "outlook_summary": "Reaffirmed full-year guidance; expects adjusted EPS for H2 to grow by mid-single digits over last year on a comparable constant currency basis. Volumes expected to be flat to up +/- low single digits in H2."
+    },
+    "executives": [
+      {
+        "name": "Ron Delia",
+        "role": "Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael Casamento",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Tracey Whitehead",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "packaging",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ron Delia"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2023-10-31 17:30:00"
+  },
+  {
+    "company_name": "Amcor plc",
+    "symbol": "AMCR",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "eps_change": "mid-single-digit growth in Q4",
+      "outlook_summary": "expects adjusted EPS to increase by mid-single-digits in Q4 over the prior year; Q2 marks the low point for earnings growth and volume declines, with trajectory expected to improve in the second half of fiscal 2024. Reaffirming full year free cash flow guidance of $850 million to $950 million.",
+      "revenue_growth": "volumes mid-single-digit down in Q3, volumes down low single-digit in Q4",
+      "rd_investment_change": "stepping up CapEx over a multiyear period"
+    },
+    "executives": [
+      {
+        "name": "Michael Casamento",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ron Delia",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Purtell",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-02-06 17:30:00"
+  },
+  {
+    "company_name": "Amcor plc",
+    "symbol": "AMCR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "down 6% (Flexibles segment)",
+      "eps_change": "mid-single-digit growth expected in Q4",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects mid-single-digit earnings growth in Q4 and return to growth in line with shareholder value creation model. Reaffirmed free cash flow guidance of $850M to $950M."
+    },
+    "executives": [
+      {
+        "name": "Peter Konieczny",
+        "role": "Speaker",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Casamento",
+        "role": "Speaker",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Sustainability",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peter Konieczny"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-04-30 17:30:00"
+  },
+  {
+    "company_name": "Amcor plc",
+    "symbol": "AMCR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "Overall volumes increased 1% in the quarter",
+      "eps_change": "up 9%",
+      "outlook_summary": "Expect fiscal '25 EPS guidance range of growth of 3% to 8%",
+      "adjusted_free_cash_flow_fy24": "$952 million (up 12% year-over-year)",
+      "leverage_ratio_fy24": "3.1 times (down 0.3 turns)"
+    },
+    "executives": [
+      {
+        "name": "Peter Konieczny",
+        "role": "Interim Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Casamento",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Tracey Whitehead",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Healthcare packaging",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "-2% (due to destocking)",
+        "mentioned_by": "Michael Casamento"
+      },
+      {
+        "technology_name": "Emerging markets",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "mid-single digits volume growth",
+        "mentioned_by": "Michael Casamento"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-08-15 17:30:00"
+  }
+]

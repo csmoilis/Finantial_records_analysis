@@ -1,0 +1,651 @@
+[
+  {
+    "company_name": "Applied Materials, Inc.",
+    "symbol": "AMAT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "high end of guidance",
+      "eps_change": "exceeded guided range",
+      "outlook_summary": "Optimistic for 2025 with expected growth in semiconductor end market, leading edge investment cycle, and improving memory markets. Expects leading-edge foundry-logic to be stronger year-over-year, ICAPS demand slightly lower than 2023, and NAND revenues up year-on-year."
+    },
+    "executives": [
+      {
+        "name": "Gary Dickerson",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brice Hill",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Sullivan",
+        "role": "Corporate Vice President",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "IoT",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Electric Vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Renewable Energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Next-generation transistors",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Backside power delivery",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "High-performance DRAM",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "High Bandwidth Memory",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+ significant",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "ICAPS",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Gate-all-around",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Krish Sankar"
+      },
+      {
+        "technology_name": "Advanced packaging",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brice Hill"
+      },
+      {
+        "technology_name": "Sculpta",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "CJ Muse"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-02-15 16:30:00"
+  },
+  {
+    "company_name": "Applied Materials, Inc.",
+    "symbol": "AMAT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "strong performance",
+      "outlook_summary": "Expects continued strong performance in 2024 and to benefit from secular growth trends, with data center trends driving solid growth for the semiconductor industry. Q3 guidance indicates continued strength in ICAPS business."
+    },
+    "executives": [
+      {
+        "name": "Gary Dickerson",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Sullivan",
+        "role": "Corporate Vice President",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brice Hill",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Prabu Raja",
+        "role": "President of Applied's Semiconductor Products Group",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "IoT",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brice Hill"
+      },
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Electric Vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brice Hill"
+      },
+      {
+        "technology_name": "Autonomous Vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Clean Energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Leading-edge logic",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Compute memory",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "High-performance DRAM",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "DRAM stacking technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "High-bandwidth memory",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Advanced packaging",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Edge computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brice Hill"
+      },
+      {
+        "technology_name": "Power chips",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brice Hill"
+      },
+      {
+        "technology_name": "Gate-all-around",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "2.5B USD",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Backside power",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brice Hill"
+      },
+      {
+        "technology_name": "Services",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Gary Dickerson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-05-16 16:30:00"
+  },
+  {
+    "company_name": "Applied Materials, Inc.",
+    "symbol": "AMAT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+3%",
+      "eps_change": "+3%",
+      "rd_investment_change": "Elevated CapEx for EPIC center",
+      "outlook_summary": "Expects Q4 company revenue of $6.93B (+/- $400M) and non-GAAP EPS of $2.18 (+/- $0.18), both up 3% year-over-year at the midpoint. Expects Semi Systems revenue of $5.1B (+4% YoY), AGS revenue of $1.61B (+9% YoY), and Display revenue of $200M. Non-GAAP gross margin approx. 47.4%, non-GAAP operating expenses around $1.275B. Tax rate 12.5%."
+    },
+    "executives": [
+      {
+        "name": "Michael Sullivan",
+        "role": "Corporate Vice President",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Gary Dickerson",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brice Hill",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Liz Morali",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AGS",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "ongoing investment",
+        "revenue_impact": "+9% year-over-year",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "OLED",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "significant increase in capital investments",
+        "revenue_impact": "significant increase",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Deposition",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "E-Beam Metrology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "IoT",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Robotics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Electric Vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Autonomous Vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Clean Energy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Materials Engineering",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "EPIC platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "4 billion USD",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brice Hill"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-08-15 16:30:00"
+  },
+  {
+    "company_name": "Applied Materials, Inc.",
+    "symbol": "AMAT",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "7%",
+      "eps_change": "7%",
+      "rd_investment_change": "Unclear",
+      "outlook_summary": "Expects Q1 revenue of $7.15 billion +/- $400 million and non-GAAP EPS of $2.29 +/- $0.18, representing an approximate 7% year-over-year increase. Semiconductor Systems revenue projected at $5.3 billion (up 8% YoY), AGS at $1.65 billion (up 12% YoY), and Display at $175 million. Non-GAAP gross margin expected around 48.4%."
+    },
+    "executives": [
+      {
+        "name": "Liz Morali",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Gary Dickerson",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brice Hill",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Internet of Things",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Display",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "175 million USD",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "High-Bandwidth Memory",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "+20%",
+        "mentioned_by": "Srini Pajjuri"
+      },
+      {
+        "technology_name": "Molybdenum Transitions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Unclear",
+        "mentioned_by": "Srini Pajjuri"
+      },
+      {
+        "technology_name": "Gate-All-Around Nodes",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Energy-Efficient Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Materials Science",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Unclear",
+        "mentioned_by": "Gary Dickerson"
+      },
+      {
+        "technology_name": "Materials Engineering",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "Unclear",
+        "revenue_impact": "Unclear",
+        "mentioned_by": "Gary Dickerson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-11-14 16:30:00"
+  }
+]

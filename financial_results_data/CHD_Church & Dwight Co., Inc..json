@@ -1,0 +1,190 @@
+[
+  {
+    "company_name": "Church & Dwight Co., Inc.",
+    "symbol": "CHD",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "4.3%",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "expecting 4% to 5% organic growth for the year, with about 2% driven from new product launches."
+    },
+    "executives": [
+      {
+        "name": "Matthew Farrell",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Richard Dierker",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Olivia Tong Cheang",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bonnie Herzog",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Lauren Lieberman",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dara Mohsenian",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andrea Teixeira",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Nick Modi",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Javier Escalante Manzo",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Filippo Falorni",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "HERO",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Richard Dierker"
+      },
+      {
+        "technology_name": "THERABREATH",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Richard Dierker"
+      },
+      {
+        "technology_name": "GRAPHICO",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Matthew Farrell"
+      },
+      {
+        "technology_name": "BATISTE",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Matthew Farrell"
+      },
+      {
+        "technology_name": "WATERPIK",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "+7% to +8%",
+        "mentioned_by": "Dara Mohsenian"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 16:00:00"
+  },
+  {
+    "company_name": "Church & Dwight Co., Inc.",
+    "symbol": "CHD",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "4.5%",
+      "eps_change": "up 1.1%",
+      "rd_investment_change": "up 13.4 million",
+      "outlook_summary": "Tightening organic revenue outlook to 4% and expects full year adjusted EPS growth at the low end of 8% to 9% range. Expects gross margin expansion of 100 to 110 basis points. Full year SG&A expected to increase due to higher spend for Graphico."
+    },
+    "executives": [
+      {
+        "name": "Matt Farrell",
+        "role": "Chairman, President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steve Powers",
+        "role": "Unclear",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rick Dierker",
+        "role": "Unclear",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Graphico",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "incremental investments",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Rick Dierker"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-02 11:58:00"
+  },
+  {
+    "company_name": "Church & Dwight Co., Inc.",
+    "symbol": "CHD",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "4%",
+      "eps_change": "8%",
+      "rd_investment_change": "CapEx to return to historical levels of 2% of sales in 2025",
+      "outlook_summary": "Cautious regarding the U.S. consumer and category growth rates for the remainder of the year, but expects organic revenue to be approximately 4% and reported sales growth to be approximately 3.5%. Full year adjusted EPS is expected to be approximately 8%."
+    },
+    "executives": [
+      {
+        "name": "Matt Farrell",
+        "role": "Chairman, President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rick Dierker",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-01 10:00:00"
+  }
+]

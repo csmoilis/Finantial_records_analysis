@@ -1,0 +1,452 @@
+[
+  {
+    "company_name": "Charter Communications, Inc.",
+    "symbol": "CHTR",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "EBITDA growth is expected to be more pressured in Q2 due to comparisons with last year and potential bad debt pressure. However, the company remains confident in achieving full-year EBITDA growth, aided by expense management. Buybacks are expected to be maintained over the year, even while deleveraging.",
+      "eps_change": "unclear",
+      "revenue_growth": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Jessica Fischer",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Christopher Winfrey",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Stefan Anninger",
+        "role": "VP, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Hodulik",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Benjamin Swinburne",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael Rollins",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Steven Cahall",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Vijay Jayant",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jonathan Chaplin",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Craig Moffett",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Mobile Service",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Christopher Winfrey"
+      },
+      {
+        "technology_name": "Fiber Upgrades",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher Winfrey"
+      },
+      {
+        "technology_name": " ACP",
+        "technology_sentiment": "negative",
+        "investment_action": "maintaining",
+        "investment_horizon": "short-term",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "negative",
+        "mentioned_by": "Christopher Winfrey"
+      },
+      {
+        "technology_name": "EIP notes",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jessica Fischer"
+      },
+      {
+        "technology_name": "Anytime Upgrade",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jessica Fischer"
+      },
+      {
+        "technology_name": "Spectrum Mobile",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Christopher Winfrey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-26 08:30:00"
+  },
+  {
+    "company_name": "Charter Communications, Inc.",
+    "symbol": "CHTR",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Programming costs per video customer expected to be flattish year-over-year. Costs to serve expected to decline by 1% to 2%. Sales to marketing expected at the low end of 2% to 3% growth, possibly below.",
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Chris Winfrey",
+        "role": "President and CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jessica Fischer",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Stefan Anninger",
+        "role": "N/A",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Broadband",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Winfrey"
+      },
+      {
+        "technology_name": "Mobile",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "negative",
+        "mentioned_by": "Chris Winfrey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-26 08:30:00"
+  },
+  {
+    "company_name": "Charter Communications, Inc.",
+    "symbol": "CHTR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects total capital expenditures to reach approximately $11.5 billion in 2024, down from previous estimates. Anticipates a meaningful downward trajectory in total capital spending after 2025. Free cash flow in Q3 was $1.6 billion, an increase of $520 million year-over-year.",
+      "eps_change": "unclear",
+      "revenue_growth": "unclear",
+      "rd_investment_change": "The network evolution initiative's spend has been pushed back, with an estimated 2024 spend of approximately $1.1 billion, down from $1.6 billion previously. Much of the originally planned 2024 spend is being pushed into 2026 and 2027. Total BEAD spend will be substantially less than RDOF spend."
+    },
+    "executives": [
+      {
+        "name": "Chris",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kutgun Maral",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Video",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris"
+      },
+      {
+        "technology_name": "Broadband",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Chris"
+      },
+      {
+        "technology_name": "Mobile",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Chris"
+      },
+      {
+        "technology_name": "Network Evolution",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "Approx. $1.1 billion in 2024 (revised down from $1.6 billion), project completion expected in 2027.",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris"
+      },
+      {
+        "technology_name": "Symmetrical Internet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris"
+      },
+      {
+        "technology_name": "DAA",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris"
+      },
+      {
+        "technology_name": "Remote PHY",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris"
+      },
+      {
+        "technology_name": "Streaming Apps",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris"
+      },
+      {
+        "technology_name": "BEAD",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "Substantially less than RDOF spend.",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris"
+      },
+      {
+        "technology_name": "RDOF",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris"
+      },
+      {
+        "technology_name": "ARPA",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-01 08:30:00"
+  },
+  {
+    "company_name": "Charter Communications, Inc.",
+    "symbol": "CHTR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects EBITDA growth for the year. 2025 will have a slightly higher level of investment than 2024, but this year will also be their peak capital investment. Poised for strong free cash flow growth and shareholder returns as capital spending peaks.",
+      "rd_investment_change": "2025 will have a slightly higher level of investment than 2024, but this year will also be their peak capital investment."
+    },
+    "executives": [
+      {
+        "name": "Chris Winfrey",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jessica Fischer",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Stefan Anninger",
+        "role": "N/A",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Spectrum Life Unlimited",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "creating more attach opportunities",
+        "mentioned_by": "Sebastiano Petti"
+      },
+      {
+        "technology_name": "Broadband expansion",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "significant one-time capital investment",
+        "revenue_impact": "enhance growth potential",
+        "mentioned_by": "Chris Winfrey"
+      },
+      {
+        "technology_name": "Network upgrade",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "significant one-time capital investment",
+        "revenue_impact": "enhance growth potential",
+        "mentioned_by": "Chris Winfrey"
+      },
+      {
+        "technology_name": "Convergence",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "significant one-time capital investment",
+        "revenue_impact": "enhance growth potential",
+        "mentioned_by": "Chris Winfrey"
+      },
+      {
+        "technology_name": "Video transformation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "significant one-time capital investment",
+        "revenue_impact": "drive connectivity business",
+        "mentioned_by": "Chris Winfrey"
+      },
+      {
+        "technology_name": "WiFi",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Winfrey"
+      },
+      {
+        "technology_name": "Mobile",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Winfrey"
+      },
+      {
+        "technology_name": "Fiber",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Winfrey"
+      },
+      {
+        "technology_name": "Edge compute",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Winfrey"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chris Winfrey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-31 02:30:00"
+  }
+]

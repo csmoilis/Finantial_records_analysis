@@ -1,0 +1,326 @@
+[
+  {
+    "company_name": "Chipotle Mexican Grill, Inc.",
+    "symbol": "CMG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "14.1%",
+      "eps_change": "27%",
+      "outlook_summary": "The future looks very bright for Chipotle, with strong sales trends driven by throughput improvements and marketing campaigns. The company is protecting and strengthening its economic model.",
+      "restaurant_level_margin": "27.5%"
+    },
+    "executives": [
+      {
+        "name": "Cynthia Olsen",
+        "role": "Unknown",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian Niccol",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Hartung",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Throughput",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Brian Niccol"
+      },
+      {
+        "technology_name": "Rewards Program",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "higher spend and more frequency",
+        "mentioned_by": "Brian Niccol"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-24 16:30:00"
+  },
+  {
+    "company_name": "Chipotle Mexican Grill, Inc.",
+    "symbol": "CMG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": null,
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "expects to finish the year strong"
+    },
+    "executives": [
+      {
+        "name": "Cindy Olsen",
+        "role": "Head of Investor Relations and Strategy",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian Niccol",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jack Hartung",
+        "role": "Chief Financial and Administrative Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jamie McConnell",
+        "role": "Chief Accounting Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sharon Zackfia",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris O'Cull",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Ivankoe",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Niccol"
+      },
+      {
+        "technology_name": "Automated digital make line",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Ivankoe"
+      },
+      {
+        "technology_name": "Kiosk ordering",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Ivankoe"
+      },
+      {
+        "technology_name": "App ordering",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Ivankoe"
+      },
+      {
+        "technology_name": "Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "amplifying",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Niccol"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-24 16:30:00"
+  },
+  {
+    "company_name": "Chipotle Mexican Grill, Inc.",
+    "symbol": "CMG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+13%",
+      "eps_change": "+17%",
+      "comp_guidance": "mid to high single-digit",
+      "outlook_summary": "Maintaining full year guidance of mid to high single-digit comps with accelerating transaction trends in Q4. Expects Q4 comp in the mid-5% range.",
+      "g_and_a_q4_estimate": "$163 million",
+      "depreciation_q3": "$84 million",
+      "depreciation_q4_estimate": "slightly step up",
+      "tax_rate_q3_GAAP": "22.9%",
+      "tax_rate_q3_non_GAAP": "23.8%",
+      "tax_rate_FY24_estimate": "24% to 26%",
+      "cash_investments_end_q3": "$2.3 billion",
+      "debt_level": "no debt",
+      "share_repurchases_q3": "$488 million",
+      "additional_share_repurchase_authorization": "$900 million",
+      "remaining_share_repurchase_authorization": "$1.1 billion",
+      "restaurant_level_margin": "25.5%",
+      "digital_sales_percentage": "34%"
+    },
+    "executives": [
+      {
+        "name": "Cindy Olsen",
+        "role": "Head of Investor Relations and Strategy",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Scott Boatwright",
+        "role": "Interim Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jack Hartung",
+        "role": "President and Chief Strategy Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Adam Rymer",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Lauren Silberman",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris O’Cull",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian Harbour",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Ivankoe",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Chipotlanes",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Scott Boatwright"
+      },
+      {
+        "technology_name": "Dual-sided Plancha",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Scott Boatwright"
+      },
+      {
+        "technology_name": "Produce Slicer",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Scott Boatwright"
+      },
+      {
+        "technology_name": "Dual Backfire",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Scott Boatwright"
+      },
+      {
+        "technology_name": "Avocado Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Scott Boatwright"
+      },
+      {
+        "technology_name": "Hyphen Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Scott Boatwright"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-29 16:30:00"
+  },
+  {
+    "company_name": "Chipotle Mexican Grill, Inc.",
+    "symbol": "CMG",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "Not explicitly stated, but implied to be growing based on SARs and comp outlook.",
+      "eps_change": "Not explicitly stated.",
+      "rd_investment_change": "Not explicitly stated.",
+      "outlook_summary": "Confident in growing the business in the 8% to 10% range for store growth. Guiding for low to mid single-digit marketing spend as a percentage of sales. Cautious on additional pricing due to consumer price sensitivity and competitive pressure on value. Underlying traffic positive in January, but overall comp is down due to lapping strong prior year."
+    },
+    "executives": [
+      {
+        "name": "Cindy Olsen",
+        "role": "Head of Investor Relations and Strategy",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Scott Boatwright",
+        "role": "Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Adam Rymer",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-04 16:30:00"
+  }
+]

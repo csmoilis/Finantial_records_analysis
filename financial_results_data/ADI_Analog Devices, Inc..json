@@ -1,0 +1,505 @@
+[
+  {
+    "company_name": "Analog Devices, Inc.",
+    "symbol": "ADI",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue": "$2.5 billion",
+      "eps": "$1.73",
+      "operating_margin": "42%",
+      "outlook_summary": "Expects revenue of $2.1 billion +/- $100 million for Q2, with all end markets declining sequentially. Operating margin expected at 37% +/- 100 basis points. EPS expected to be $1.26 +/- $0.10. Expects inventory headwinds to subside by end of Q2, with a return to growth in the second half of FY24.",
+      "dividend_increase": "7%"
+    },
+    "executives": [
+      {
+        "name": "Michael Lucarelli",
+        "role": "Vice President of Investor Relations and FP&A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Vincent Roche",
+        "role": "CEO and Chair",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Richard Puccio",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jim Mollica",
+        "role": "Interim CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Intelligent Edge",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Edge computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Pervasive sensing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Connectivity",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-02-21 10:00:00"
+  },
+  {
+    "company_name": "Analog Devices, Inc.",
+    "symbol": "ADI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue": "$2.16 billion",
+      "eps_change": "above the high-end of our outlook",
+      "outlook_summary": "expects revenue to be $2.27 billion plus or minus $100 million, up 5% sequentially at the midpoint. Expects operating margin to be 40% plus or minus 100 basis points. Adjusted EPS is expected to be $1.50 plus or minus $0.10.",
+      "rd_investment_change": "fiscal '24 CapEx to be roughly $700 million, which is a reduction of approximately 45% versus 2023"
+    },
+    "executives": [
+      {
+        "name": "Vincent Roche",
+        "role": "CEO and Chair",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Richard Puccio",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Lucarelli",
+        "role": "Vice President of Investor Relations and FP&A",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Surgical robotics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Continuous glucose monitoring",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Industrial Ethernet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "several hundreds of millions of dollars",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Automotive signal processing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "increasing content per vehicle",
+        "mentioned_by": "Vincent Roche"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-05-22 10:00:00"
+  },
+  {
+    "company_name": "Analog Devices, Inc.",
+    "symbol": "ADI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "up 4% sequentially at the midpoint",
+      "eps_change": "1.63 plus or minus 0.10",
+      "rd_investment_change": "down roughly 45% versus 2023",
+      "outlook_summary": "Revenue expected to be $2.4 billion plus or minus $100 million, up 4% sequentially at the midpoint. Operating margin expected to be 41% plus or minus 100 basis points. EPS expected to be $1.63 plus or minus $0.10. Company believes it has passed the cycle's trough, but challenging economic and geopolitical conditions are limiting a faster demand recovery."
+    },
+    "executives": [
+      {
+        "name": "Michael Lucarelli",
+        "role": "Vice President of Investor Relations and FP&A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Vincent Roche",
+        "role": "CEO and Chair",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Richard Puccio",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Analog Portfolio",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Digital Software",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Algorithmic Capabilities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Instrumentation and Test",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Automated Test Equipment",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "reducing energy consumption by up to 30% per system",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-08-21 10:00:00"
+  },
+  {
+    "company_name": "Analog Devices, Inc.",
+    "symbol": "ADI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "up double digits",
+      "outlook_summary": "Revenue, operating margin, and EPS finished above the midpoint of outlook. Expects FY25 growth to be double digits."
+    },
+    "executives": [
+      {
+        "name": "Michael Lucarelli",
+        "role": "Vice President of Investor Relations and FP&A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Vincent Roche",
+        "role": "CEO and Chair",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rich Blue Shield",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris Danley",
+        "role": "unclear",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "CodeFusion Studio",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Trusted Edge Security",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "GMSL",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Healthcare",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Data Center Power",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Maxim revenue synergies",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+1B USD by 2027",
+        "mentioned_by": "Vincent Roche"
+      },
+      {
+        "technology_name": "Ethernet to the Edge",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "Software-defined vehicle",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "Wireline communication",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "AI systems",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "Next-gen power solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "Hot swap solution",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "AI-based servers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "Consumer electronics",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "Wearables",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "VSM platform",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "Biomarkers",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "Wearable acoustic systems",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "Noise cancellation",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "Hearing augmentation",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Lucarelli"
+      },
+      {
+        "technology_name": "48-volt PMEC",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "medium-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "William Stein"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-11-26 10:00:00"
+  }
+]

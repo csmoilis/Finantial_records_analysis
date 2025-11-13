@@ -1,0 +1,332 @@
+[
+  {
+    "company_name": "Alexandria Real Estate Equities, Inc.",
+    "symbol": "ARE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Recovery trajectory expected from 2024 into 2025, with 2024 being the bottom year. Significant NOI expected from the current pipeline through 2027. Same property NOI growth outlook unchanged.",
+      "revenue_growth": "19% (cash rental rate increase)",
+      "eps_change": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Joel Marcus",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Hallie Kuhn",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Peter Moglia",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Vikram Malhotra",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rich Anderson",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Omotayo Okusanya",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Life Science Innovation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joel Marcus"
+      },
+      {
+        "technology_name": "Biotechnology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Hallie Kuhn"
+      },
+      {
+        "technology_name": "Pharmaceuticals",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Hallie Kuhn"
+      },
+      {
+        "technology_name": "Medical Devices",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Hallie Kuhn"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-23 15:00:00"
+  },
+  {
+    "company_name": "Alexandria Real Estate Equities, Inc.",
+    "symbol": "ARE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "The company is positioned to come out of the sector bear market and enable life science industry and tenant growth, similar to how they led the historical bull market from 2014-2021 with record breaking earnings growth. The development and re-development pipeline is expected to deliver significant incremental NOI of approximately $480 million in the near-to-medium term. Rents are still above pre-pandemic levels despite coming off peaks of 2021-2022.",
+      "revenue_growth": null,
+      "eps_change": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Joel S. Marcus",
+        "role": "Executive Chairman and Founder",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Hallie Kuhn",
+        "role": "SVP of Life Science and Capital Markets",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Peter M. Moglia",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Paula Schwartz",
+        "role": "Moderator",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Omotayo Okusanya",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Labspace",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joel S. Marcus"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Hallie Kuhn"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Hallie Kuhn"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-23 15:00:00"
+  },
+  {
+    "company_name": "Alexandria Real Estate Equities, Inc.",
+    "symbol": "ARE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "disposition_guidance_midpoint": "achieved",
+      "cash_flows_from_operations_after_dividends_2024": "450 million USD",
+      "common_stock_dividends_increase_since_2020": "5.4% annually",
+      "ffo_payout_ratio_3q24": "55%",
+      "realized_gains_venture_investments_quarterly_avg": "25 million USD",
+      "realized_gains_venture_investments_9_months_2024": "85.2 million USD",
+      "full_year_guidance_realized_gains": "95-125 million USD",
+      "updated_2024_eps_guidance": "2.60-2.64 USD",
+      "ffo_per_share_diluted_as_adjusted_midpoint_2024": "9.47 USD",
+      "ffo_per_share_growth_2024": "5.6%",
+      "rental_revenue_from_mega_campuses": "76%",
+      "embedded_noi_growth": "510 million USD",
+      "occupancy": "high",
+      "collections": "nearly 100%",
+      "leasing_activity_3q24": "1.5 million rentable square feet",
+      "leasing_activity_increase_qoq": "48%",
+      "outlook_summary": "Maintains FFO per share guidance, expects strong FFO per share growth for 2024, and is focused on monetizing pipeline through dispositions to fund construction and pay down debt."
+    },
+    "executives": [
+      {
+        "name": "Joel Marcus",
+        "role": "Executive Chairman and Founder",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marc Binda",
+        "role": "CFO (implied)",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Hallie",
+        "role": "Unspecified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Peter",
+        "role": "Unspecified",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Paula Schwartz",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Georgi Dinkov",
+        "role": "Analyst (Mizuho)",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Georgi Dinkov"
+      },
+      {
+        "technology_name": "Life Science Industry",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joel Marcus"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-22 15:00:00"
+  },
+  {
+    "company_name": "Alexandria Real Estate Equities, Inc.",
+    "symbol": "ARE",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "5.6%",
+      "eps_change": "flat",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Reaffirmed guidance for 2025 with no changes to midpoints of EPS and FFO per share diluted as adjusted. Expects FFO per share midpoint to be flat relative to 2024. Realized gains from venture investments for 2025 are consistent with the run rate for 2024."
+    },
+    "executives": [
+      {
+        "name": "Joel Marcus",
+        "role": "Executive Chairman and Founder",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Paula Schwartz",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sara Brenner",
+        "role": "career FDA official",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Peter Moglia",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Hallie Kuhn",
+        "role": "unclear",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael Griffin",
+        "role": "unclear",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rich Anderson",
+        "role": "unclear",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Marc Binda",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Life Science M&A",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joel Marcus"
+      },
+      {
+        "technology_name": "Biotech",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Joel Marcus"
+      },
+      {
+        "technology_name": "Venture financing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "over 120 financings exceeding $100 million in 2024",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joel Marcus"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-28 15:00:00"
+  }
+]

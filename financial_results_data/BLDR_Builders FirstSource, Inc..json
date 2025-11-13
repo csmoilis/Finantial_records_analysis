@@ -1,0 +1,246 @@
+[
+  {
+    "company_name": "Builders FirstSource, Inc.",
+    "symbol": "BLDR",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Reiterated full year guidance despite a weaker multifamily market and higher mortgage rates impacting affordability. Q2 guide is lower than expected, but the company is confident in the full-year forecast, expecting strong growth in the latter half driven by early building process components."
+    },
+    "executives": [
+      {
+        "name": "Heather Kos",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Rush",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Peter Jackson",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "digital platform",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Rush"
+      },
+      {
+        "technology_name": "digital tools",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Rush"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-07 09:00:00"
+  },
+  {
+    "company_name": "Builders FirstSource, Inc.",
+    "symbol": "BLDR",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-1.6%",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects Q3 net sales between $4.3 billion and $4.6 billion. Adjusted EBITDA between $575 million and $625 million. Base business guide for 2024: net sales approx $16.8 billion, adjusted EBITDA approx $2.3 billion at 13.7% margin."
+    },
+    "executives": [
+      {
+        "name": "Heather Kos",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dave Rush",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Peter Jackson",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Manthey",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Reuben Garner",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Rush"
+      },
+      {
+        "technology_name": "Installed Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "+15%",
+        "mentioned_by": "Dave Rush"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-06 09:00:00"
+  },
+  {
+    "company_name": "Builders FirstSource, Inc.",
+    "symbol": "BLDR",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Expects continued margin normalization in multifamily and core business due to competitive environment and seasonality. Confident in long-term incremental sales targets for digital platform. Positioning inventories anticipating recovery in commodity prices."
+    },
+    "executives": [
+      {
+        "name": "Heather Kos",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dave Rush",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Peter Jackson",
+        "role": "CEO designate and CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Pete Beckmann",
+        "role": "CFO designate",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "digital strategy",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+110 million in 2024 (revised from 200 million initial goal)",
+        "mentioned_by": "Peter Jackson"
+      },
+      {
+        "technology_name": "BFS digital tools",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "$600 million orders placed, $83 million incremental sales to date",
+        "mentioned_by": "Peter Jackson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-05 10:08:00"
+  },
+  {
+    "company_name": "Builders FirstSource, Inc.",
+    "symbol": "BLDR",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-8%",
+      "outlook_summary": "Expecting a very low single-digit decline in core organic revenues for 2025, backing out M&A. Anticipates potential moderation in working capital swing based on sales velocity."
+    },
+    "executives": [
+      {
+        "name": "Heather Kos",
+        "role": "Senior Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Peter Jackson",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Pete Beckmann",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Mulaloe",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Charles Perron-Piche",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Philip Ng",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Trey Grooms",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Matthew Bouley",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "digital tools",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peter Jackson"
+      },
+      {
+        "technology_name": "install services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Peter Jackson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-20 09:00:00"
+  }
+]

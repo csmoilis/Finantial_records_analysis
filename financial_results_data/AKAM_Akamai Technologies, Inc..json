@@ -1,0 +1,396 @@
+[
+  {
+    "company_name": "Akamai Technologies, Inc.",
+    "symbol": "AKAM",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Full year guidance reduced due to FX headwinds ($40M top-line, $0.12 EPS, 30 bps operating margin) and a large social media customer reducing traffic ($40-60M less revenue). Lower traffic in delivery business (gaming, video) also impacts revenue ($20-30M). Olympics expected to contribute $3-4M revenue. Election traffic not anticipated to be significant. Q1 free cash flow stronger than usual, but 2024 should play out historically. Transition from cash-based to stock-based bonus program impacted Q1 cash flow. Security business showed great sequential growth, especially API security.",
+      "revenue_impact_fx": "-$40 million",
+      "eps_change_fx": "-$0.12",
+      "operating_margin_impact_fx": "-30 basis points",
+      "delivery_revenue_impact": "-$20 million to -$30 million",
+      "delivery_revenue_impact_customer_reduction": "-$40 million to -$60 million"
+    },
+    "executives": [
+      {
+        "name": "Ed McGowan",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Tom Leighton",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mark Stoutenberg",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "API Security",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "accelerating",
+        "mentioned_by": "Ed McGowan"
+      },
+      {
+        "technology_name": "Zero Trust",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jonathan Ho"
+      },
+      {
+        "technology_name": "SASE",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jonathan Ho"
+      },
+      {
+        "technology_name": "Compute",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "up 10%",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Guardicore",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "becoming more material",
+        "mentioned_by": "Ed McGowan"
+      },
+      {
+        "technology_name": "Delivery",
+        "technology_sentiment": "negative",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "-$20 million to -$30 million",
+        "mentioned_by": "Ed McGowan"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-09 16:30:00"
+  },
+  {
+    "company_name": "Akamai Technologies, Inc.",
+    "symbol": "AKAM",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Positive outlook for Q3 and full year, with strong growth potential driven by compute offerings."
+    },
+    "executives": [
+      {
+        "name": "Tom Leighton",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ed McGowan",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mark Stoutenberg",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Security",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Compute",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Akamai connected cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+100M ARR projected by year-end",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Media workflow",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Observability",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Distributed compute",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Storage",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Delivery",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "negative headwinds",
+        "mentioned_by": "Tom Leighton"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-08 16:30:00"
+  },
+  {
+    "company_name": "Akamai Technologies, Inc.",
+    "symbol": "AKAM",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "declining (for Delivery)",
+      "outlook_summary": "maintaining near term operating margin target of about 30% and expects to climb above 30% as fast growing areas expand profitability. Full year CapEx expected to be approximately 17% of total revenue.",
+      "eps_change": null,
+      "rd_investment_change": "Redeploying resources to fast growing areas."
+    },
+    "executives": [
+      {
+        "name": "Mark Stoutenberg",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Tom Leighton",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ed McGowan",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cloud WAF",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "API Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ed McGowan"
+      },
+      {
+        "technology_name": "Compute Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "significant investment in data centers",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "CDN",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "declining",
+        "mentioned_by": "Ed McGowan"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Frank Louthan"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-07 16:30:00"
+  },
+  {
+    "company_name": "Akamai Technologies, Inc.",
+    "symbol": "AKAM",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "double-digit",
+      "eps_change": "growing in 2026",
+      "rd_investment_change": "approximately 19% of total revenue for CapEx in 2025",
+      "outlook_summary": "Anticipates revenue acceleration and margin expansion compared to 2025 levels. Expects operating margins to reach 30% plus by the end of the decade. Expects to resume growing non-GAAP EPS in 2026."
+    },
+    "executives": [
+      {
+        "name": "Tom Leighton",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ed McGowan",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mark Stoutenberg",
+        "role": "Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Security products",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "included in overall security growth target",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Compute services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "near to medium term",
+        "profit_outlook": "high potential",
+        "rd_investment": "approximately 6% of total revenue for CapEx in 2025",
+        "revenue_impact": "rapid expansion, compounded annual growth rate of approximately 20%",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Delivery business",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "next few years",
+        "profit_outlook": "unclear",
+        "rd_investment": "approximately 4% of total revenue for CapEx in 2025",
+        "revenue_impact": "stabilizing",
+        "mentioned_by": "Tom Leighton"
+      },
+      {
+        "technology_name": "Guardicore platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "next three to five years",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "driving security growth",
+        "mentioned_by": "Ed McGowan"
+      },
+      {
+        "technology_name": "API security",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "next three to five years",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "driving security growth",
+        "mentioned_by": "Ed McGowan"
+      },
+      {
+        "technology_name": "Web Application Firewall",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "slowing growth",
+        "mentioned_by": "Ed McGowan"
+      },
+      {
+        "technology_name": "Prolexic",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "slowing growth",
+        "mentioned_by": "Ed McGowan"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-20 16:30:00"
+  }
+]

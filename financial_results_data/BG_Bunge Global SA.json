@@ -1,0 +1,321 @@
+[
+  {
+    "company_name": "Bunge Global SA",
+    "symbol": "BG",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Expects full year to be approximately 9, with halves being 50-50. Q1 was stronger than anticipated, leading to a softer Q2. Merchandising is off to a sequentially good start compared to Q3/Q4 last year, with the first half expected to be modest but a good start. Seeing some uptake on meal demand and expecting palm oil tightness to support oil prices.",
+      "rd_investment_change": "The company has slowed down its Destrehan project due to increased construction costs during a period of inflation, but is now moving forward after costs stabilized.",
+      "revenue_growth": "null",
+      "eps_change": "null"
+    },
+    "executives": [
+      {
+        "name": "Gregory Heckman",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Neppl",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Renewable Diesel",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Strelzik"
+      },
+      {
+        "technology_name": "Crush Capacity",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gregory Heckman"
+      },
+      {
+        "technology_name": "Specialty Oils Plant",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Neppl"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Gregory Heckman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-24 08:00:00"
+  },
+  {
+    "company_name": "Bunge Global SA",
+    "symbol": "BG",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects full year 2024 adjusted EPS of approximately $9.25, excluding pending transactions. Agribusiness full year results forecasted to be in line with previous outlook. Refined and specialty oils full year results expected to be up from previous outlook due to a better-than-expected second quarter. Milling full year results expected to be similar to previous outlook and up from last year. Non-core sugar and bioenergy joint venture results expected to be down slightly from previous outlook and down significantly last year. Expects 2024 adjusted annual effective tax rate of 22% to 25%, net interest expense in the range of $280 million to $310 million, capital expenditures in the range of $1.2 billion to $1.4 billion, and depreciation and amortization of approximately $450 million.",
+      "eps_change": "approximately $9.25 (full year 2024 adjusted)",
+      "rd_investment_change": "Capital expenditures projected to be $1.9 billion to $2 billion in 2025, an increase from $1.4 billion in 2024. CapEx could drop up to 50% in 2026 versus 2025, excluding Viterra."
+    },
+    "executives": [
+      {
+        "name": "Ruth Ann Wisener",
+        "role": "N/A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Greg Heckman",
+        "role": "Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Neppl",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Tom Palmer",
+        "role": "N/A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Manav Gupta",
+        "role": "N/A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andrew Strelzik",
+        "role": "N/A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Carla Casella",
+        "role": "N/A",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Blockchain",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Heckman"
+      },
+      {
+        "technology_name": "Digitalization",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Heckman"
+      },
+      {
+        "technology_name": "Lower-carbon solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "pilot season completed, planning to increase acreage to 35,000 for next crop year",
+        "revenue_impact": "additional revenue sources for farmers",
+        "mentioned_by": "Greg Heckman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-31 08:00:00"
+  },
+  {
+    "company_name": "Bunge Global SA",
+    "symbol": "BG",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Expects full year 2024 adjusted EPS to be at least $9.25. Agribusiness and Refined and specialty oils full year results are forecasted to be up from previous outlook but down compared to last year. Milling full year results are expected to be down from previous outlook but up from last year. Non-core full year results are expected to be down considerably from previous outlook. Adjusted annual effective tax rate in the range of 22% to 24%. Net interest expense in the range of $285 million to $305 million. Capital expenditures in the upper end of the range of $1.2 billion to $1.4 billion. Depreciation and amortization of approximately $450 million.",
+      "eps_change": "adjusted EPS was $2.29 in Q3 versus $2.99 in prior year; Full year 2024 adjusted EPS to be at least $9.25",
+      "rd_investment_change": "capital expenditures in the upper end of the range of $1.2 billion to $1.4 billion"
+    },
+    "executives": [
+      {
+        "name": "Ruth Ann Wisener",
+        "role": "N/A",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Greg Heckman",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Neppl",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "EUDR",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Neppl"
+      },
+      {
+        "technology_name": "sugar JV",
+        "technology_sentiment": "negative",
+        "investment_action": "divesting",
+        "investment_horizon": "unclear",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "loss of income",
+        "mentioned_by": "John Neppl"
+      },
+      {
+        "technology_name": "soy",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Heckman"
+      },
+      {
+        "technology_name": "soft seed",
+        "technology_sentiment": "negative",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Heckman"
+      },
+      {
+        "technology_name": "canola",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Heckman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-30 08:00:00"
+  },
+  {
+    "company_name": "Bunge Global SA",
+    "symbol": "BG",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "reported_eps_q4_2024": "$4.36",
+      "reported_eps_q4_2023": "$4.18",
+      "adjusted_eps_q4_2024": "$2.13",
+      "adjusted_eps_q4_2023": "$3.70",
+      "adjusted_core_segment_ebit_q4_2024": "$548 million",
+      "adjusted_core_segment_ebit_q4_2023": "$881 million",
+      "net_interest_expense_q4_2024": "$62 million",
+      "outlook_summary": "Second half of 2025 outlook to be provided post-Viterra close. Expects improvement in South America. Global biofuels demand and investments continue to move forward."
+    },
+    "executives": [
+      {
+        "name": "Greg Heckman",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Neppl",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ruth Ann Wisener",
+        "role": "Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Renewable Fuels",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Heckman"
+      },
+      {
+        "technology_name": "Decarbonization of Agriculture",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Heckman"
+      },
+      {
+        "technology_name": "Soy Protein Concentrate",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Heckman"
+      },
+      {
+        "technology_name": "Biodiesel",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Heckman"
+      },
+      {
+        "technology_name": "Sustainable Aviation Fuel",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Greg Heckman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-05 08:00:00"
+  }
+]

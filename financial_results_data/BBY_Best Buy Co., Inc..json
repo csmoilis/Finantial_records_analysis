@@ -1,0 +1,357 @@
+[
+  {
+    "company_name": "Best Buy Co., Inc.",
+    "symbol": "BBY",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-10.1%",
+      "eps_change": "-27%",
+      "rd_investment_change": "null",
+      "outlook_summary": "maintaining full year guidance, with sales aligning closer to the midpoint of the annual comparable sales guidance, and expecting comparable sales trends to improve as the year progresses."
+    },
+    "executives": [
+      {
+        "name": "Mollie O'Brien",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Corie Barry",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Matt Bilunas",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Augmented reality",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Broadband access",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Wellness technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Personal electric transportation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Outdoor living",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Electric car charging",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Satellite Internet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "TV advertising",
+        "technology_sentiment": "positive",
+        "investment_action": "partnering",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Roku TVs",
+        "technology_sentiment": "positive",
+        "investment_action": "partnering",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "null",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2023-05-25 08:00:00"
+  },
+  {
+    "company_name": "Best Buy Co., Inc.",
+    "symbol": "BBY",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "down 6.2%",
+      "eps_change": "raised midpoint",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Comparable sales expected to decline between 4.5% to 6%. Profitability ranges narrowed, raising the midpoint of previous annual guidance for non-GAAP operating income rate and EPS. Q4 comparable sales guidance is a wide range from down 3% to slightly positive."
+    },
+    "executives": [
+      {
+        "name": "Corie Barry",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Matt Bilunas",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mollie O'Brien",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Augmented reality",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Broadband access",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2023-08-29 08:00:00"
+  },
+  {
+    "company_name": "Best Buy Co., Inc.",
+    "symbol": "BBY",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-6.9%",
+      "eps_change": "slightly higher",
+      "outlook_summary": "Lowered Q4 revenue outlook due to softer consumer demand, but annual EPS guidance midpoint is slightly higher. Expects sequential improvement in Q4 comparable sales due to better inventory and comparisons."
+    },
+    "executives": [
+      {
+        "name": "Corie Barry",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Matt Bilunas",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mollie O'Brien",
+        "role": "Vice-President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Augmented Reality",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Broadband access",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "Care-at-home",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2023-11-21 08:00:00"
+  },
+  {
+    "company_name": "Best Buy Co., Inc.",
+    "symbol": "BBY",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "sales came in below our original guidance range",
+      "eps_change": "annual profitability at the high end of our original guidance range",
+      "outlook_summary": "sales down in the first half, up in the second half"
+    },
+    "executives": [
+      {
+        "name": "Corie Barry",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matt Bilunas",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "redirect corporate resources",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Corie Barry"
+      },
+      {
+        "technology_name": "membership program",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "seeing more of that revenue growth now come off the installation revenue",
+        "mentioned_by": "Matthew Bilunas"
+      },
+      {
+        "technology_name": "Best Buy Ads",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "continues to grow top line collections and profitability",
+        "mentioned_by": "Corie Barry"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-02-29 08:00:00"
+  }
+]

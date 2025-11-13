@@ -1,0 +1,353 @@
+[
+  {
+    "company_name": "Amphenol Corporation",
+    "symbol": "APH",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+16%",
+      "eps_change": "+16%",
+      "operating_margin": "21%",
+      "outlook_summary": "Positive outlook for Q2 with strong order book and profitability."
+    },
+    "executives": [
+      {
+        "name": "Craig Lampo",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam Norwitt",
+        "role": "CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "William Stein"
+      },
+      {
+        "technology_name": "High-speed interconnect",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Norwitt"
+      },
+      {
+        "technology_name": "IT datacom",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joseph Cardoso"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-24 13:00:00"
+  },
+  {
+    "company_name": "Amphenol Corporation",
+    "symbol": "APH",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "Not explicitly stated as a single percentage, but discussed by segment",
+      "eps_change": "Not explicitly stated",
+      "rd_investment_change": "Not explicitly stated",
+      "outlook_summary": "Expects sales to increase by approximately 20% in Q3 from Q2 levels; Q3 EBIT margins to be impacted by CIT acquisition, but ongoing conversion expected to improve margins long-term.",
+      "total_capital_return_q2": "$320 million",
+      "total_debt_q2": "$5.4 billion",
+      "net_debt_q2": "$4.1 billion",
+      "total_liquidity_q2": "$4.3 billion",
+      "cash_and_investments_q2": "$1.3 billion",
+      "ebitda_q2_excl_acq_costs": "$900 million",
+      "net_leverage_ratio_q2": "1.2 times",
+      "q3_interest_expense_net": "$45 million",
+      "dividend_increase": "50% to $0.165 per share",
+      "operating_margins_q2": "21.3%"
+    },
+    "executives": [
+      {
+        "name": "Craig Lampo",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+57% (IT datacom segment driven by AI)",
+        "mentioned_by": "Asiya Merchant"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+57% (IT datacom segment driven by AI data centers)",
+        "mentioned_by": "Not explicitly stated"
+      },
+      {
+        "technology_name": "Mobile Devices",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+6% (US dollars), +7% (organically)",
+        "mentioned_by": "Not explicitly stated"
+      },
+      {
+        "technology_name": "Mobile Networks",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+13% (US dollars), +7% (organically)",
+        "mentioned_by": "Not explicitly stated"
+      },
+      {
+        "technology_name": "Electrified Drivetrains",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Not explicitly stated"
+      },
+      {
+        "technology_name": "IT Datacom",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+57% (US dollars), +56% (organically)",
+        "mentioned_by": "Not explicitly stated"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-24 13:00:00"
+  },
+  {
+    "company_name": "Amphenol Corporation",
+    "symbol": "APH",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "mid-single-digit range",
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "expects sales to decline modestly in Q4, but anticipates full year 2024 sales to increase in the mid-single-digit range."
+    },
+    "executives": [
+      {
+        "name": "Craig Lampo",
+        "role": "Host/Presenter",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Adam",
+        "role": "Unknown",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Interconnect",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam"
+      },
+      {
+        "technology_name": "Antenna",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam"
+      },
+      {
+        "technology_name": "Sensor",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam"
+      },
+      {
+        "technology_name": "Electrified drivetrains",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam"
+      },
+      {
+        "technology_name": "IT datacom",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam"
+      },
+      {
+        "technology_name": "Copper",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam"
+      },
+      {
+        "technology_name": "Fiber",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-23 13:00:00"
+  },
+  {
+    "company_name": "Amphenol Corporation",
+    "symbol": "APH",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "23% to 26%",
+      "eps_change": "23% to 28%",
+      "outlook_summary": "Expects Q1 sales in the range of $4 billion to $4.100 billion and adjusted diluted EPS in the range of $0.49 to $0.51, representing sales growth of 23% to 26% and adjusted diluted EPS growth of 23% to 28%."
+    },
+    "executives": [
+      {
+        "name": "Adam Norwitt",
+        "role": "CEO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "next-generation technologies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Norwitt"
+      },
+      {
+        "technology_name": "mobility technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Norwitt"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Norwitt"
+      },
+      {
+        "technology_name": "defense technologies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "ongoing",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Norwitt"
+      },
+      {
+        "technology_name": "next-generation vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Norwitt"
+      },
+      {
+        "technology_name": "next-generation consumer devices",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Norwitt"
+      },
+      {
+        "technology_name": "IoT",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Norwitt"
+      },
+      {
+        "technology_name": "accelerated computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Adam Norwitt"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-22 13:00:00"
+  }
+]

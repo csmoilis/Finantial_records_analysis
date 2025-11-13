@@ -1,0 +1,334 @@
+[
+  {
+    "company_name": "Air Products and Chemicals, Inc.",
+    "symbol": "APD",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+5%",
+      "eps_change": "more than 10% annual growth",
+      "rd_investment_change": "between $5 billion and $5.5 billion in fiscal year 2024",
+      "outlook_summary": "New range supported by expected positive volume contributions from new onsite plans and improvement in LNG sale of equipment business, as well as continuing cost productivity."
+    },
+    "executives": [
+      {
+        "name": "Sidd Manjeshwar",
+        "role": "Vice President of Investor Relations and Corporate Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Seifi Ghasemi",
+        "role": "Chairman, President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Melissa Schaeffer",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sean Major",
+        "role": "Executive Vice President, General Counsel and Secretary",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dr. Samir Serhan",
+        "role": "Chief Operating Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Industrial Gases",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "improve yield, increase production, reduce energy consumption, and lower emissions",
+        "mentioned_by": "Seifi Ghasemi"
+      },
+      {
+        "technology_name": "Blue Hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "meaningfully contribute to the goal of decarbonizing the world",
+        "mentioned_by": "Seifi Ghasemi"
+      },
+      {
+        "technology_name": "Green Hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "meaningfully contribute to the goal of decarbonizing the world",
+        "mentioned_by": "Seifi Ghasemi"
+      },
+      {
+        "technology_name": "LNG",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "improve the corporate segment moving forward",
+        "mentioned_by": "Melissa Schaeffer"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-02-05 08:30:00"
+  },
+  {
+    "company_name": "Air Products and Chemicals, Inc.",
+    "symbol": "APD",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Strong performance in U.S. and Europe, expecting continued cost actions and pricing power to drive short-term results."
+    },
+    "executives": [
+      {
+        "name": "Seifollah Ghasemi",
+        "role": "Chairman, President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Melissa Schaeffer",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Samir Serhan",
+        "role": "Chief Operating Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Siddharth Manjeshwar",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Seifollah Ghasemi"
+      },
+      {
+        "technology_name": "Blue Ammonia",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeffrey Zekauskas"
+      },
+      {
+        "technology_name": "Blue Hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Seifollah Ghasemi"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-04-30 08:30:00"
+  },
+  {
+    "company_name": "Air Products and Chemicals, Inc.",
+    "symbol": "APD",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": null,
+      "eps_change": null,
+      "rd_investment_change": null,
+      "outlook_summary": "Continued commitment to two-pillar growth strategy with focus on industrial gases and low-carbon hydrogen, successful project milestones achieved, and productivity actions progressing."
+    },
+    "executives": [
+      {
+        "name": "Sidd Manjeshwar",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Seifi Ghasemi",
+        "role": "Chairman, President, and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Melissa Schaeffer",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sean Major",
+        "role": "Executive Vice President, General Counsel and Secretary",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Eric Guter",
+        "role": "Incoming Head of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Industrial Gases",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Seifi Ghasemi"
+      },
+      {
+        "technology_name": "Low-carbon hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Seifi Ghasemi"
+      },
+      {
+        "technology_name": "Green hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "John McNulty"
+      },
+      {
+        "technology_name": "Zero-carbon hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Seifi Ghasemi"
+      },
+      {
+        "technology_name": "LNG",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Melissa Schaeffer"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-08-01 08:30:00"
+  },
+  {
+    "company_name": "Air Products and Chemicals, Inc.",
+    "symbol": "APD",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "6% to 9%",
+      "outlook_summary": "Expects fiscal year 2025 adjusted EPS growth ranging from 6% to 9%. Q1 is typically the weakest quarter and no significant growth is forecasted for Q1 due to concerns about economic activity in China.",
+      "revenue_growth": "flat",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Eric Guter",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Seifi Ghasemi",
+        "role": "Chairman, President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Melissa Schaeffer",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Sean Major",
+        "role": "Executive Vice President, General Counsel and Secretary",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Industrial Gases",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "Almost half of capital investment in '23 and '24",
+        "revenue_impact": "GDP or industrial production levels",
+        "mentioned_by": "Seifi Ghasemi"
+      },
+      {
+        "technology_name": "Clean Hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "outside growth relative to core industrial gas business",
+        "mentioned_by": "Seifi Ghasemi"
+      },
+      {
+        "technology_name": "Blue Hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Seifi Ghasemi"
+      },
+      {
+        "technology_name": "Clean Ammonia",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "minimize the use of coal in Asia's power plants",
+        "mentioned_by": "Seifi Ghasemi"
+      },
+      {
+        "technology_name": "Green Hydrogen",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "outside growth relative to core industrial gas business",
+        "mentioned_by": "Seifi Ghasemi"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-11-07 08:30:00"
+  }
+]

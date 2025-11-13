@@ -1,0 +1,233 @@
+[
+  {
+    "company_name": "Cardinal Health, Inc.",
+    "symbol": "CAH",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "significant profit growth",
+      "outlook_summary": "Improved outlook for the fiscal year, raised EPS guidance for fiscal 2024.",
+      "revenue_growth": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Jason Hollar",
+        "role": "Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Aaron Alt",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matt Sims",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "COVID-19 vaccines",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Hollar"
+      },
+      {
+        "technology_name": "GLP-1 medications",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong demand",
+        "mentioned_by": "Jason Hollar"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2023-11-03 08:30:00"
+  },
+  {
+    "company_name": "Cardinal Health, Inc.",
+    "symbol": "CAH",
+    "overall_sentiment": "positive",
+    "financials": {
+      "segment_profit_growth_pharma": "7% to 9% fiscal '24",
+      "segment_profit_growth_other_businesses": "6% to 8% fiscal year '24",
+      "outlook_summary": "Confident in plans and grateful for team efforts driving ongoing initiatives. Expects deal to be accretive 12 months following close."
+    },
+    "executives": [
+      {
+        "name": "Matt Sims",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jason Hollar",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Aaron Alt",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Automation Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "drive efficiencies",
+        "mentioned_by": "Jason Hollar"
+      },
+      {
+        "technology_name": "Autonomous Mobile Robots",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "increase picking and packing accuracy and drive efficiencies",
+        "mentioned_by": "Jason Hollar"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-02-01 08:30:00"
+  },
+  {
+    "company_name": "Cardinal Health, Inc.",
+    "symbol": "CAH",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Raising fiscal '24 EPS outlook, providing preliminary guidance for fiscal '25 of profit growth in each of Pharma, GMPD, and Other, as well as overall EPS. Expects at least $7.50 of non-GAAP EPS in fiscal year '25, reflecting at least 30% total EPS growth on a two-year basis. Expects fiscal year '25 effective tax rate to be in the range of 23% to 24%. Expects interest and other range of $160 million to $190 million in fiscal year '25.",
+      "eps_change": "at least 30% total EPS growth on a two-year basis for FY25",
+      "revenue_growth": "6% to 8% profit growth for Other segment in fiscal '24, and 8% to 10% for fiscal '25",
+      "rd_investment_change": "investing to expand capacity of network, breadth of offering, and deploy new automation technology for at-Home Solutions"
+    },
+    "executives": [
+      {
+        "name": "Jason Hollar",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Aaron Alt",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matt Sims",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Prostate Cancer Radio Diagnostics",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Hollar"
+      },
+      {
+        "technology_name": "Automation Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Hollar"
+      },
+      {
+        "technology_name": "TotalVue Insights",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Hollar"
+      },
+      {
+        "technology_name": "Pharmacy Shipping Solution",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Hollar"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-05-02 08:30:00"
+  },
+  {
+    "company_name": "Cardinal Health, Inc.",
+    "symbol": "CAH",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "12%",
+      "eps_change": "29%",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Raising guidance for fiscal year '25, reconfirming long-term financial targets. Expects Q1 profit to increase to up to $20 million with sequential improvements. Anticipates segment profit growth of approximately 10% across nuclear, at-home solution and OptiFreight. Expects fiscal year '25 adjusted free cash flow of approximately $1 billion. Expects fiscal year '25 share repurchase to total $750 million."
+    },
+    "executives": [
+      {
+        "name": "Matt Sims",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jason Hollar",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Aaron Alt",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-08-14 08:30:00"
+  }
+]

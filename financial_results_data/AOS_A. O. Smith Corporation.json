@@ -1,0 +1,362 @@
+[
+  {
+    "company_name": "A. O. Smith Corporation",
+    "symbol": "AOS",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+2%",
+      "outlook_summary": "Reaffirms 2024 sales growth outlook of 3% to 5% compared to 2023. U.S. residential industry unit volumes projected to be approximately flat. Expects $15M to $20M incremental growth from new tankless product launch."
+    },
+    "executives": [
+      {
+        "name": "Helen Gurholt",
+        "role": "Vice President, Investor Relations and Financial Planning and Analysis",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin Wheeler",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chuck Lauber",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steve Shafer",
+        "role": "Chief Operating Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Heat Pumps",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Charles Lauber"
+      },
+      {
+        "technology_name": "AI Link",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Charles Lauber"
+      },
+      {
+        "technology_name": "Tankless",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+15M to +20M USD",
+        "mentioned_by": "Kevin Wheeler"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-25 10:00:00"
+  },
+  {
+    "company_name": "A. O. Smith Corporation",
+    "symbol": "AOS",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "3% to 5%",
+      "eps_change": "+6%",
+      "rd_investment_change": "increase over the last several years",
+      "outlook_summary": "Reaffirms 2024 sales growth of 3% to 5%, narrows EPS outlook to $3.95-$4.10, expects free cash flow of $525M-$575M, and plans to repurchase $300M of stock.",
+      "free_cash_flow": "$525 million and $575 million",
+      "effective_tax_rate": "approximately 24%",
+      "share_repurchase": "$300 million",
+      "outstanding_diluted_shares": "$147 million",
+      "steel_costs": "roughly flat to 2023",
+      "non_steel_material_costs": "similar in 2024 as they were in 2023",
+      "supply_chain_environment": "relatively stable",
+      "import_tariffs_impact": "approximately 50 basis points in 2024",
+      "cap_ex": "$105 million and $115 million",
+      "cash_balance": "$233 million",
+      "net_cash_position": "$93 million",
+      "leverage_ratio": "6.8%"
+    },
+    "executives": [
+      {
+        "name": "Chuck Lauber",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin Wheeler",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Helen Gurholt",
+        "role": "Vice President, Investor Relations and Financial Planning and Analysis",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Water Heating",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "adding high-efficiency commercial water heating manufacturing capacity",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Heat Pump",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "8%",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Boiler",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "8% to 10%",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Water Treatment",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "8% to 10%",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Gas-tankless",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "50 basis points",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chuck Lauber"
+      },
+      {
+        "technology_name": "Pureit",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "$120 million",
+        "revenue_impact": "+100% market penetration in South Asia",
+        "mentioned_by": "Chuck Lauber"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-23 10:00:00"
+  },
+  {
+    "company_name": "A. O. Smith Corporation",
+    "symbol": "AOS",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "flat to down",
+      "eps_change": "neutral",
+      "rd_investment_change": "increase",
+      "outlook_summary": "Reaffirms 2024 EPS outlook of $3.70 to $3.85. Expects 2024 sales to be approximately flat to 2023. China third party sales decreased 17% in local currency. North America water heater sales decreased 4%. North America boiler sales grew 15%. North America water treatment sales increased 16%."
+    },
+    "executives": [
+      {
+        "name": "Kevin Wheeler",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Helen Gurholt",
+        "role": "Vice President, Investor Relations and Financial Planning and Analysis",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chuck Lauber",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Water Treatment",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+16%",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Heat Pumps",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "+8%",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Boilers",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "+15%",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Tankless Water Heater",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Commercial Condensing Boilers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Hellcat Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-22 10:00:00"
+  },
+  {
+    "company_name": "A. O. Smith Corporation",
+    "symbol": "AOS",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "flat to up 2% (projected for 2025)",
+      "outlook_summary": "Expects a 5% decline in top line for 2025 due to portfolio repositioning, with a return to growth thereafter. Projecting mid-teen top line growth in India business and flat to up 2% overall for 2025. North America segment margin expected between 24%-24.5%, Rest of World between 8%-9%."
+    },
+    "executives": [
+      {
+        "name": "Chuck Lauber",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kevin Wheeler",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steve Shafer",
+        "role": "President and Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Helen Gurholt",
+        "role": "Vice President, Investor Relations and Financial Planning and Analysis",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Tankless Water Heater",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "invested in tankless inventory",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Chuck Lauber"
+      },
+      {
+        "technology_name": "Heat Pump Water Heater",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "increased production, doubled residential capacity",
+        "revenue_impact": "growing demand",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "High-efficiency condensing water heaters",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "increasing capacity",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Adapt Gas Tankless Water Heater",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "launch and scale up",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "X3 Scale Prevention Technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "part of Adapt Gas Tankless Water Heater launch",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      },
+      {
+        "technology_name": "Water Treatment",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Wheeler"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-30 10:00:00"
+  }
+]

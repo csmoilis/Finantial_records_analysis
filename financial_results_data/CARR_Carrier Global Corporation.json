@@ -1,0 +1,332 @@
+[
+  {
+    "company_name": "Carrier Global Corporation",
+    "symbol": "CARR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "positive",
+      "outlook_summary": "Positioned for significant margin expansion and solid growth, with strong Q1 results and an expected rebound in the second half.",
+      "eps_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "David Gitlin",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Patrick Goris",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Samuel Pearlstein",
+        "role": "N/A",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Data Centers",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+20%",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "Liquid Cooling",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Andrew Kaplowitz"
+      },
+      {
+        "technology_name": "A2L",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+15% to +20% over 2 years",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "454B",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+15% to +20% over 2 years",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "410A",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-25 07:30:00"
+  },
+  {
+    "company_name": "Carrier Global Corporation",
+    "symbol": "CARR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "offset weakness in RLC businesses",
+      "eps_change": "up double-digits",
+      "rd_investment_change": null,
+      "outlook_summary": "Revised outlook for 2024 assumes about a 15% drop in year-over-year sales for BCS with a typical seasonal pickup in the second half. Poised for strong growth across a significant percentage of our portfolio in 2025. Targeting $1 billion share buyback in the second half of 2024."
+    },
+    "executives": [
+      {
+        "name": "Sam Pearlstein",
+        "role": "Vice President of Investor Relations and CFO of the Fire & Security Segment",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Gitlin",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Patrick Goris",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ed Dryden",
+        "role": "Head of Refrigeration Business",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Tim White",
+        "role": "Chief Product Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Home Energy Management",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "Heat Pumps",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "Connectivity",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-25 07:30:00"
+  },
+  {
+    "company_name": "Carrier Global Corporation",
+    "symbol": "CARR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "mid-single digit",
+      "eps_change": "+33% year-over-year",
+      "outlook_summary": "Expects HVAC to be close to 10% growth in Q3 with strong double-digit growth in commercial HVAC. Refrigeration expected to be down mid-single digits. Adjusted EPS expected to be a little less than $0.50, up 33% year-over-year. Operating margin expected to be up about 300 bps year-over-year."
+    },
+    "executives": [
+      {
+        "name": "Samuel Pearlstein",
+        "role": "Vice President of Investor Relations and CFO of the Fire & Security segment",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Gitlin",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Patrick Goris",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital Connectivity",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "Rotable Pools",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "Algorithms",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "Chiller Data",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "Carbon Tracking",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "modest investments",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "Lynx",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "R-454B",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit pricing",
+        "mentioned_by": "David Gitlin"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-24 07:30:00"
+  },
+  {
+    "company_name": "Carrier Global Corporation",
+    "symbol": "CARR",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "single digits",
+      "eps_change": "up 17% at the midpoint",
+      "outlook_summary": "Expects 2025 to be another year of strong financial performance with single-digit organic growth, double-digit growth in aftermarket and global commercial HVAC, and 100 basis points of margin expansion.",
+      "free_cash_flow_conversion": "about 100%"
+    },
+    "executives": [
+      {
+        "name": "Michael Rednor",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Gitlin",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Patrick Goris",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Heat Pumps",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "Cascadable Heat Pumps",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      },
+      {
+        "technology_name": "Natural Refrigerants",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Gitlin"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-11 07:30:00"
+  }
+]

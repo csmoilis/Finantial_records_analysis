@@ -1,0 +1,223 @@
+[
+  {
+    "company_name": "The Cigna Group",
+    "symbol": "CI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "increased to 10% to 14%",
+      "outlook_summary": "expects strong rates of growth for the next several years despite a disrupted environment."
+    },
+    "executives": [
+      {
+        "name": "Brian Evanko",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin Fischbeck",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-15 08:30:00"
+  },
+  {
+    "company_name": "The Cigna Group",
+    "symbol": "CI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+25%",
+      "eps_change": "+10%",
+      "outlook_summary": "Full year 2024 adjusted EPS outlook of at least $28.40, representing more than 13% year-over-year growth."
+    },
+    "executives": [
+      {
+        "name": "Ralph Giacobbe",
+        "role": "Senior Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Cordani",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brian Evanko",
+        "role": "Chief Financial Officer and President and Chief Executive Officer of Cigna Healthcare",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Eric Palmer",
+        "role": "President and Chief Executive Officer of Evernorth Health Services",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Biosimilars",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Cordani"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-01 08:30:00"
+  },
+  {
+    "company_name": "The Cigna Group",
+    "symbol": "CI",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue": "$63.7 billion",
+      "eps": "$7.51",
+      "full_year_eps_outlook": "at least $28.40",
+      "revenue_growth": "strong",
+      "eps_change": "more than 13% year-over-year growth",
+      "outlook_summary": "expects full-year 2024 adjusted EPS of at least $28.40, representing more than 13% year-over-year growth. Expects 2025 EPS growth of at least 10%."
+    },
+    "executives": [
+      {
+        "name": "Brian Evanko",
+        "role": "Chief Financial Officer and President and Chief Executive Officer of Cigna Healthcare",
+        "sentiment": "positive"
+      },
+      {
+        "name": "David Cordani",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ralph Giacobbe",
+        "role": "Senior Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Eric Palmer",
+        "role": "President and Chief Executive Officer of Evernorth Health Services",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Pharmacological innovation",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Evanko"
+      },
+      {
+        "technology_name": "Biosimilars",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+unclear",
+        "mentioned_by": "Brian Evanko"
+      },
+      {
+        "technology_name": "Humira biosimilars",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+unclear",
+        "mentioned_by": "Brian Evanko"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 08:30:00"
+  },
+  {
+    "company_name": "The Cigna Group",
+    "symbol": "CI",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "6%",
+      "eps_change": "negative",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Expects full year 2025 consolidated adjusted revenues of at least $252 billion. Full-year 2024 consolidated adjusted revenues were $247.1 billion, with adjusted after-tax earnings of $7.7 billion and adjusted EPS of $27.33. Full-year 2024 MCR was 83.2%, above guidance. Expects to recapture approximately 100 basis points of margin in Cigna Healthcare over the next two years."
+    },
+    "executives": [
+      {
+        "name": "Brian Evanko",
+        "role": "CFO and President and CEO of Cigna Healthcare",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Cordani",
+        "role": "Chairman and CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Eric Palmer",
+        "role": "President and CEO of Evernorth Health Services",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ralph Giacobbe",
+        "role": "Senior Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Specialty Medications",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Evanko"
+      },
+      {
+        "technology_name": "Humira biosimilars",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+18%",
+        "mentioned_by": "Brian Evanko"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-30 08:30:00"
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "company_name": "Comcast Corporation",
+    "symbol": "CMCSA",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+1%",
+      "outlook_summary": "Stable growth expected in broadband, with increasing contribution from 6 growth businesses. Parks CapEx to remain elevated in 2024, stepping down in 2025."
+    },
+    "executives": [
+      {
+        "name": "Marci Ryvicker",
+        "role": "Executive Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael Cavanagh",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jason Armstrong",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Watson",
+        "role": "COO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Residential Broadband",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "high potential",
+        "mentioned_by": "Michael Cavanagh"
+      },
+      {
+        "technology_name": "Wireless",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Cavanagh"
+      },
+      {
+        "technology_name": "Business Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "high potential",
+        "mentioned_by": "Michael Cavanagh"
+      },
+      {
+        "technology_name": "Theme Parks",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "elevated in 2024, stepping down in 2025",
+        "revenue_impact": "high potential",
+        "mentioned_by": "Michael Cavanagh"
+      },
+      {
+        "technology_name": "Studios",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "declined 7%",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "Streaming",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Cavanagh"
+      },
+      {
+        "technology_name": "Peacock",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Michael Cavanagh"
+      },
+      {
+        "technology_name": "Prepaid Broadband",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Watson"
+      },
+      {
+        "technology_name": "Prepaid Mobile",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Watson"
+      },
+      {
+        "technology_name": "NOW TV",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Watson"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-25 08:30:00"
+  },
+  {
+    "company_name": "Comcast Corporation",
+    "symbol": "CMCSA",
+    "overall_sentiment": "positive",
+    "financials": {
+      "share_repurchases": "2.2 billion USD",
+      "dividend_payments": "1.2 billion USD",
+      "capital_returned_shareholders": "just under 50 billion USD",
+      "arpu_growth": "3.6%",
+      "broadband_customers": "32 million",
+      "data_traffic_growth": "double-digit year-over-year",
+      "residential_subscribers_high_speed": "around 70% receiving speeds of 500 megabits per second or higher",
+      "residential_subscribers_gigabit_or_more": "one-third",
+      "outlook_summary": "Confident in broadband strategy, investing in network capacity, multi-gig speeds, and in-home WiFi. Expects relief in content spending beyond this year. Comfortable with capital intensity envelope despite increased homes passed."
+    },
+    "executives": [
+      {
+        "name": "Steven",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brian",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jason Armstrong",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Cavanagh",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marci Ryvicker",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jonathan Chaplin",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael Ng",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Steven Cahall",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "DOCSIS 4.0",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "mid-splits",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "multi-gig symmetrical speeds",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "broadband",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+3.6%",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "NOW products",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "internet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "mobile",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "streaming TV",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "fiber",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "network capacity",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "multi-gig speeds",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "in-home WiFi",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "Epic spending",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "Connectivity & Platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "within capital intensity envelope",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "fiber overlap",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Steven Cahall"
+      },
+      {
+        "technology_name": "Peacock",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "improving losses",
+        "mentioned_by": "Steven Cahall"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-23 08:30:00"
+  },
+  {
+    "company_name": "Comcast Corporation",
+    "symbol": "CMCSA",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "+5%",
+      "outlook_summary": "Expects churn to remain at low levels in Q4 despite competitive environment and potential impact from hurricanes. Broadband subscriber growth in Q4 is uncertain due to seasonality and factors beyond ACP."
+    },
+    "executives": [
+      {
+        "name": "Jason Armstrong",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mike Cavanagh",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Watson",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Marci Ryvicker",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ben Swinburne",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "NOW TV",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "NOW Latino",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "StreamSaver",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "Broadband",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "up 50%+ increase over two years",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "Wireless",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "WiFi Boost",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike Cavanagh"
+      },
+      {
+        "technology_name": "Mid-split",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "Half footprint updated",
+        "revenue_impact": "faster speeds",
+        "mentioned_by": "Jason Armstrong"
+      },
+      {
+        "technology_name": "DOCSIS 4.0",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Armstrong"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-31 20:30:00"
+  },
+  {
+    "company_name": "Comcast Corporation",
+    "symbol": "CMCSA",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "record revenue of $124 billion",
+      "ebitda": "record adjusted EBITDA of $38 billion",
+      "eps_change": "9%",
+      "free_cash_flow": "$12.5 billion",
+      "outlook_summary": "Plans to make progress on all growth fronts in 2025, with deeper focus on broadband and wireless growth, and leveraging broadband network upgrades."
+    },
+    "executives": [
+      {
+        "name": "Michael Cavanagh",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Marci Ryvicker",
+        "role": "Executive Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brian Roberts",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dave Watson",
+        "role": "COO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Hodulik",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Steven Cahall",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Broadband",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "multi-gigabit symmetrical speeds across every market",
+        "revenue_impact": "+3%",
+        "mentioned_by": "Michael Cavanagh"
+      },
+      {
+        "technology_name": "Wireless",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "mid-teens rate",
+        "revenue_impact": "mid-teens rate",
+        "mentioned_by": "Michael Cavanagh"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Roberts"
+      },
+      {
+        "technology_name": "Edge Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Roberts"
+      },
+      {
+        "technology_name": "WiFi Hotspots",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "23 million WiFi hotspots",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Cavanagh"
+      },
+      {
+        "technology_name": "Streaming",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "1 billion improvement in Peacock EBITDA losses",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Cavanagh"
+      },
+      {
+        "technology_name": "Fiber Network",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "hundreds of thousands of miles of fiber",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brian Roberts"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-30 08:30:00"
+  }
+]

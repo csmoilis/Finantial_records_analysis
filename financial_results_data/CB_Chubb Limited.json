@@ -1,0 +1,253 @@
+[
+  {
+    "company_name": "Chubb Limited",
+    "symbol": "CB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "double-digit",
+      "eps_change": "nearly 23%",
+      "outlook_summary": "Core operating income and EPS up double digits, driven by P&C underwriting, investment income, and life insurance income. Expects continued premium revenue growth globally. Management is disciplined in underwriting, pulling back on unprofitable lines while growing in other areas. Excess capital is being deployed effectively, and M&A is being considered opportunistically."
+    },
+    "executives": [
+      {
+        "name": "Peter Enns",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Evan G. Greenberg",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Karen Beyer",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Motemaden",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Elyse Greenspan",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jian Huang",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robert Cox",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Charles Peters",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ryan Tunis",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-24 08:30:00"
+  },
+  {
+    "company_name": "Chubb Limited",
+    "symbol": "CB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Confident in ability to continue growing operating earnings at a superior rate through P&C revenue growth and underwriting margins, investment income and life income."
+    },
+    "executives": [
+      {
+        "name": "Karen Beyer",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Evan Greenberg",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Peter Enns",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-24 08:30:00"
+  },
+  {
+    "company_name": "Chubb Limited",
+    "symbol": "CB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "adjusted_operating_cash_flow_q3": "4.6 billion USD",
+      "adjusted_operating_cash_flow_ytd": "11.7 billion USD",
+      "book_value": "nearly 66 billion USD",
+      "invested_assets": "151 billion USD",
+      "debt_issued": "700 million USD (5-year)",
+      "debt_issued_2": "600 million USD (10-year)",
+      "debt_repayment": "700 million EUR",
+      "capital_returned_q3": "782 million USD",
+      "share_repurchases_q3": "413 million USD",
+      "dividends_q3": "369 million USD",
+      "capital_returned_ytd": "2.4 billion USD",
+      "book_value_per_share_increase_ytd": "7.7%",
+      "tangible_book_value_per_share_increase_ytd": "10.6%",
+      "core_operating_roe_ytd": "13.6%",
+      "return_on_tangible_equity_ytd": "21.5%",
+      "adjusted_net_investment_income": "1.64 billion USD",
+      "private_equity_income_boost": "approximately 40 million USD",
+      "catastrophe_losses_q3_pretax": "765 million USD",
+      "hurricane_helene_losses": "250 million USD",
+      "prior_period_development_q3_pretax": "favorable 299 million USD",
+      "paid_to_incurred_ratio_q3": "77%",
+      "paid_to_incurred_ratio_ytd": "77%",
+      "core_effective_tax_rate_q3": "17.7%",
+      "q4_core_effective_tax_rate_guidance": "between 19% and 19.25%",
+      "full_year_core_effective_tax_rate_guidance": "between 18% and 18.25%",
+      "outlook_summary": "Strong quarter with record book value and invested assets, despite industry-wide catastrophes. Positive outlook for North America commercial business and international growth in Asia."
+    },
+    "executives": [
+      {
+        "name": "Karen Beyer",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Peter Enns",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Evan Greenberg",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-30 08:30:00"
+  },
+  {
+    "company_name": "Chubb Limited",
+    "symbol": "CB",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "double-digit rate",
+      "outlook_summary": "Confident in ability to continue growing operating earnings and EPS at a double-digit rate, cats and FX notwithstanding.",
+      "revenue_growth": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Karen Beyer",
+        "role": "Senior Vice President, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Evan Greenberg",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Peter Enns",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "life insurance",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "double-digit growth rate",
+        "mentioned_by": "Evan Greenberg"
+      },
+      {
+        "technology_name": "P&C underwriting",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Evan Greenberg"
+      },
+      {
+        "technology_name": "investment income",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Evan Greenberg"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-29 08:30:00"
+  }
+]

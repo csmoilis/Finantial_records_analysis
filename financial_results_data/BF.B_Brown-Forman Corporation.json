@@ -1,0 +1,387 @@
+[
+  {
+    "company_name": "Brown-Forman Corporation",
+    "symbol": "BF.B",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "below historical trends",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Reaffirms full year outlook, expecting moderation of operating expenses and continued long-term growth."
+    },
+    "executives": [
+      {
+        "name": "Lawson Whiting",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Leanne Cunningham",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sue Perram",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Route to market",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "support long-term success",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Pricing and revenue growth management",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "benefit from strategies",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "RTD category",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "accelerated",
+        "mentioned_by": "Leanne Cunningham"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2023-08-30 10:00:00"
+  },
+  {
+    "company_name": "Brown-Forman Corporation",
+    "symbol": "BF.B",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "1% organic net sales growth (first half fiscal 2024 vs. prior year)",
+      "eps_change": "-1% diluted earnings per share decrease to $0.98 per share",
+      "rd_investment_change": "expect capital expenditures to be in the range of $250 million to $270 million for the full year",
+      "outlook_summary": "Expects organic operating income growth in the 4% to 6% range for the fiscal year. Expects fiscal 2024 effective tax rate to be in the range of approximately 21% to 23%."
+    },
+    "executives": [
+      {
+        "name": "Lawson Whiting",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Leanne Cunningham",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Sue Perram",
+        "role": "Vice President, Director Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Distribution Network",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Leanne Cunningham"
+      },
+      {
+        "technology_name": "Own Distribution",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Leanne Cunningham"
+      },
+      {
+        "technology_name": "Pricing Strategy",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Leanne Cunningham"
+      },
+      {
+        "technology_name": "Revenue Growth Management",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lawson Whiting"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2023-12-06 10:00:00"
+  },
+  {
+    "company_name": "Brown-Forman Corporation",
+    "symbol": "BF.B",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "flat",
+      "gross_margin_outlook": "expand",
+      "organic_operating_expenses_outlook": "increase above top line growth",
+      "organic_operating_income_growth_outlook": "0% to 2%",
+      "effective_tax_rate_outlook": "20% to 22%",
+      "capital_expenditures_outlook": "$230 million to $240 million",
+      "outlook_summary": "Organic net sales growth expected to be flat for fiscal 2024. Gross margin expected to expand, while organic operating expenses increase above top line growth. Organic operating income growth anticipated in the range of 0% to 2%."
+    },
+    "executives": [
+      {
+        "name": "Sue Perram",
+        "role": "Vice President, Director, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Lawson Whiting",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Leanne Cunningham",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Peter Grom",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Filippo Falorni",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Gin Mare",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Diplomatico",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Supply chain management",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Distribution network",
+        "technology_sentiment": "neutral",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lawson Whiting"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-03-06 10:00:00"
+  },
+  {
+    "company_name": "Brown-Forman Corporation",
+    "symbol": "BF.B",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-1%",
+      "eps_change": "+32%",
+      "rd_investment_change": "7%",
+      "outlook_summary": "Expects organic operating income growth in the 2% to 4% range for fiscal 2025, with organic net sales growth in the 2% to 4% range. Capital expenditures estimated between $195 million to $205 million for fiscal 2025. First half of fiscal 2025 expected to be weaker than the second half."
+    },
+    "executives": [
+      {
+        "name": "Sue Perram",
+        "role": "Vice President, Director of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Lawson Whiting",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Leanne Cunningham",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Agave prices",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Pricing strategy",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Brand investment",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "in-line with topline growth",
+        "revenue_impact": "+",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Route-to-consumer",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "7%",
+        "revenue_impact": "+",
+        "mentioned_by": "Leanne Cunningham"
+      },
+      {
+        "technology_name": "Premiumization",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Convenience and flavor",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Globalization",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Gin Mare",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Diplomatico",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Lawson Whiting"
+      },
+      {
+        "technology_name": "Super-premium whiskey",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Leanne Cunningham"
+      },
+      {
+        "technology_name": "Jack Daniel's Single Barrel Rye",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Leanne Cunningham"
+      },
+      {
+        "technology_name": "Jack Daniel's Sinatra",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Leanne Cunningham"
+      },
+      {
+        "technology_name": "Jack Daniel's Bonded Rye",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Leanne Cunningham"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-06-05 10:00:00"
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "company_name": "Atmos Energy Corporation",
+    "symbol": "ATO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "+8.9%",
+      "revenue_growth": "N/A",
+      "rd_investment_change": "N/A",
+      "outlook_summary": "Fiscal 2024 EPS expected to be in the range of $6.45 and $6.65 per share, inclusive of favorable property tax changes in Texas."
+    },
+    "executives": [
+      {
+        "name": "Chris Forsythe",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Dan Meziere",
+        "role": "Vice President of Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kevin Akers",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Natural Gas Distribution",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "$770 million (capital spending for system modernization and growth)",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Akers"
+      },
+      {
+        "technology_name": "Natural Gas Transmission",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "N/A",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Akers"
+      },
+      {
+        "technology_name": "Natural Gas Storage",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "N/A",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Akers"
+      },
+      {
+        "technology_name": "Permian Highway Pipeline",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "N/A",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Akers"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-02-07 09:00:00"
+  },
+  {
+    "company_name": "Atmos Energy Corporation",
+    "symbol": "ATO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "+12%",
+      "outlook_summary": "Anticipating 6% to 8% growth in fiscal '25 off of an adjusted EPS.",
+      "rd_investment_change": "Guidance increased by $20 million for CapEx."
+    },
+    "executives": [
+      {
+        "name": "Kevin Akers",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christopher Forsythe",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Daniel Meziere",
+        "role": "N/A",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "natural gas distribution",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "N/A",
+        "revenue_impact": "N/A",
+        "mentioned_by": "John Akers"
+      },
+      {
+        "technology_name": "natural gas transmission",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "N/A",
+        "revenue_impact": "N/A",
+        "mentioned_by": "John Akers"
+      },
+      {
+        "technology_name": "natural gas storage",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "N/A",
+        "revenue_impact": "N/A",
+        "mentioned_by": "John Akers"
+      },
+      {
+        "technology_name": "pipeline",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "+$20 million",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher Jeffrey"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-05-09 10:00:00"
+  },
+  {
+    "company_name": "Atmos Energy Corporation",
+    "symbol": "ATO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "6% to 8%",
+      "outlook_summary": "Anticipates 6% to 8% earnings per share growth and adjusted EPS amount through fiscal '28. Expects fiscal '24 O&M to be in the range of $800 million to $820 million. Consolidated capital spending increased to $2.1 billion.",
+      "revenue_growth": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Daniel Meziere",
+        "role": "Vice President of Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Chris Forsythe",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kevin Akers",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Nicholas Campanella",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Richard Sunderland",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ryan Levine",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Hydrostatic Testing",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Akers"
+      },
+      {
+        "technology_name": "Line Locating",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Akers"
+      },
+      {
+        "technology_name": "Integrity Regulations",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Akers"
+      },
+      {
+        "technology_name": "IT Software Maintenance",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher Forsythe"
+      },
+      {
+        "technology_name": "In-line Inspection",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher Forsythe"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-08-08 10:00:00"
+  },
+  {
+    "company_name": "Atmos Energy Corporation",
+    "symbol": "ATO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "eps_change": "+12%",
+      "outlook_summary": "Fiscal '25 earnings per share guidance range of $7.05 to $7.25, implying 7.4% growth. Fiscal '25 capital spending guidance for approximately $3.7 billion. Anticipates 6% to 8% annual earnings per share growth and annual dividends per share growth."
+    },
+    "executives": [
+      {
+        "name": "Kevin Akers",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Christopher Forsythe",
+        "role": "Senior Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Daniel Meziere",
+        "role": "Vice President of Investor Relations and Treasurer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AMLD units",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "16 now on the system",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Christopher Forsythe"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-11-07 10:00:00"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "company_name": "Advanced Micro Devices, Inc.",
+    "symbol": "AMD",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+2%",
+      "outlook_summary": "Raises full year MI300 outlook from $3.5B to $4B, with supply visibility significantly beyond that.",
+      "eps_change": null,
+      "rd_investment_change": "increased investment quite significantly to expand and accelerating our road map in the AI side"
+    },
+    "executives": [
+      {
+        "name": "Lisa Su",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jean Hu",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mitchell Haws",
+        "role": "IR",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "increased investment quite significantly",
+        "revenue_impact": "significant",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "Data Center GPUs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "increased investment quite significantly",
+        "revenue_impact": "significant",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "EPYC processors",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "Zen 5 processors",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "Adaptive computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "MI300",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+500M USD",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "ROCm software",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "Ethernet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "Ultra Ethernet Consortium",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "long-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-30 17:00:00"
+  },
+  {
+    "company_name": "Advanced Micro Devices, Inc.",
+    "symbol": "AMD",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+9%",
+      "eps_change": "+19%",
+      "gross_margin_expansion": "3 percentage points",
+      "outlook_summary": "Well positioned to grow revenue significantly in the second half of the year driven by data center and client segments. Data center GPU business on a steep growth trajectory. Strong demand for next generation Zen 5 EPYC and Ryzen processors. See strong growth opportunities over the coming years."
+    },
+    "executives": [
+      {
+        "name": "Lisa Su",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jean Hu",
+        "role": "Executive Vice President, Chief Financial Officer, and Treasurer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mitch Haws",
+        "role": "Vice President Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mark Papermaster",
+        "role": "Executive Vice President and Chief Technology Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "increasing investments",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "Instinct MI300X",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "record revenue exceeding $1 billion",
+        "revenue_impact": "significant driver of growth",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "Ryzen processors",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+9%",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "EPYC processors",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+9%",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong adoption",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "Zen 5 processors",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "ROCm",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "amplifying development",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-30 17:00:00"
+  },
+  {
+    "company_name": "Advanced Micro Devices, Inc.",
+    "symbol": "AMD",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "29% (Client segment)",
+      "outlook_summary": "Expects Data Center GPU revenue to exceed $5 billion in 2024. Sees modest growth in Embedded business in Q4 and 2025. Client business expansion is strong.",
+      "eps_change": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Dr. Lisa Su",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jean Hu",
+        "role": "Executive Vice President, Chief Financial Officer and Treasurer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mitch Haws",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Forrest Norrod",
+        "role": "Executive Vice President and General Manager, Data Center Business Solutions",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "MI300",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "MI325",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "Data Center GPU",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": ">$5 billion in 2024",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "Zen 5 processors",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong demand",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "Ryzen 9000 series",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "significant double-digit percentage",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "Ryzen AI 300 Series",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "significantly from prior quarter",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "Ryzen AI Pro 300 Series",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positioning for share gains",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "CoPilot Plus PCs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "Radeon GPUs",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "declined year-over-year",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "EPYC",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "up 33%",
+        "mentioned_by": "Ross Seymore"
+      },
+      {
+        "technology_name": "Instinct",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ross Seymore"
+      },
+      {
+        "technology_name": "Versal platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "did very well",
+        "mentioned_by": "Dr. Lisa Su"
+      },
+      {
+        "technology_name": "CDNA Next architecture",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "progressing towards 2026 launch",
+        "mentioned_by": "Dr. Lisa Su"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-29 17:00:00"
+  },
+  {
+    "company_name": "Advanced Micro Devices, Inc.",
+    "symbol": "AMD",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "double-digit percentage",
+      "outlook_summary": "expects double-digit percentage revenue growth and further accelerated earnings in 2025 and beyond."
+    },
+    "executives": [
+      {
+        "name": "Lisa Su",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jean Hu",
+        "role": "Executive Vice President and Chief Financial Officer and Treasurer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Matt Ramsey",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "GPU",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "north of $5 billion",
+        "mentioned_by": "Aaron Rakers"
+      },
+      {
+        "technology_name": "Data Center GPU",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "strong double digits",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "MI300",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "MI325",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      },
+      {
+        "technology_name": "MI350 series",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Lisa Su"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-04 17:00:00"
+  }
+]

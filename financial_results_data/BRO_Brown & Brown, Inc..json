@@ -1,0 +1,199 @@
+[
+  {
+    "company_name": "Brown & Brown, Inc.",
+    "symbol": "BRO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "15.4%",
+      "outlook_summary": "Expects another strong year of cash generation with a conversion ratio of cash flow from operations to revenues in the range of 22% to 24%. Continued rate pressure for CAT property is expected, dependent on storm activity.",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Powell Brown",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Norma",
+        "role": "Operator",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Robert Cox",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Andy Watts",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Grace",
+        "role": "Unknown",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Scott Heleniak",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Claims processing businesses",
+        "technology_sentiment": "neutral",
+        "investment_action": "divesting",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Powell Brown"
+      },
+      {
+        "technology_name": "CAT property",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Powell Brown"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-23 08:00:00"
+  },
+  {
+    "company_name": "Brown & Brown, Inc.",
+    "symbol": "BRO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "14.4%",
+      "outlook_summary": "Expecting 50 to 100 basis points of adjusted EBITDAC margin improvement for 2024, dependent on storm season outcomes.",
+      "eps_change": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Powell Brown",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andy",
+        "role": "Operator",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-23 08:00:00"
+  },
+  {
+    "company_name": "Brown & Brown, Inc.",
+    "symbol": "BRO",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "3.9% (Retail segment), 22.8% (Programs segment), 8.4% (Brokerage segment)",
+      "outlook_summary": "Full year cash flow from operations expected between 24% to 26% of total revenue. Full year EBITDAC margin expected to be up at least 100 basis points for 2024 compared to 2023. Anticipates moderate downward adjustment in admitted lines rates for Q4 and early '25. E&S market rates for Casualty and Professional Liability to be similar to Q3 '24. CAT property rate decreases anticipated from flat to down 10% for Q4. Expects strong Q4 to finish the year strong.",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Powell Brown",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andy",
+        "role": "CFO",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-29 08:00:00"
+  },
+  {
+    "company_name": "Brown & Brown, Inc.",
+    "symbol": "BRO",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "unclear",
+      "eps_change": "down",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Anticipates revenue and EBITDAC to be within previously outlined ranges for the full year. Expects effective tax rate to be consistent with 2024 (24%-25%). Interest expense projected between $170M-$180M, and interest income between $65M-$70M. Adjusted EBITDAC margins expected to be relatively flat for 2025, with net income and contingents likely down.",
+      "contingent_commissions_2025": "down slightly compared to 2024",
+      "quintes_acquisition_revenue_phasing": "60% in Q1, remaining recognized evenly over the next three quarters",
+      "quintes_acquisition_margin_impact": "improves Q1 margins, unfavorably impacts other quarters",
+      "interest_expense_2025_range": "$170 million to $180 million",
+      "interest_income_2025_range": "$65 million to $70 million",
+      "adjusted_ebitdac_margins_2025": "relatively flat"
+    },
+    "executives": [
+      {
+        "name": "Powell Brown",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andy",
+        "role": "unclear",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-28 08:00:00"
+  }
+]

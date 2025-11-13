@@ -1,0 +1,361 @@
+[
+  {
+    "company_name": "Archer-Daniels-Midland Company",
+    "symbol": "ADM",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "mid-single digit",
+      "eps_change": "1.46 USD",
+      "outlook_summary": "Expects revenue growth in the mid-single digit range for the full year, with operating profit expected to be slightly better due to cost reductions."
+    },
+    "executives": [
+      {
+        "name": "Juan Luciano",
+        "role": "Board Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ismael Roig",
+        "role": "Interim Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Megan Britt",
+        "role": "Host",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "Chatbot",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "improving operating performance",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "1ADM",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "improved volumes delivered sequentially",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "regenerative ag",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "increased goal to 5 million acres by 2025",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "bio solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "nearly 10% volume growth in Q1",
+        "mentioned_by": "Juan Luciano"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-30 09:00:00"
+  },
+  {
+    "company_name": "Archer-Daniels-Midland Company",
+    "symbol": "ADM",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+3%",
+      "outlook_summary": "Expects solid demand through 2024, with potential upside in AS&O. Nutrition business expects a return to growth that will continue and expand in 2025. Anticipates significant portion of $500 million cost savings to be realized by end of initial year.",
+      "cost_savings": "$500 million"
+    },
+    "executives": [
+      {
+        "name": "Juan Luciano",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ismael Roig",
+        "role": "Chief Financial Officer (Interim) / EMEA and Animal Nutrition Lead",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Megan Britt",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital Technologies",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "Regen Act Programs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "BioSolutions Platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "Plant Protein",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ismael Roig"
+      },
+      {
+        "technology_name": "Ethanol",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Manav Gupta"
+      },
+      {
+        "technology_name": "Sweeteners and Starches",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Manav Gupta"
+      },
+      {
+        "technology_name": "Flavors",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+6%",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "Health and Wellness",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+6%",
+        "mentioned_by": "Juan Luciano"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-30 09:00:00"
+  },
+  {
+    "company_name": "Archer-Daniels-Midland Company",
+    "symbol": "ADM",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Adjusted EPS guidance lowered to $4.50-$5.00 per share for FY24 due to slow market demand and internal operational challenges. Corporate costs expected between $1.7B-$1.8B. Net interest expense $475M-$525M. Capital expenditures approximately $1.5B. Effective tax rate increased to 20%-22%.",
+      "eps_change": "guidance lowered",
+      "rd_investment_change": "Automation and digitization efforts accelerated, scope increased across plants."
+    },
+    "executives": [
+      {
+        "name": "Juan Luciano",
+        "role": "Chair of the Board and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Monish Patolawala",
+        "role": "EVP and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Megan Britt",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "regen ag",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "supporting supply and demand needs",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "BioSolutions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "Automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "millions in cost savings",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "Digitization",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "millions in cost savings",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "Human Nutrition",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tom Palmer"
+      },
+      {
+        "technology_name": "Animal Nutrition",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "improved profitability",
+        "mentioned_by": "Tom Palmer"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-12-03 09:00:00"
+  },
+  {
+    "company_name": "Archer-Daniels-Midland Company",
+    "symbol": "ADM",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "eps_change": "in line with guidance",
+      "outlook_summary": "Entered 2025 with focus on internal execution, cost management, strategic simplification, strategic growth, and capital discipline to ensure optionality in short, medium, and long term.",
+      "segment_operating_profit_change": "AS&O down 32% in Q4, 40% for full-year; Ag Services down 39% for full-year.",
+      "roic": "8.3%"
+    },
+    "executives": [
+      {
+        "name": "Juan Luciano",
+        "role": "Chair of the Board and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Monish Patolawala",
+        "role": "EVP and Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Megan Britt",
+        "role": "Vice President, Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "biosolutions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "supporting growing customer demand",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "health & wellness",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "supporting growing customer demand",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "data analytics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "identify and assess new savings opportunities quickly",
+        "mentioned_by": "Juan Luciano"
+      },
+      {
+        "technology_name": "digital capabilities",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Juan Luciano"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-04 10:00:00"
+  }
+]

@@ -1,0 +1,453 @@
+[
+  {
+    "company_name": "Arista Networks Inc",
+    "symbol": "ANET",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Confident about AI networking opportunity and potential contribution in the current year and 2025, with a glide path towards a $750 million target.",
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Jayshree Ullal",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chantelle Breithaupt",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Kenneth Duda",
+        "role": "unclear",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+5%",
+        "mentioned_by": "Chantelle Breithaupt"
+      },
+      {
+        "technology_name": "NVSwitch",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Antoine Chkaiban"
+      },
+      {
+        "technology_name": "in-network computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "Ethernet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "George Notter"
+      },
+      {
+        "technology_name": "RDMA",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "George Notter"
+      },
+      {
+        "technology_name": "RoCE",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "up 10%",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "UEC",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "GPU",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-07 16:30:00"
+  },
+  {
+    "company_name": "Arista Networks Inc",
+    "symbol": "ANET",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "at least 14%",
+      "gross_margin": "62% to 64%",
+      "operating_margin": "approximately 44%",
+      "outlook_summary": "Revenue guidance of $1.72B to $1.75B for Q3, with improved operating margin outlook for FY24 and gross margin maintained."
+    },
+    "executives": [
+      {
+        "name": "Liz Stine",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jayshree Ullal",
+        "role": "Chairperson and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chantelle Breithaupt",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ashwin Kohli",
+        "role": "Chief Customer Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Ethernet OS",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "AI Ethernet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ashwin Kohli"
+      },
+      {
+        "technology_name": "NVIDIA H100",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ashwin Kohli"
+      },
+      {
+        "technology_name": "400-gig 7080s",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ashwin Kohli"
+      },
+      {
+        "technology_name": "800-gig AI Ethernet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ashwin Kohli"
+      },
+      {
+        "technology_name": "CloudVision",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Ashwin Kohli"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-30 16:30:00"
+  },
+  {
+    "company_name": "Arista Networks Inc",
+    "symbol": "ANET",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": null,
+      "eps_change": "+31.1%",
+      "rd_investment_change": null,
+      "outlook_summary": "Guidance for Q4 provided, with positive outlook for 2025 and beyond.",
+      "cash_and_investments": "$7.4 billion",
+      "stock_repurchases": "$65.2 million",
+      "operating_cash_flow": "$1.2 billion",
+      "dso": "57 days",
+      "inventory_turns": "1.3x",
+      "inventory_value": "$1.8 billion",
+      "purchase_commitments_and_inventory": "$4.1 billion",
+      "deferred_revenue": "$2.5 billion",
+      "product_deferred_revenue_increase": "$320 million",
+      "accounts_payable_days": "42 days",
+      "capital_expenditures_q3": "$7 million",
+      "q4_facility_expansion_capex": "$15 million"
+    },
+    "executives": [
+      {
+        "name": "Liz Stine",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jayshree Ullal",
+        "role": "Chairperson and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chantelle Breithaupt",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John McCool",
+        "role": "Executive",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "InfiniBand",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "Ethernet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "Spectrum X",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Tal Liani"
+      },
+      {
+        "technology_name": "Ecolink switch",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John McCool"
+      },
+      {
+        "technology_name": "AI leaf",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John McCool"
+      },
+      {
+        "technology_name": "800 gigabit Ethernet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John McCool"
+      },
+      {
+        "technology_name": "400 gigabit Ethernet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John McCool"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-07 16:30:00"
+  },
+  {
+    "company_name": "Arista Networks Inc",
+    "symbol": "ANET",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Enthusiastic about 2025 with a strong networking outlook, targeting a $70 billion market TAM. Q1 guidance includes revenues of $1.93 billion to $1.97 billion, gross margin of approximately 63%, and operating margin at approximately 44%. Structural tax rate expected to return to 21.5%.",
+      "revenue_guidance_q1_2025": "$1.93 billion to $1.97 billion",
+      "gross_margin_q1_2025": "63%",
+      "operating_margin_2025": "43% to 44%",
+      "tax_rate_2025": "21.5%",
+      "cash_and_equivalents": "$8 billion"
+    },
+    "executives": [
+      {
+        "name": "Rudolph Araujo",
+        "role": "Head of Investor Advocacy",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jayshree Ullal",
+        "role": "Chairperson and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chantelle Breithaupt",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John McCool",
+        "role": "Unknown",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "GPUs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "InfiniBand",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "ASICs",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Ng"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "Sovereign Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      },
+      {
+        "technology_name": "Neo Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jayshree Ullal"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-18 16:30:00"
+  }
+]

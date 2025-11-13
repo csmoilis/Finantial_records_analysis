@@ -1,0 +1,340 @@
+[
+  {
+    "company_name": "Align Technology, Inc.",
+    "symbol": "ALGN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Clear Aligner revenue outlook raised by 1% for the full year, now expecting midpoint of 7% year-over-year growth.",
+      "revenue_growth": "+7%"
+    },
+    "executives": [
+      {
+        "name": "Joseph Hogan",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Morici",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Shirley Stacy",
+        "role": "VP, Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Elizabeth Anderson",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Brandon Vazquez",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jason Bednar",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael Ryskin",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Kevin Caliendo",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Nathan Rich",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Invisalign First",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joseph Hogan"
+      },
+      {
+        "technology_name": "IPE",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Bednar"
+      },
+      {
+        "technology_name": "Lumina",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jason Bednar"
+      },
+      {
+        "technology_name": "DSP",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Ryskin"
+      },
+      {
+        "technology_name": "Heartland",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Kevin Caliendo"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-04-24 16:30:00"
+  },
+  {
+    "company_name": "Align Technology, Inc.",
+    "symbol": "ALGN",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "4% to 6%",
+      "outlook_summary": "Expects Q3 worldwide revenues in the range of $980 million to $1 billion. Fiscal 2024 total revenue growth is expected to be up 4% to 6% year-over-year. Expects Q3 Clear Aligner volume and ASPs to be down sequentially. Fiscal 2024 GAAP operating margin to be slightly below 2023, while 2024 non-GAAP operating margin to be above 2023."
+    },
+    "executives": [
+      {
+        "name": "Joe Hogan",
+        "role": "President and CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "John Morici",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Shirley Stacy",
+        "role": "Vice President of Corporate Communications and Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "iTero Lumina",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Morici"
+      },
+      {
+        "technology_name": "Clear Aligner",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "down sequentially",
+        "mentioned_by": "John Morici"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-24 16:30:00"
+  },
+  {
+    "company_name": "Align Technology, Inc.",
+    "symbol": "ALGN",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Expects Q4 '24 Systems and Services revenues to be up sequentially. Q4 '24 GAAP operating margin to be slightly lower than 14% due to restructuring charges. Q4 '24 non-GAAP operating margin to be slightly up sequentially. Fiscal 2024 investments in capital expenditures to be above $100 million.",
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Joe Hogan",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Morici",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Shirley Stacy",
+        "role": "Vice President of Corporate Communications and Investor Relations",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Lumina scanner",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joe Hogan"
+      },
+      {
+        "technology_name": "ortho software",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joe Hogan"
+      },
+      {
+        "technology_name": "restorative software",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joe Hogan"
+      },
+      {
+        "technology_name": "digital dentistry technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joe Hogan"
+      },
+      {
+        "technology_name": "digital orthodontics",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joe Hogan"
+      },
+      {
+        "technology_name": "3D printing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "pouring a lot of money",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joe Hogan"
+      },
+      {
+        "technology_name": "ClinCheck",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joe Hogan"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-23 16:30:00"
+  },
+  {
+    "company_name": "Align Technology, Inc.",
+    "symbol": "ALGN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "6%",
+      "outlook_summary": "Expects 2025 GAAP operating margin to be approximately 2 points above 2024 GAAP operating margin, and 2025 non-GAAP operating margin to be approximately 22.5%. Expects fiscal 2025 capital expenditures to be between $100 million and $150 million.",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Shirley Stacy",
+        "role": "Vice President of Corporate Communications and Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Joe Hogan",
+        "role": "President and CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "John Morici",
+        "role": "CFO",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Clear Aligner",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joe Hogan"
+      },
+      {
+        "technology_name": "iTero Lumina intraoral scanner",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "good accretive margin",
+        "mentioned_by": "Joe Hogan"
+      },
+      {
+        "technology_name": "ClinCheck",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Joe Hogan"
+      },
+      {
+        "technology_name": "3D printing fabrication",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Morici"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-05 16:30:00"
+  }
+]

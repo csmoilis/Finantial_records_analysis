@@ -1,0 +1,561 @@
+[
+  {
+    "company_name": "Axon Enterprise, Inc.",
+    "symbol": "AXON",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "34%",
+      "cloud_and_services_revenue_growth": "51.5%",
+      "outlook_summary": "Guidance and commentary indicate a strong outlook for the year, despite a softer Q1 bookings quarter. Expects federal business to have another awesome year with large opportunities in the next few quarters."
+    },
+    "executives": [
+      {
+        "name": "Patrick Smith",
+        "role": "CEO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brittany Bagley",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jeffrey Kunins",
+        "role": "CTO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Joshua Isner",
+        "role": "EVP",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Garnreiter",
+        "role": "EVP",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Body Cameras",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeffrey Kunins"
+      },
+      {
+        "technology_name": "Records Management",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeffrey Kunins"
+      },
+      {
+        "technology_name": "Draft One",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeffrey Kunins"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Trevor Walsh"
+      },
+      {
+        "technology_name": "Axon Fleet",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Trevor Walsh"
+      },
+      {
+        "technology_name": "Fusus",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Trevor Walsh"
+      },
+      {
+        "technology_name": "Cloud Services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+51.5%",
+        "mentioned_by": "Brittany Bagley"
+      },
+      {
+        "technology_name": "TASER 10",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+33%",
+        "mentioned_by": "Brittany Bagley"
+      },
+      {
+        "technology_name": "Cloud",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brittany Bagley"
+      },
+      {
+        "technology_name": "Dispatch",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Ng"
+      },
+      {
+        "technology_name": "Dedrone",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Meta Marshall"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-06 17:00:00"
+  },
+  {
+    "company_name": "Axon Enterprise, Inc.",
+    "symbol": "AXON",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "29.5%",
+      "outlook_summary": "Raising full year 2024 guidance for both revenue and adjusted EBITDA due to strong Q2 performance and pipeline.",
+      "eps_change": null,
+      "rd_investment_change": "additional investments into our drone partnerships"
+    },
+    "executives": [
+      {
+        "name": "Brittany Bagley",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jeff Kunins",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Josh Isner",
+        "role": "Executive",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Software Applications",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brittany Bagley"
+      },
+      {
+        "technology_name": "Evidence.com",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brittany Bagley"
+      },
+      {
+        "technology_name": "Productivity Software",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brittany Bagley"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brittany Bagley"
+      },
+      {
+        "technology_name": "Draft One",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brittany Bagley"
+      },
+      {
+        "technology_name": "Tasers",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brittany Bagley"
+      },
+      {
+        "technology_name": "Body Cameras",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Brittany Bagley"
+      },
+      {
+        "technology_name": "DEMS",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "Redaction Software",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "Transcription Services",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "Respond",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "Fusus",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "VR",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "Drones",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "additional investments",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Josh Isner"
+      },
+      {
+        "technology_name": "Axon Cloud Services",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Mike Ng"
+      },
+      {
+        "technology_name": "Dedrone",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "immaterial",
+        "mentioned_by": "Brittany Bagley"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-06 17:00:00"
+  },
+  {
+    "company_name": "Axon Enterprise, Inc.",
+    "symbol": "AXON",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": ">30% (Q4 guidance)",
+      "adjusted_ebitda_margin": "23.5% (Q4 guidance)",
+      "outlook_summary": "Raising revenue and adjusted EBITDA guidance for Q4 and full year. On track to achieve 2025 revenue target a year early. Expects 25% adjusted EBITDA margin in 2025."
+    },
+    "executives": [
+      {
+        "name": "Josh Isner",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Brittany",
+        "role": "CFO",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Ng",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Erik Lapinski",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Joe Cardoso",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Josh Isner"
+      },
+      {
+        "technology_name": "AI Era plan",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "meaningful driver",
+        "mentioned_by": "Jessica Duncan"
+      },
+      {
+        "technology_name": "TASER 10",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "stabilized margins",
+        "mentioned_by": "Brittany"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-07 17:00:00"
+  },
+  {
+    "company_name": "Axon Enterprise, Inc.",
+    "symbol": "AXON",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "approximately 25% annual growth",
+      "outlook_summary": "Expects 2025 revenue of $2.55B-$2.65B (approx. 25% annual growth), with adjusted EBITDA margins around 25%. CapEx expected to be $140M-$180M, up year-over-year.",
+      "rd_investment_change": "up two points as a percent of revenue for CapEx driven by R&D and manufacturing investments"
+    },
+    "executives": [
+      {
+        "name": "Erik Lapinski",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Rick Smith",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Jeff Kunins",
+        "role": "Executive",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Andrew Sherman",
+        "role": "Executive",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "William Power",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Jeremy Hamblin",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Josh Isner",
+        "role": "Executive",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "TASER 10",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "increased capacity",
+        "revenue_impact": "strong demand",
+        "mentioned_by": "Rick Smith"
+      },
+      {
+        "technology_name": "VR training",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "drives adoption of T10",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "DFR",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "robotics",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "Fusus",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "RTCC",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeff Kunins"
+      },
+      {
+        "technology_name": "AI Era Plan",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "significant pricing increase",
+        "mentioned_by": "William Power"
+      },
+      {
+        "technology_name": "Drones",
+        "technology_sentiment": "positive",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Jeremy Hamblin"
+      },
+      {
+        "technology_name": "Dedrone",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "operational support",
+        "mentioned_by": "Jeremy Hamblin"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-25 17:00:00"
+  }
+]

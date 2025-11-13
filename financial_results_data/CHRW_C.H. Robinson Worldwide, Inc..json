@@ -1,0 +1,345 @@
+[
+  {
+    "company_name": "C.H. Robinson Worldwide, Inc.",
+    "symbol": "CHRW",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "-4% year-over-year",
+      "eps_change": "$0.86",
+      "adjusted_gross_profit": "$658 million, down 4% year-over-year",
+      "outlook_summary": "Soft freight market conditions continue, with potential for cash absorption due to rising ocean rates. Expects seasonal strength in Q2, particularly in the latter half due to produce and beverage businesses."
+    },
+    "executives": [
+      {
+        "name": "Dave Bozeman",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Arun Rajan",
+        "role": "Chief Operating Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike Zechmeister",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Charles Ives",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "pricing science",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Arun Rajan"
+      },
+      {
+        "technology_name": "contract management",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Arun Rajan"
+      },
+      {
+        "technology_name": "digital brokerage technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Arun Rajan"
+      },
+      {
+        "technology_name": "innovative technology",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Bozeman"
+      },
+      {
+        "technology_name": "new operating model",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "David Bozeman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-01 17:00:00"
+  },
+  {
+    "company_name": "C.H. Robinson Worldwide, Inc.",
+    "symbol": "CHRW",
+    "overall_sentiment": "positive",
+    "financials": {
+      "rd_investment_change": "down 20.6% year-over-year",
+      "outlook_summary": "Expects 2024 capital expenditures to be toward the lower end of the previously provided range of $85 million to $95 million. Expects 2024 full year effective tax rate to be in the range of 17% to 19%.",
+      "capital_expenditures": "$19.3 million in Q2",
+      "liquidity": "$925 million",
+      "debt_balance": "$1.6 billion",
+      "net_debt_to_ebitda_leverage": "2.4 times"
+    },
+    "executives": [
+      {
+        "name": "Arun Rajan",
+        "role": "Chief Strategy and Innovation Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Chuck Ives",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dave Bozeman",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Castagnetto",
+        "role": "President of North American Surface Transportation",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mike Zechmeister",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Damon Lee",
+        "role": "Incoming Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Digital Dispatch",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Arun Rajan"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Damon Lee"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-31 17:00:00"
+  },
+  {
+    "company_name": "C.H. Robinson Worldwide, Inc.",
+    "symbol": "CHRW",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Management expressed confidence in improving execution and financial results, with a focus on generating incremental operating income through market share growth and margin expansion. Specific quantitative outlook for Q4 and 2025 metrics were discussed in relation to NAST operating and gross margins.",
+      "revenue_growth": "unclear",
+      "eps_change": "unclear",
+      "rd_investment_change": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Chuck Ives",
+        "role": "Director of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dave Bozeman",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Arun Rajan",
+        "role": "Chief Strategy and Innovation Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Castagnetto",
+        "role": "President of North American Surface Transportation",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Damon Lee",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Gen AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Arun Rajan"
+      },
+      {
+        "technology_name": "innovative technology",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Bozeman"
+      },
+      {
+        "technology_name": "costing and pricing engines",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Castagnetto"
+      },
+      {
+        "technology_name": "productivity initiatives",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+30% improvement",
+        "mentioned_by": "Michael Castagnetto"
+      },
+      {
+        "technology_name": "digital capabilities",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Bozeman"
+      },
+      {
+        "technology_name": "value-added services",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Dave Bozeman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-30 17:00:00"
+  },
+  {
+    "company_name": "C.H. Robinson Worldwide, Inc.",
+    "symbol": "CHRW",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects 2025 capital expenditures between $75 million to $85 million. Expects 2025 full year effective tax rate to be in the range of 18% to 20%. Ended Q4 with approximately $1.2 billion of liquidity.",
+      "rd_investment_change": "ongoing investment in capabilities",
+      "eps_change": "not specified"
+    },
+    "executives": [
+      {
+        "name": "Chuck Ives",
+        "role": "Senior Director of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Dave Bozeman",
+        "role": "President and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Michael Castagnetto",
+        "role": "President of North American Surface Transportation",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Arun Rajan",
+        "role": "Chief Strategy and Innovation Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Damon Lee",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Gen AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Arun Rajan"
+      },
+      {
+        "technology_name": "automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Arun Rajan"
+      },
+      {
+        "technology_name": "digital brokerage",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Arun Rajan"
+      },
+      {
+        "technology_name": "dynamic pricing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Arun Rajan"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-29 18:12:00"
+  }
+]

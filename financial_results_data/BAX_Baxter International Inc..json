@@ -1,0 +1,383 @@
+[
+  {
+    "company_name": "Baxter International Inc.",
+    "symbol": "BAX",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "+2% reported, +3% constant currency",
+      "eps_change": "Q2 EPS below expectations, Q1 margins above expectations",
+      "rd_investment_change": "Increasing R&D dollar value in 2024 and 2025, though not as a percentage of sales",
+      "outlook_summary": "Full year global sales growth guidance increased for MPT; Q2 and full year outlook provided."
+    },
+    "executives": [
+      {
+        "name": "José Almeida",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Joel Grade",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Clare Trachtman",
+        "role": "N/A",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Healthcare tech",
+        "technology_sentiment": "negative",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "underperformed in Q1",
+        "mentioned_by": "Vijay Kumar"
+      },
+      {
+        "technology_name": "Novum IQ",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "contribute incremental $25 million to infusion pump sales",
+        "mentioned_by": "José Almeida"
+      },
+      {
+        "technology_name": "Smart beds",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "José Almeida"
+      },
+      {
+        "technology_name": "Connectivity Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "delivering bigger sales impacts as we move into '25 and 2026",
+        "mentioned_by": "Joshua Jennings"
+      },
+      {
+        "technology_name": "Connex gateway",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "connects devices",
+        "mentioned_by": "José Almeida"
+      },
+      {
+        "technology_name": "Drug compounding",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "high double-digit growth",
+        "mentioned_by": "Robert Marcus"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-02 08:30:00"
+  },
+  {
+    "company_name": "Baxter International Inc.",
+    "symbol": "BAX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "3% reported, 4% constant currency",
+      "eps_change": "24% increase YoY for adjusted EPS",
+      "rd_investment_change": "unclear",
+      "outlook_summary": "Increased full year sales outlook and adjusted EPS guidance; expect full year adjusted EPS of $2.93 to $3.01"
+    },
+    "executives": [
+      {
+        "name": "Joe Almeida",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Joel Grade",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Clare Trachtman",
+        "role": "Senior Vice President, Chief Investor Relations Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Patient Support Systems",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "Infusion Therapies",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "Peritoneal Dialysis",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "Drug Compounding",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "IV solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "Infusion systems",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "Nutrition",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "Novum platform",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Clare Trachtman"
+      },
+      {
+        "technology_name": "Care and Connectivity Solutions",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "FLC",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "positive",
+        "mentioned_by": "Clare Trachtman"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-08-06 08:30:00"
+  },
+  {
+    "company_name": "Baxter International Inc.",
+    "symbol": "BAX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+4%",
+      "eps_change": "+14% (adjusted continuing operations)",
+      "rd_investment_change": "modest growth",
+      "outlook_summary": "Expects modest growth in R&D, leverage in SG&A, full business recovery from operational issues by end of Q4 2024, and stabilization of Primary Care market into 2025."
+    },
+    "executives": [
+      {
+        "name": "Joe Almeida",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Joel Grade",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Clare Trachtman",
+        "role": "Moderator",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "David Roman",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Infusion Therapies",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+7%",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "Novum IQ pump platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+7%",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "Pumps and sets",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+7%",
+        "mentioned_by": "Joe Almeida"
+      },
+      {
+        "technology_name": "Injectables",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "mid-single-digit growth",
+        "mentioned_by": "Joe Almeida"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-11-08 08:30:00"
+  },
+  {
+    "company_name": "Baxter International Inc.",
+    "symbol": "BAX",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "+1% reported, +2% constant currency (Q4)",
+      "eps_change": "-11% year-over-year (Q4 adjusted EPS)",
+      "outlook_summary": "Results ahead of prior guidance on top and bottom lines. Full year 2024 sales increased 3%. Full year 2024 adjusted EPS increased 11%."
+    },
+    "executives": [
+      {
+        "name": "Brent Shafer",
+        "role": "Chair and Interim Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Joel Grade",
+        "role": "Executive Vice President and Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Heather Knight",
+        "role": "Chief Operating Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Clare Trachtman",
+        "role": "N/A",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Novum pump",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+ significant growth",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "compounding",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+ mix improvement",
+        "mentioned_by": "Joel Grade"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-02-20 08:30:00"
+  }
+]

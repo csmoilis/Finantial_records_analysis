@@ -1,0 +1,428 @@
+[
+  {
+    "company_name": "Accenture plc",
+    "symbol": "ACN",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "1%",
+      "outlook_summary": "Expects 2% to 5% revenue growth for fiscal year 2024, with sequential growth in the back half of the year. Q2 is shaping up similarly to Q1 year-over-year. Higher growth at the top end of the range would see Strategy & Consulting reconnecting with growth and managed services in high-single digits."
+    },
+    "executives": [
+      {
+        "name": "Katie O'Conor",
+        "role": "Managing Director, Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Julie Sweet",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "KC McClure",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "GenAI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "Digital Core",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "+10%",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "Cloud Migration",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "ERP",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "Data",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "Security",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2023-12-19 08:00:00"
+  },
+  {
+    "company_name": "Accenture plc",
+    "symbol": "ACN",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "revenue_growth": "flat",
+      "eps_change": "+3%",
+      "outlook_summary": "Slightly above the midpoint of their range, with an expectation of improved spending in parts of EMEA and North America, though with slower decision-making and spending on smaller projects."
+    },
+    "executives": [
+      {
+        "name": "Katie O'Conor",
+        "role": "Managing Director, Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Julie Sweet",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "KC McClure",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "James Faucette",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "up 10%",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "Generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "$1.1 billion in sales in H1",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "Data",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "KC McClure"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "KC McClure"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-03-21 08:00:00"
+  },
+  {
+    "company_name": "Accenture plc",
+    "symbol": "ACN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "Expects stronger growth next year, with consensus at 6%."
+    },
+    "executives": [
+      {
+        "name": "Katie O'Conor",
+        "role": "Managing Director, Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Julie Sweet",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "KC McClure",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "GenAI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "digital platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "digital manufacturing",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "high single digits",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "Industry X",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "high single digits",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "software-defined vehicles",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "cloud platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "automation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "digital core",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "generative AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "SynOps platform",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "mainframe systems",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-06-20 08:00:00"
+  },
+  {
+    "company_name": "Accenture plc",
+    "symbol": "ACN",
+    "overall_sentiment": "positive",
+    "financials": {
+      "revenue_growth": "2%",
+      "eps_change": "2%",
+      "rd_investment_change": "+1.2B USD",
+      "outlook_summary": "Revenue guidance for FY25 is 3% to 6% on a constant currency basis."
+    },
+    "executives": [
+      {
+        "name": "Katie O'Conor",
+        "role": "Managing Director, Head of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Julie Sweet",
+        "role": "Chair and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "KC McClure",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Angie Park",
+        "role": "Incoming Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bryan Keane",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Keith Bachman",
+        "role": "Analyst",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "GenAI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "3B USD (bookings)",
+        "revenue_impact": "+100M USD (Q4 revenue)",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "1.2B USD",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "Digital Transformation",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "moderate",
+        "mentioned_by": "Julie Sweet"
+      },
+      {
+        "technology_name": "Data",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "significant",
+        "mentioned_by": "Julie Sweet"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2024-09-26 08:00:00"
+  }
+]

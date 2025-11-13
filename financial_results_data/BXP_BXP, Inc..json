@@ -1,0 +1,288 @@
+[
+  {
+    "company_name": "BXP, Inc.",
+    "symbol": "BXP",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Guidance includes an additional rate cut late in the year, but this will not have a meaningful impact on the guidance range. Expects NOI to be up in Q3 and Q4 due to occupancy improvements.",
+      "eps_change": "flat",
+      "revenue_growth": "unclear"
+    },
+    "executives": [
+      {
+        "name": "Douglas Linde",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Michael LaBelle",
+        "role": "CFO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Owen Thomas",
+        "role": "CEO",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Bryan Koop",
+        "role": "unknown",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Rodney Diehl",
+        "role": "unknown",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "multifamily development",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael Goldsmith"
+      },
+      {
+        "technology_name": "commercial paper",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "short-term",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Michael LaBelle"
+      },
+      {
+        "technology_name": "life science",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Bryan Koop"
+      },
+      {
+        "technology_name": "office space",
+        "technology_sentiment": "neutral",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "low potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Richard Anderson"
+      },
+      {
+        "technology_name": "residential tower",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "moderate potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Owen Thomas"
+      }
+    ],
+    "year": 2024,
+    "quarter": 1,
+    "date": "2024-05-01 10:00:00"
+  },
+  {
+    "company_name": "BXP, Inc.",
+    "symbol": "BXP",
+    "overall_sentiment": "neutral",
+    "financials": {
+      "outlook_summary": "Leverage is expected to temporarily increase due to development pipeline funding but will moderate as developments stabilize and deliver.",
+      "revenue_growth": null,
+      "eps_change": null,
+      "rd_investment_change": null
+    },
+    "executives": [
+      {
+        "name": "Michael LaBelle",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Helen Han",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Owen Thomas",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Doug Linde",
+        "role": "President",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ray Ritchie",
+        "role": "Senior Executive Vice President",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Tech",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Douglas Linde"
+      },
+      {
+        "technology_name": "Life Science",
+        "technology_sentiment": "positive",
+        "investment_action": "investing",
+        "investment_horizon": "long-term",
+        "profit_outlook": "high potential",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Douglas Linde"
+      }
+    ],
+    "year": 2024,
+    "quarter": 2,
+    "date": "2024-07-31 10:00:00"
+  },
+  {
+    "company_name": "BXP, Inc.",
+    "symbol": "BXP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "ffo_per_share": "$0.01 above forecast",
+      "leasing_volume_q3_growth": "+5% vs Q3 2023",
+      "leasing_volume_ytd_growth": "+25% vs YTD 2023",
+      "leasing_term_office": "7.2 years",
+      "sp500_earnings_growth_2024_expected": "+9.9%",
+      "interest_expense_outlook_2025": "flat to modestly lower",
+      "outlook_summary": "Modestly beat FFO guidance for the quarter and maintained full year earnings expectations. Expects FFO to increase in 2025 due to occupancy improvements, development coming online, and debt refinancing."
+    },
+    "executives": [
+      {
+        "name": "Owen Thomas",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Helen Han",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Doug Linde",
+        "role": "President",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Mike LaBelle",
+        "role": "Chief Financial Officer",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Ray Ritchie",
+        "role": "Senior Executive Vice President",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "Sustainability",
+        "technology_sentiment": "positive",
+        "investment_action": "maintaining",
+        "investment_horizon": "ongoing",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "Owen Thomas"
+      },
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      },
+      {
+        "technology_name": "Cloud Computing",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "unclear"
+      }
+    ],
+    "year": 2024,
+    "quarter": 3,
+    "date": "2024-10-30 10:00:00"
+  },
+  {
+    "company_name": "BXP, Inc.",
+    "symbol": "BXP",
+    "overall_sentiment": "positive",
+    "financials": {
+      "outlook_summary": "FFO per share in line with forecast for Q4. Expects FAD to be a little lower in 2025 than 2024, but cash flow from the portfolio is increasing. Meaningful increases in NOI from same property portfolio and development expected in 2026 and 2027.",
+      "leasing_volume_q4": "2.3 million square feet",
+      "leasing_volume_2024": "5.6 million square feet",
+      "average_lease_term": "under 10 years",
+      "rents_midtown_boston": "higher in 2024 than 2023, will be higher in 2025",
+      "rents_midtown_manhattan": "double digit increases between '23 and '24, expected in '25 to '26"
+    },
+    "executives": [
+      {
+        "name": "Owen Thomas",
+        "role": "Chairman and Chief Executive Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Helen Han",
+        "role": "Vice President of Investor Relations",
+        "sentiment": "neutral"
+      },
+      {
+        "name": "Doug Linde",
+        "role": "President",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Mike LaBelle",
+        "role": "Chief Financial Officer",
+        "sentiment": "positive"
+      },
+      {
+        "name": "Ray Ritchie",
+        "role": "Senior Executive Vice President",
+        "sentiment": "neutral"
+      }
+    ],
+    "technologies": [
+      {
+        "technology_name": "AI",
+        "technology_sentiment": "neutral",
+        "investment_action": "unclear",
+        "investment_horizon": "unclear",
+        "profit_outlook": "unclear",
+        "rd_investment": "unclear",
+        "revenue_impact": "unclear",
+        "mentioned_by": "John Kim"
+      }
+    ],
+    "year": 2024,
+    "quarter": 4,
+    "date": "2025-01-29 10:00:00"
+  }
+]
