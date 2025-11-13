@@ -25,6 +25,8 @@ Embedding: An Ollama embedding model was used to process the prioritized chunks,
 
 Extraction: A Gemini model processed the embedded data to generate a structured JSON file containing the attributes of interest (e.g., company name, technologies mentioned).
 
+Output: Folder finantial_records_data
+
 3. 02_EDA.ipynb: Exploratory Data Analysis
 Performs exploratory data analysis on the JSON files generated in the previous step.
 
