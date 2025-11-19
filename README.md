@@ -35,6 +35,9 @@ This script generates insights and visualizations about the distribution of tech
 4. 03_create_knowleadge_graph.ipynb: Network Construction
 Uses the structured JSON data to build a knowledge graph.
 
+5. 04_graph_analysis.pynb
+This file show the results from 03 in a notebook format to see plots and centrality measuares.
+   
 This graph maps the bipartite relationships between Companies and the Technologies they mention, forming the basis for the network analysis.
 
 ## Key Findings
