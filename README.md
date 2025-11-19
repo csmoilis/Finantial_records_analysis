@@ -37,7 +37,39 @@ Uses the structured JSON data to build a knowledge graph.
 
 This graph maps the bipartite relationships between Companies and the Technologies they mention, forming the basis for the network analysis.
 
-Key Findings
+## Key Findings
+
+# Network Centrality Analysis: Companies vs. Technologies
+
+Based on the graph analysis output, we can evaluate the structural importance of specific companies and technologies within the network. The data is categorized by **Degree** (connections), **Betweenness** (brokerage ability), and **Eigenvector** (influence).
+
+## 1. Top Companies by Connectivity
+
+The following companies have the highest "Degree" centrality, indicating they have the most direct links in the dataset.
+
+| Rank | Company | Degree | Betweenness | Eigenvector | Website |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | **Analog Devices, Inc.** | 0.117188 | 0.034876 | 0.133554 | [analog.com](https://www.analog.com) |
+| 2 | **Applied Materials, Inc.** | 0.093750 | 0.017646 | 0.137164 | [appliedmaterials.com](https://www.appliedmaterials.com) |
+| 3 | **Amphenol Corporation** | 0.070312 | 0.015438 | 0.083062 | [amphenol.com](https://www.amphenol.com) |
+
+## 2. Top Technologies by Network Impact
+
+Technologies show significantly higher centrality scores than individual companies, suggesting they act as the primary hubs of this network. Note that the ranking order shifts slightly between metrics.
+
+| Technology Node | Degree (Most Used) | Betweenness (Best Broker) | Eigenvector (Most Influential) |
+| :--- | :--- | :--- | :--- |
+| **AI & Machine Learning** | **0.554688 (1st)** | **0.295911 (1st)** | **0.385379 (1st)** |
+| **Cloud & Data Center** | 0.437500 (2nd) | 0.161738 (3rd) | 0.307624 (2nd) |
+| **Software & Platforms** | 0.398438 (3rd) | 0.171698 (2nd) | 0.281470 (3rd) |
+
+## 3. Analytical Conclusion
+
+The network topology reveals a technology-centric ecosystem driven by three major pillars, with specific hardware companies acting as key facilitators.
+
+### A. The Dominance of AI
+**AI & Machine Learning** is the unequivocal center of this network.
+* **Score Analysis:** It holds the top score in every category. With a Degree of `0.55`, it is connected to over
 Analysis of the Company-Technology graph revealed a significant concentration of companies involved in AI & Machine Learning.
 
 This technology category does not exist in isolation; it serves as a central hub connected to other foundational technologies:
